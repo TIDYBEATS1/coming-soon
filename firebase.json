@@ -1,0 +1,38 @@
+[
+  {
+    "id": "00000001",
+    "name": "Tulin",
+    "imageURL": "https://amiibo.life/images/amiibo/tulin.png",
+    "releaseDate": "2025-06-05"
+  },
+  {
+    "id": "00000002",
+    "name": "Yunobo",
+    "imageURL": "https://amiibo.life/images/amiibo/yunobo.png",
+    "releaseDate": "2025-06-05"
+  },
+  {
+    "id": "00000003",
+    "name": "Sidon",
+    "imageURL": "https://amiibo.life/images/amiibo/sidon.png",
+    "releaseDate": "2025-06-05"
+  },
+  {
+    "id": "00000004",
+    "name": "Riju",
+    "imageURL": "https://amiibo.life/images/amiibo/riju.png",
+    "releaseDate": "2025-06-05"
+  },
+  {
+    "id": "00000005",
+    "name": "Mineru's Construct",
+    "imageURL": "https://amiibo.life/images/amiibo/minerus_construct.png",
+    "releaseDate": "TBA"
+  },
+  {
+    "id": "00000006",
+    "name": "Mario and Luma",
+    "imageURL": "https://amiibo.life/images/amiibo/mario_and_luma.png",
+    "releaseDate": "2026-04-02"
+  }
+]
