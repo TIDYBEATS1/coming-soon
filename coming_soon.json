@@ -63,17 +63,17 @@
     "region": "ALL"
   },
  {
-    "id": "00000010”,
+    "id": "00000010",
     "name": "Ratha",
     "imageURL": "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/ratha-89a31cddb70f06f6eb1ec65aebd446296efac413031a1b6cda44f4f36577253e.png",
     "releaseDate": "TBA",
-    "region": “JP”
+    "region": "JP"
   },
- {
-    "id": "00000011”,
+  {
+    "id": "00000011",
     "name": "Ratha V",
     "imageURL": "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/ratha-v-1c0688425630a85062021b3a06b0d9d7f56f1337ceae899f4609d4c86ed990d4.png",
     "releaseDate": "TBA",
-    "region": “JP”
+    "region": "JP"
   }
 ]
