@@ -1,86 +1,86 @@
 [
   {
-    "region" : "ALL",
-    "id" : "00000001",
-    "name" : "Samus (Metroid Prime 4)",
-    "imageURL" : "https:\/\/raw.githubusercontent.com\/TIDYBEATS1\/coming-soon\/refs\/heads\/main\/images\/samus-metroid-prime-4-1601af9c5123dbff9e806aef2707de2868b5d2eaf2cea8053d3ede553f421960.png",
-    "releaseDate" : "06-11-2025"
+    "id": "00000001",
+    "name": "Samus (Metroid Prime 4)",
+    "imageURL": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/samus-metroid-prime-4-1601af9c5123dbff9e806aef2707de2868b5d2eaf2cea8053d3ede553f421960.png",
+    "releaseDate": "06-11-2025",
+    "region": "ALL"
   },
   {
-    "region" : "ALL",
-    "id" : "00000002",
-    "name" : "Samus & Vi-O-La",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/metroid\/samus-vi-o-la-462368bf458acc181a6bc18c2573b20047e304e50991fdda4f75d22119e62c94.png",
-    "releaseDate" : "06-11-2025"
+    "id": "00000002",
+    "name": "Samus & Vi-O-La",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/metroid/samus-vi-o-la-462368bf458acc181a6bc18c2573b20047e304e50991fdda4f75d22119e62c94.png",
+    "releaseDate": "06-11-2025",
+    "region": "ALL"
   },
   {
-    "region" : "ALL",
-    "id" : "00000003",
-    "name" : "Kirby & Warp Star",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/kirby-air-riders\/kirby-warp-star-baacf088832f930b5e6084315a410841327024a80e66159cd951302588372608.png",
-    "releaseDate" : "20-11-2025"
+    "id": "00000003",
+    "name": "Kirby & Warp Star",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/kirby-warp-star-baacf088832f930b5e6084315a410841327024a80e66159cd951302588372608.png",
+    "releaseDate": "20-11-2025",
+    "region": "ALL"
   },
   {
-    "region" : "ALL",
-    "id" : "00000004",
-    "name" : "Bandana Waddle Dee & Winged Star",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/kirby-air-riders\/bandana-waddle-dee-winged-star-a920dd4667a75c211f54735325e9c76223782dca1fae1181f3157b4116ba56c0.png",
-    "releaseDate" : "20-11-2025"
+    "id": "00000004",
+    "name": "Bandana Waddle Dee & Winged Star",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/bandana-waddle-dee-winged-star-a920dd4667a75c211f54735325e9c76223782dca1fae1181f3157b4116ba56c0.png",
+    "releaseDate": "20-11-2025",
+    "region": "ALL"
   },
   {
-    "region" : "ALL",
-    "id" : "00000005",
-    "name" : "Sylux",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/metroid\/sylux-13be3d3c7dce6f897a7ea969bf7a521aecc54a63db63ee44d5981345b3e36bde.png",
-    "releaseDate" : "04-12-2025"
+    "id": "00000005",
+    "name": "Sylux",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/metroid/sylux-13be3d3c7dce6f897a7ea969bf7a521aecc54a63db63ee44d5981345b3e36bde.png",
+    "releaseDate": "04-12-2025",
+    "region": "ALL"
   },
   {
-    "region" : "ALL",
-    "id" : "00000006",
-    "name" : "Mario and Luma",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/super-mario\/mario-and-luma-98e30f15d7fd28e9487b05797123abd22215abcb578d6c8f129241f9a6acd7e9.png",
-    "releaseDate" : "02-04-2026"
+    "id": "00000006",
+    "name": "Mario and Luma",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/mario-and-luma-98e30f15d7fd28e9487b05797123abd22215abcb578d6c8f129241f9a6acd7e9.png",
+    "releaseDate": "02-04-2026",
+    "region": "ALL"
   },
   {
-    "region" : "JP",
-    "id" : "00000007",
-    "name" : "Street Fighter 6 Booster Pack",
-    "imageURL" : "https:\/\/raw.githubusercontent.com\/TIDYBEATS1\/coming-soon\/refs\/heads\/main\/images\/m-bison-9e90b1a3d0debdc404879a53368aeae84fea0185817b7863f7e198bd1327eff8.png",
-    "releaseDate" : "2025-09-30"
+    "id": "00000007",
+    "name": "Street Fighter 6 Booster Pack",
+    "imageURL": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/m-bison-9e90b1a3d0debdc404879a53368aeae84fea0185817b7863f7e198bd1327eff8.png",
+    "releaseDate": "2025-09-30",
+    "region": "JP"
   },
   {
-    "region" : "ALL",
-    "id" : "00000008",
-    "name" : "Rosalina and Lumas",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/super-mario\/rosalina-and-lumas-f51a3258399488c3b6b6fc665d76a5c396c3d4f083dca24b8c5a6f5473bf0b65.png",
-    "releaseDate" : "02-04-2026"
+    "id": "00000008",
+    "name": "Rosalina and Lumas",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/rosalina-and-lumas-f51a3258399488c3b6b6fc665d76a5c396c3d4f083dca24b8c5a6f5473bf0b65.png",
+    "releaseDate": "02-04-2026",
+    "region": "ALL"
   },
   {
-    "region" : "ALL",
-    "id" : "00000009",
-    "name" : "Mineru's Construct",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/the-legend-of-zelda\/mineru-s-construct-97ed7d1010558ea1449e71e89499ce1845c5f4d9884728a6b17384cf30a2d2de.png",
-    "releaseDate" : "TBA"
+    "id": "00000009",
+    "name": "Mineru's Construct",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/mineru-s-construct-97ed7d1010558ea1449e71e89499ce1845c5f4d9884728a6b17384cf30a2d2de.png",
+    "releaseDate": "TBA",
+    "region": "ALL"
   },
   {
-    "region" : "JP",
-    "id" : "00000010",
-    "name" : "Ratha",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/monster-hunter-stories\/ratha-89a31cddb70f06f6eb1ec65aebd446296efac413031a1b6cda44f4f36577253e.png",
-    "releaseDate" : "TBA"
+    "id": "00000010",
+    "name": "Ratha",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/ratha-89a31cddb70f06f6eb1ec65aebd446296efac413031a1b6cda44f4f36577253e.png",
+    "releaseDate": "TBA",
+    "region": "JP"
   },
   {
-    "region" : "JP",
-    "id" : "00000011",
-    "name" : "Ratha V",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/monster-hunter-stories\/ratha-v-1c0688425630a85062021b3a06b0d9d7f56f1337ceae899f4609d4c86ed990d4.png",
-    "releaseDate" : "TBA"
+    "id": "00000011",
+    "name": "Ratha V",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/ratha-v-1c0688425630a85062021b3a06b0d9d7f56f1337ceae899f4609d4c86ed990d4.png",
+    "releaseDate": "TBA",
+    "region": "JP"
   },
   {
-    "region" : "JP",
-    "id" : "C2B8C745",
-    "name" : "Rudy",
-    "imageURL" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/monster-hunter-stories\/rudy-af552253ac02980ddfc74a53b0ce07bf49100934a13b6826eebbcd07315505e4.png",
-    "releaseDate" : "TBA"
+    "id": "C2B8C745",
+    "name": "Rudy",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/rudy-af552253ac02980ddfc74a53b0ce07bf49100934a13b6826eebbcd07315505e4.png",
+    "releaseDate": "TBA",
+    "region": "JP"
   }
 ]
