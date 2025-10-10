@@ -1,9 +1,18 @@
 {
-  "version": "v1.4",
-  "changes": [
-    "• Updated Animal Crossing amiibo data",
-    "• Added new 'Super Smash Bros' subcategories",
-    "• Fixed release date formatting for Japan region",
-    "• Improved load time for All Amiibo View"
-  ]
+  "appUpdates": {
+    "version": "v1.3",
+    "changes": [
+      "Added new Animal Crossing amiibo data",
+      "Refreshed category layout for iOS",
+      "Improved game compatibility information"
+    ]
+  },
+  "otaUpdates": {
+    "version": "v1.1",
+    "changes": [
+      "Fixed minor layout bug in settings",
+      "Improved performance on launch",
+      "Added better caching for amiibo images"
+    ]
+  }
 }
