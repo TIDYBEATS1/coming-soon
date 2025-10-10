@@ -1,18 +1,55 @@
 {
-  "appUpdates": {
-    "version": "v1.3",
-    "changes": [
-      "Added new Animal Crossing amiibo data",
-      "Refreshed category layout for iOS",
-      "Improved game compatibility information"
-    ]
-  },
-  "otaUpdates": {
-    "version": "v1.1",
-    "changes": [
-      "Fixed minor layout bug in settings",
-      "Improved performance on launch",
-      "Added better caching for amiibo images"
-    ]
-  }
+  "appUpdates": [
+    {
+      "version": "2.7",
+      "changes": [
+        "Added Collection Stats",
+        "Fixed Sort By (Newest)",
+        "Added Notes To Each Amiibo",
+        "Added Ability To Copy Text From Compatible Games"
+      ]
+    },
+    {
+      "version": "2.5",
+      "changes": [
+        "Added Coming Soon",
+        "Fixed Some Colour Issues",
+        "Added Import and Export",
+        "Added Legacy and New Categories"
+      ]
+    },
+    {
+      "version": "2.1",
+      "changes": [
+        "Just Bug Fixing With UI"
+      ]
+    },
+    {
+      "version": "2.0",
+      "changes": [
+        "Updated UI to iOS 26",
+        "Added Colored Themes",
+        "Added Favorites",
+        "Added Private Setting (Make Your Profile Private)",
+        "Added Sign In With Google",
+        "Added Sign In With Apple",
+        "Updated Support Page",
+        "Added Changing App Icon",
+        "Updated Amiibo Info Console Icons",
+        "Added More Tabs",
+        "Added More IDs To Each Amiibo Info",
+        "Added Support For iPhone 17"
+      ]
+    }
+  ],
+  "otaUpdates": [
+    {
+      "version": "v1.1",
+      "changes": [
+        "Fixed minor layout bug in settings",
+        "Improved performance on launch",
+        "Added better caching for amiibo images"
+      ]
+    }
+  ]
 }
