@@ -1,6 +1,9 @@
 {
-  "version": "v1.3",
-  "title": "App has had some updates",
-  "message": "Check by going to Settings → Update Info.\n- New Amiibo data added\n- Improved categories\n- Bug fixes",
-  "date": "2025-10-10"
+  "version": "v1.4",
+  "changes": [
+    "• Updated Animal Crossing amiibo data",
+    "• Added new 'Super Smash Bros' subcategories",
+    "• Fixed release date formatting for Japan region",
+    "• Improved load time for All Amiibo View"
+  ]
 }
