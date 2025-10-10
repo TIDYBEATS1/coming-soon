@@ -1,5 +1,11 @@
 {
   "appUpdates": [
+     {
+      "version": "2.8",
+      "changes": [
+        "Added Ability For Dev To Be Able To Update Text Without Updating App"
+      ]
+    },
     {
       "version": "2.7",
       "changes": [
@@ -44,12 +50,8 @@
   ],
   "otaUpdates": [
     {
-      "version": "v1.1",
-      "changes": [
-        "Fixed minor layout bug in settings",
-        "Improved performance on launch",
-        "Added better caching for amiibo images"
-      ]
+      "version": "",
+      "changes": []
     }
   ]
 }
