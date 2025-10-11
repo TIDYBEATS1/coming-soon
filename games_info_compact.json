@@ -16634,6 +16634,23 @@
       },
       "hasGames" : true
     },
+    "0x34c2000104cd1d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
     "0x34c0000002530002" : {
       "games" : {
         "3DS" : [
@@ -16707,6 +16724,23 @@
       },
       "hasGames" : true
     },
+    "0x34c3000104ce1d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
     "0x34c4000004ae1d02" : {
       "games" : {
         "3DS" : [
@@ -16725,6 +16759,23 @@
       "hasGames" : true
     },
     "0x34c4000104af1d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x34c4000104cf1d02" : {
       "games" : {
         "3DS" : [
 
@@ -16898,7 +16949,41 @@
       },
       "hasGames" : true
     },
+    "0x34cc000104d71d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
     "0x34cd000104b81d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x34cd000104d81d02" : {
       "games" : {
         "3DS" : [
 
@@ -17068,6 +17153,91 @@
       },
       "hasGames" : true,
       "name" : "Street Fighter 6"
+    },
+    "0x34d8000104e31d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x34d9000104e41d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x34da000104e51d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x34db000104e61d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x34dc000104e71d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
     },
     "0x035a000100850502" : {
       "games" : {
