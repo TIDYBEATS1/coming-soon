@@ -1,10 +1,11 @@
 {
-  "games" : [
+  "games": [
     "Ace Combat Assault Horizon Legacy +",
     "Animal Crossing: Amiibo Festival",
     "Animal Crossing: Happy Home Designer",
     "Animal Crossing: New Horizons",
     "Animal Crossing: New Leaf",
+    "amiibo tap: Nintendo's Greatest Bits",
     "Azure Striker Gunvolt 2",
     "Azure Striker Gunvolt: Striker Pack",
     "Bayonetta 2",
@@ -34,6 +35,7 @@
     "Kirby and the Forgotten Land",
     "Kirby and the Rainbow Curse",
     "Kirby Battle Royale",
+    "Kirby: Planet Robobot",
     "Kirby's Blowout Blast",
     "Kirby's Extra Epic Yarn",
     "Kirby's Return to Dream Land Deluxe",
@@ -83,6 +85,7 @@
     "Star Fox Zero",
     "Street Fighter 6 (Switch 2)",
     "Super Kirby Clash",
+    "Super Mario 3D World",
     "Super Mario 3D World + Bowser's Fury",
     "Super Mario Maker",
     "Super Mario Odyssey",
@@ -90,6 +93,8 @@
     "Super Smash Bros. for Nintendo 3DS",
     "Super Smash Bros. for Wii U",
     "Super Smash Bros. Ultimate",
+    "Style Savvy: Fashion Forward",
+    "Style Savvy: Styling Star",
     "Taiko Drum Master: Atsumete Tomodachi Daisakusen (Japan)",
     "Team Kirby Clash Deluxe",
     "Teddy Together",
@@ -105,15 +110,6 @@
     "Xenoblade Chronicles 3D",
     "Yoshi's Crafted World",
     "Yoshi's Woolly World",
-    "Yu-Gi-Oh! Rush Duel Saikyo Battle Royale (Japan)",
-    "amiibo tap: Nintendo's Greatest Bits",
-    "Super Mario 3D World",
-    "Fire Emblem Warriors: Three Hopes",
-    "Hyrule Warriors: Age of Calamity",
-    "The Legend of Zelda: Breath of the Wild",
-    "Kirby: Planet Robobot",
-    "Kirby's Blowout Blast",
-    "Style Savvy: Fashion Forward",
-    "Style Savvy: Styling Star"
+    "Yu-Gi-Oh! Rush Duel Saikyo Battle Royale (Japan)"
   ]
 }
