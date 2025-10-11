@@ -17013,6 +17013,20 @@
       },
       "hasGames" : true
     },
+    "0x34d6000104e11d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
     "0x035a000100850502" : {
       "games" : {
         "3DS" : [
