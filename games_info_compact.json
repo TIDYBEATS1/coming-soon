@@ -17575,6 +17575,23 @@
       },
       "hasGames" : true
     },
+    "0x34d9000104ed1d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
     "0x34da000104e51d02" : {
       "games" : {
         "3DS" : [
