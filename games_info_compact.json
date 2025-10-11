@@ -17019,13 +17019,16 @@
 
         ],
         "Switch" : [
-
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \\\/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
         ],
         "WiiU" : [
 
         ]
       },
-      "hasGames" : false,
+      "hasGames" : true,
       "name" : "Street Fighter 6"
     },
     "0x035a000100850502" : {
