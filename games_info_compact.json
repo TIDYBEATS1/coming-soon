@@ -16579,6 +16579,45 @@
       },
       "hasGames" : true
     },
+    "0x34c0000104cb1d02" : {
+      "games" : {
+        "3DS" : [
+          {
+            "name" : "Poochy & Yoshi's Woolly World",
+            "usage" : "Unlock a character-based Yoshi yarn pattern"
+          },
+          {
+            "name" : "Super Smash Bros. for Nintendo 3DS",
+            "usage" : "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+          }
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          },
+          {
+            "name" : "Super Smash Bros. Ultimate",
+            "usage" : "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+          },
+          {
+            "name" : "Resident Evil Revelations",
+            "usage" : "Receive a lot of BP \/ Receive better supplies (compared to other amiibo)"
+          },
+          {
+            "name" : "Resident Evil Revelations 2",
+            "usage" : "Receive a lot of BP \/ Receive better supplies (compared to other amiibo)"
+          }
+        ],
+        "WiiU" : [
+          {
+            "name" : "Super Smash Bros. for Wii U",
+            "usage" : "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+          }
+        ]
+      },
+      "hasGames" : true
+    },
     "0x34c1000104a91d02" : {
       "games" : {
         "3DS" : [
