@@ -1,22 +1,19 @@
 {
-  "otaUpdates" : [
-
-  ],
   "appUpdates" : [
     {
-      "version" : "2.8",
       "changes" : [
         "Added Ability For Dev To Be Able To Update Text Without Updating App"
-      ]
+      ],
+      "version" : "2.8"
     },
     {
-      "version" : "2.7",
       "changes" : [
         "Added Collection Stats",
         "Fixed Sort By (Newest)",
         "Added Notes To Each Amiibo",
         "Added Ability To Copy Text From Compatible Games"
-      ]
+      ],
+      "version" : "2.7"
     },
     {
       "changes" : [
@@ -50,5 +47,8 @@
       ],
       "version" : "2.0"
     }
+  ],
+  "otaUpdates" : [
+
   ]
 }
