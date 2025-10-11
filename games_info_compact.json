@@ -6607,6 +6607,44 @@
       },
       "hasGames" : true
     },
+    "0x3c80000104e81d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \\\/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          },
+          {
+            "name" : "Super Smash Bros. Ultimate",
+            "usage" : "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x3c81000104f21d02" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Street Fighter 6 (Switch 2)",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
     "0x03c0000103100502" : {
       "games" : {
         "3DS" : [
@@ -17028,7 +17066,8 @@
 
         ]
       },
-      "hasGames" : true
+      "hasGames" : true,
+      "name" : "Street Fighter 6"
     },
     "0x035a000100850502" : {
       "games" : {
