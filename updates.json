@@ -1,1 +1,65 @@
-{"appUpdates":[{"changes":["testing update"],"version":"2.9"},{"changes":["Added Ability For Dev To Be Able To Update Text Without Updating App"],"version":"2.8"},{"changes":["Added Collection Stats","Fixed Sort By (Newest)","Added Notes To Each Amiibo","Added Ability To Copy Text From Compatible Games"],"version":"2.7"},{"changes":["Added Coming Soon","Fixed Some Colour Issues","Added Import and Export","Added Legacy and New Categories"],"version":"2.5"},{"changes":["Just Bug Fixing With UI"],"version":"2.1"},{"changes":["Updated UI to iOS 26","Added Colored Themes","Added Favorites","Added Private Setting (Make Your Profile Private)","Added Sign In With Google","Added Sign In With Apple","Updated Support Page","Added Changing App Icon","Updated Amiibo Info Console Icons","Added More Tabs","Added More IDs To Each Amiibo Info","Added Support For iPhone 17"],"version":"2.0"}],"otaUpdates":[{"changes":[],"version":""}]}
+{
+  "appUpdates" : [
+    {
+      "changes" : [
+        "testing update"
+      ],
+      "version" : "2.9"
+    },
+    {
+      "changes" : [
+        "Added Ability For Dev To Be Able To Update Text Without Updating App"
+      ],
+      "version" : "2.8"
+    },
+    {
+      "changes" : [
+        "Added Collection Stats",
+        "Fixed Sort By (Newest)",
+        "Added Notes To Each Amiibo",
+        "Added Ability To Copy Text From Compatible Games"
+      ],
+      "version" : "2.7"
+    },
+    {
+      "changes" : [
+        "Added Coming Soon",
+        "Fixed Some Colour Issues",
+        "Added Import and Export",
+        "Added Legacy and New Categories"
+      ],
+      "version" : "2.5"
+    },
+    {
+      "changes" : [
+        "Just Bug Fixing With UI"
+      ],
+      "version" : "2.1"
+    },
+    {
+      "changes" : [
+        "Updated UI to iOS 26",
+        "Added Colored Themes",
+        "Added Favorites",
+        "Added Private Setting (Make Your Profile Private)",
+        "Added Sign In With Google",
+        "Added Sign In With Apple",
+        "Updated Support Page",
+        "Added Changing App Icon",
+        "Updated Amiibo Info Console Icons",
+        "Added More Tabs",
+        "Added More IDs To Each Amiibo Info",
+        "Added Support For iPhone 17"
+      ],
+      "version" : "2.0"
+    }
+  ],
+  "otaUpdates" : [
+    {
+      "changes" : [
+
+      ],
+      "version" : ""
+    }
+  ]
+}
