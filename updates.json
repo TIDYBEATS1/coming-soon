@@ -2,12 +2,6 @@
   "appUpdates" : [
     {
       "changes" : [
-        "testing update"
-      ],
-      "version" : "2.9"
-    },
-    {
-      "changes" : [
         "Added Ability For Dev To Be Able To Update Text Without Updating App"
       ],
       "version" : "2.8"
@@ -55,11 +49,6 @@
     }
   ],
   "otaUpdates" : [
-    {
-      "changes" : [
-        "dev"
-      ],
-      "version" : "test"
-    }
+
   ]
 }
