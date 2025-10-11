@@ -17025,7 +17025,8 @@
 
         ]
       },
-      "hasGames" : true
+      "hasGames" : false,
+      "name" : "Street Fighter 6"
     },
     "0x035a000100850502" : {
       "games" : {
