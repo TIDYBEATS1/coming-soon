@@ -1,19 +1,5 @@
 [
   {
-    "id": "00000001",
-    "name": "Samus (Metroid Prime 4)",
-    "imageURL": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/samus-metroid-prime-4-1601af9c5123dbff9e806aef2707de2868b5d2eaf2cea8053d3ede553f421960.png",
-    "releaseDate": "06-11-2025",
-    "region": "ALL"
-  },
-  {
-    "id": "00000002",
-    "name": "Samus & Vi-O-La",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/metroid/samus-vi-o-la-462368bf458acc181a6bc18c2573b20047e304e50991fdda4f75d22119e62c94.png",
-    "releaseDate": "06-11-2025",
-    "region": "ALL"
-  },
-  {
     "id": "00000003",
     "name": "Kirby & Warp Star",
     "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/kirby-warp-star-baacf088832f930b5e6084315a410841327024a80e66159cd951302588372608.png",
