@@ -10272,6 +10272,52 @@
       },
       "hasGames" : true
     },
+    "0x05c00000043a1302" : {
+      "games" : {
+        "3DS" : [
+          {
+            "name" : "Coming Soon",
+            "usage" : "Coming Soon"
+          }
+        ],
+        "Switch" : [
+          {
+            "name" : "Coming Soon",
+            "usage" : "Coming Soon"
+          }
+        ],
+        "WiiU" : [
+          {
+            "name" : "Coming Soon",
+            "usage" : "Coming Soon"
+          }
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x05c00000043b1302" : {
+      "games" : {
+        "3DS" : [
+          {
+            "name" : "Coming Soon",
+            "usage" : "Coming Soon"
+          }
+        ],
+        "Switch" : [
+          {
+            "name" : "Coming Soon",
+            "usage" : "Coming Soon"
+          }
+        ],
+        "WiiU" : [
+          {
+            "name" : "Coming Soon",
+            "usage" : "Coming Soon"
+          }
+        ]
+      },
+      "hasGames" : true
+    },
     "0x05c0000000060002" : {
       "games" : {
         "3DS" : [
