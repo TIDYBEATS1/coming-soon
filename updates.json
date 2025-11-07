@@ -3,7 +3,8 @@
     {
       "changes" : [
         "Made It easier for me to update the app without fully needing an update from app store",
-        "Added UI updates and changes"
+        "Added UI updates and changes",
+        "Added Background code for things to come "
       ],
       "version" : "2.8"
     },
