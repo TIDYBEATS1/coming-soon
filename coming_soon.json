@@ -61,5 +61,26 @@
     "imageURL": "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/rudy-af552253ac02980ddfc74a53b0ce07bf49100934a13b6826eebbcd07315505e4.png",
     "releaseDate": "TBA",
     "region": "JP"
+  },
+  {
+    "id": "D46319CB",
+    "name": "Meta Knight & Shadow Star",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/meta-knight-shadow-star-37ceed39342c27a335d96c464036bd34acf0c3be10797402ec4e04de6fb1715d.png",
+    "releaseDate": "05-03-2026",
+    "region": "JP"
+  },
+  {
+    "id": "79735757",
+    "name": "King Dedede & Tank Star",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/king-dedede-tank-star-ffea92319c97dca3a24f3a69f9d906fa7c3930ac9681dff13f4908ab2319e9bf.png",
+    "releaseDate": "2026",
+    "region": "JP"
+  },
+  {
+    "id": "D406E302",
+    "name": "Chef Kawasaki & Hop Star",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/chef-kawasaki-hop-star-89516333feadf413d40c8d0c575e73a78128c9cbce393fa216e101e53342ce56.png",
+    "releaseDate": "2026",
+    "region": "JP"
   }
 ]
