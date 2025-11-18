@@ -10299,20 +10299,92 @@
       "games" : {
         "3DS" : [
           {
-            "name" : "Coming Soon",
-            "usage" : "Coming Soon"
+            "name" : "WarioWare Gold",
+            "usage" : "Receive a sketch of the character from Wario which can be exchanged for in-game coins"
+          },
+          {
+            "name" : "Metroid: Samus Returns",
+            "usage" : "Receive a useful items depending on the amiibo \/ After beating the game: Unlock a bonus or feature depending on the amiibo"
+          },
+          {
+            "name" : "Poochy & Yoshi's Woolly World",
+            "usage" : "Unlock a character-based Yoshi yarn pattern"
+          },
+          {
+            "name" : "Miitopia",
+            "usage" : "Unlock a character-based costume"
+          },
+          {
+            "name" : "Metroid Prime: Federation Force",
+            "usage" : "Unlock an armor paint job based on the character for use in Blast Ball \/ Unlock an armor paint job with additional auxiliary ammo for use in campaign missions"
+          },
+          {
+            "name" : "Metroid Prime: Blast Ball",
+            "usage" : "Unlock an armor paint job based on the character"
+          },
+          {
+            "name" : "Kirby: Planet Robobot",
+            "usage" : "Give Kirby a Copy ability based on the character's abilities and a health item"
+          },
+          {
+            "name" : "Chibi-Robo! Zip Lash",
+            "usage" : "Unlock figure in an amiibo-exclusive pose of the character (requires Chibi-Robo amiibo)"
+          },
+          {
+            "name" : "Style Savvy: Fashion Forward",
+            "usage" : "Unlock a character-themed accessory"
+          },
+          {
+            "name" : "Ace Combat Assault Horizon Legacy +",
+            "usage" : "Unlock an amiibo-exclusive character-themed aircraft, plus a bonus tuning part"
+          },
+          {
+            "name" : "One Piece: Super Grand Battle! X",
+            "usage" : "Unlock a character-based costume with special abilities"
+          },
+          {
+            "name" : "Super Smash Bros. for Nintendo 3DS",
+            "usage" : "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
           }
         ],
         "Switch" : [
           {
-            "name" : "Coming Soon",
-            "usage" : "Coming Soon"
+            "name" : "Miitopia",
+            "usage" : "Unlock a character-based costume"
+          },
+          {
+            "name" : "Super Smash Bros. Ultimate",
+            "usage" : "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+          },
+          {
+            "name" : "Bayonetta 2",
+            "usage" : "Unlock a costume based on the character (short-hair version)"
+          },
+          {
+            "name" : "Mario Kart 8 Deluxe",
+            "usage" : "Unlock a Metroid-themed Mii racing suit"
+          },
+          {
+            "name" : "Conga Master Party!",
+            "usage" : "Unlock a special costume"
           }
         ],
         "WiiU" : [
           {
-            "name" : "Coming Soon",
-            "usage" : "Coming Soon"
+            "name" : "Super Mario Maker",
+            "usage" : "Unlock a character-based Mystery Mushroom costume"
+          },
+          {
+            "name" : "Yoshi's Woolly World",
+            "usage" : "Unlock a character-based Yoshi yarn pattern"
+          },
+          {
+            "name" : "Super Smash Bros. for Wii U",
+            "usage" : "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
+          },
+          {
+            "name" : "Mario Kart 8",
+            "usage" : "Unlock a character-themed Mii racing suit"
           }
         ]
       },
