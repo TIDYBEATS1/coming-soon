@@ -1,1 +1,36 @@
-
+{
+  "amiibo": [
+    {
+      "amiiboSeries": "Kirby Air Riders",
+      "character": "Kirby",
+      "gameSeries": "Kirby",
+      "head": "00000000",
+      "tail": "00000000",
+      "image": "https://example.com/kirby_warp_star.png",
+      "name": "Kirby & Warp Star",
+      "release": {
+        "eu": "2025-11-20",
+        "na": "2025-11-20",
+        "jp": "2025-11-20",
+        "au": "2025-11-20"
+      },
+      "type": "Figure"
+    },
+    {
+      "amiiboSeries": "Kirby Air Riders",
+      "character": "Bandana Waddle Dee",
+      "gameSeries": "Kirby",
+      "head": "00000000",
+      "tail": "00000000",
+      "image": "https://example.com/bandana_waddle_dee_winged_star.png",
+      "name": "Bandana Waddle Dee & Winged Star",
+      "release": {
+        "eu": "2025-11-20",
+        "na": "2025-11-20",
+        "jp": "2025-11-20",
+        "au": "2025-11-20"
+      },
+      "type": "Figure"
+    }
+  ]
+}
