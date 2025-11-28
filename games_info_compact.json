@@ -22303,13 +22303,11 @@
       "games" : {
         "3DS" : [
         ],
-        "Switch2" : [
-          {
+        "Switch" : [
+         {
             "name" : "Donkey Kong Bananza (Switch 2)",
             "usage" : "Unlock Pauline's Diva Dress early"
           }
-        ],
-        "Switch" : [
         ],
         "WiiU" : [
         ]
