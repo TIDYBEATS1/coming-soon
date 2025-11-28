@@ -22304,14 +22304,15 @@
         "3DS" : [
 
         ],
-        "Switch" : [
+        "Switch2" : [
           {
             "name" : "Donkey Kong Bananza (Switch 2)",
             "usage" : "Unlock Pauline's Diva Dress early"
           }
         ],
+        "Switch" : [
+        ],
         "WiiU" : [
-
         ]
       },
       "hasGames" : true
