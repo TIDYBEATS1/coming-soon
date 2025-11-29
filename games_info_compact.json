@@ -42892,7 +42892,26 @@
       },
       "hasGames" : true
     },
-    "UNKNOWN1:_00000001" : {
+    "0x1f00000004c41e03" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+        ],
+        "Switch 2" : [
+          {
+            "name" : "Kirby Air Riders",
+            "usage" : "Race and train up a computer-controlled Figure Player of the character / Change main menu cursor doll to match amiibo (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x1f03010004c91e03" : {
       "games" : {
         "3DS" : [
 
