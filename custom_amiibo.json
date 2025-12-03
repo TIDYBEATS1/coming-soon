@@ -1,36 +1,43 @@
 {
-  "amiibo": [
+  "amiibo" : [
     {
-      "amiiboSeries": "Kirby Air Riders",
-      "character": "Kirby",
-      "gameSeries": "Kirby",
-      "head": "1f000000",
-      "tail": "04c41e03",
-      "image": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/kirby-warp-star-baacf088832f930b5e6084315a410841327024a80e66159cd951302588372608.png",
-      "name": "Kirby & Warp Star",
-      "release": {
-        "eu": "2025-11-20",
-        "na": "2025-11-20",
-        "jp": "2025-11-20",
-        "au": "2025-11-20"
+      "amiiboSeries" : "Kirby Air Riders",
+      "character" : "Kirby",
+      "gameSeries" : "Kirby",
+      "head" : "1f000000",
+      "image" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/kirby-air-riders\/kirby-warp-star-baacf088832f930b5e6084315a410841327024a80e66159cd951302588372608.png",
+      "name" : "Kirby & Warp Star",
+      "release" : {
+        "au" : "2025-11-20",
+        "eu" : "2025-11-20",
+        "jp" : "2025-11-20",
+        "na" : "2025-11-20"
       },
-      "type": "Figure"
+      "tail" : "04c41e03",
+      "type" : "Figure"
     },
     {
-      "amiiboSeries": "Kirby Air Riders",
-      "character": "Bandana Waddle Dee",
-      "gameSeries": "Kirby",
-      "head": "1f030100",
-      "tail": "04c91e03",
-      "image": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/bandana-waddle-dee-winged-star-a920dd4667a75c211f54735325e9c76223782dca1fae1181f3157b4116ba56c0.png",
-      "name": "Bandana Waddle Dee & Winged Star",
-      "release": {
-        "eu": "2025-11-20",
-        "na": "2025-11-20",
-        "jp": "2025-11-20",
-        "au": "2025-11-20"
+      "amiiboSeries" : "Kirby Air Riders",
+      "character" : "Bandana Waddle Dee",
+      "gameSeries" : "Kirby",
+      "head" : "1f030100",
+      "image" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/kirby-air-riders\/bandana-waddle-dee-winged-star-a920dd4667a75c211f54735325e9c76223782dca1fae1181f3157b4116ba56c0.png",
+      "name" : "Bandana Waddle Dee & Winged Star",
+      "release" : {
+        "au" : "2025-11-20",
+        "eu" : "2025-11-20",
+        "jp" : "2025-11-20",
+        "na" : "2025-11-20"
       },
-      "type": "Figure"
+      "tail" : "04c91e03",
+      "type" : "Figure"
     }
-  ]
+  ],
+  "custom" : {
+    "31321" : {
+      "game" : "21",
+      "image" : "21",
+      "name" : "212"
+    }
+  }
 }
