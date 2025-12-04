@@ -10918,6 +10918,14 @@
         "3DS" : [
 
         ],
+        "Switch 2" : [
+          {
+            "name" : "Metroid Prime 4: Beyond",
+            "usage" : "View a particular completed cutscene after beating game without needing 100% completion / Hear a random voice line from Sylux"
+          }
+
+        ],
+
         "Switch" : [
           {
             "name" : "Mario Kart 8 Deluxe",
