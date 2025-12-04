@@ -916,16 +916,16 @@
         "3DS" : [
 
         ],
-        "Switch 2" : [
-          {
-            "name" : "Donkey Kong Bananza (Switch 2)",
-            "usage" : "Spawn explosive golden KONG tiles"
-          }
-        ],
         "Switch" : [
           {
             "name" : "Super Smash Bros. Ultimate",
             "usage" : "Battle and train up a computer-controlled Figure Player of the character"
+          }
+        ],
+        "Switch 2" : [
+          {
+            "name" : "Donkey Kong Bananza (Switch 2)",
+            "usage" : "Spawn explosive golden KONG tiles"
           }
         ],
         "WiiU" : [
@@ -2636,6 +2636,26 @@
       },
       "hasGames" : true
     },
+    "0x1f00000004c41e03" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+
+        ],
+        "Switch 2" : [
+          {
+            "name" : "Kirby Air Riders",
+            "usage" : "Race and train up a computer-controlled Figure Player of the character \/ Change main menu cursor doll to match amiibo (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
     "0x1f00000002540c02" : {
       "games" : {
         "3DS" : [
@@ -2747,6 +2767,26 @@
             "name" : "Yoshi's Woolly World",
             "usage" : "Unlock a character-based Yoshi yarn pattern"
           }
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x1f03010004c91e03" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+
+        ],
+        "Switch 2" : [
+          {
+            "name" : "Kirby Air Riders",
+            "usage" : "Race and train up a computer-controlled Figure Player of the character \/ Change main menu cursor doll to match amiibo (Read+Write)"
+          }
+        ],
+        "WiiU" : [
+
         ]
       },
       "hasGames" : true
@@ -10865,6 +10905,27 @@
           {
             "name" : "Super Smash Bros. Ultimate",
             "usage" : "Battle and train up a computer-controlled Figure Player of the character"
+          }
+        ],
+        "WiiU" : [
+
+        ]
+      },
+      "hasGames" : true
+    },
+    "0x05c50000043c1302" : {
+      "games" : {
+        "3DS" : [
+
+        ],
+        "Switch" : [
+          {
+            "name" : "Mario Kart 8 Deluxe",
+            "usage" : "Unlock a Metroid-themed Mii racing suit"
+          },
+          {
+            "name" : "Conga Master Party!",
+            "usage" : "Unlock a special costume"
           }
         ],
         "WiiU" : [
@@ -22302,14 +22363,16 @@
     "0x00080100042f1a02" : {
       "games" : {
         "3DS" : [
+
         ],
         "Switch 2" : [
-         {
+          {
             "name" : "Donkey Kong Bananza",
             "usage" : "Unlock Pauline's Diva Dress early"
           }
         ],
         "WiiU" : [
+
         ]
       },
       "hasGames" : true
@@ -42884,44 +42947,6 @@
           {
             "name" : "Yu-Gi-Oh! Rush Duel Saikyo Battle Royale",
             "usage" : "Receive items\/bonuses"
-          }
-        ],
-        "WiiU" : [
-
-        ]
-      },
-      "hasGames" : true
-    },
-    "0x1f00000004c41e03" : {
-      "games" : {
-        "3DS" : [
-
-        ],
-        "Switch" : [
-        ],
-        "Switch 2" : [
-          {
-            "name" : "Kirby Air Riders",
-            "usage" : "Race and train up a computer-controlled Figure Player of the character / Change main menu cursor doll to match amiibo (Read+Write)"
-          }
-        ],
-        "WiiU" : [
-
-        ]
-      },
-      "hasGames" : true
-    },
-    "0x1f03010004c91e03" : {
-      "games" : {
-        "3DS" : [
-
-        ],
-        "Switch" : [
-        ],
-        "Switch 2" : [
-          {
-            "name" : "Kirby Air Riders",
-            "usage" : "Race and train up a computer-controlled Figure Player of the character / Change main menu cursor doll to match amiibo (Read+Write)"
           }
         ],
         "WiiU" : [
