@@ -40,10 +40,10 @@
       "image" : "https:\/\/amiibo.life\/assets\/figures\/amiibo\/metroid\/sylux-13be3d3c7dce6f897a7ea969bf7a521aecc54a63db63ee44d5981345b3e36bde.png",
       "name" : "Sylux",
       "release" : {
-        "au" : "04\/12\/2025",
-        "eu" : "04\/12\/2025",
-        "jp" : "04\/12\/2025",
-        "na" : ""
+        "au" : "2025-12-04",
+        "eu" : "2025-12-04",
+        "jp" : "2025-12-04",
+        "na" : "2025-12-04"
       },
       "tail" : "043c1302",
       "type" : "Figure"
