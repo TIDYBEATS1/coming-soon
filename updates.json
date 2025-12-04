@@ -2,6 +2,13 @@
   "appUpdates" : [
     {
       "changes" : [
+        "Added Switch 2 Console To The Compatible Games",
+        "Fixed UI In Settings"
+      ],
+      "version" : "3.0"
+    },
+    {
+      "changes" : [
         "Made It easier for me to update the app without fully needing an update from app store",
         "Added UI updates and changes",
         "Added Background code for things to come "
