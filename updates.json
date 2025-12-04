@@ -60,6 +60,13 @@
   "otaUpdates" : [
     {
       "changes" : [
+        "Removed Sylux From Coming Soon ",
+        "Added Sylux Game Info "
+      ],
+      "version" : "3.0"
+    },
+    {
+      "changes" : [
         "Added Samus Game Info ",
         "Added Samus & Vi-O-La  Game Info "
       ],
