@@ -41,7 +41,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sandy"
     },
     {
       "name": "Isabelle - Winter",
@@ -113,7 +115,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Sonic",
@@ -173,7 +177,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Sonic",
+      "character": "Sonic"
     },
     {
       "name": "Ava",
@@ -229,7 +235,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ava"
     },
     {
       "name": "Blanca",
@@ -285,7 +293,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Blanca"
     },
     {
       "name": "Mac",
@@ -341,7 +351,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mac"
     },
     {
       "name": "Lucha",
@@ -397,7 +409,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lucha"
     },
     {
       "name": "Punchy",
@@ -453,7 +467,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Punchy"
     },
     {
       "name": "Violet",
@@ -509,7 +525,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Violet"
     },
     {
       "name": "Mii Brawler",
@@ -557,7 +575,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mii",
+      "character": "Mii"
     },
     {
       "name": "Wario - Baseball",
@@ -579,7 +599,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Wario"
     },
     {
       "name": "Tom",
@@ -643,7 +665,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tom"
     },
     {
       "name": "Zelda & Loftwing",
@@ -771,7 +795,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Zelda"
     },
     {
       "name": "Mint",
@@ -827,7 +853,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mint"
     },
     {
       "name": "Caroline",
@@ -883,7 +911,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Caroline"
     },
     {
       "name": "Mabel",
@@ -947,7 +977,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mabel"
     },
     {
       "name": "Inkling - Yellow",
@@ -1035,7 +1067,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Shiver",
@@ -1070,7 +1104,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Shiver"
     },
     {
       "name": "Frye",
@@ -1105,7 +1141,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Frye"
     },
     {
       "name": "Big Man",
@@ -1140,7 +1178,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Big Man"
     },
     {
       "name": "Frett",
@@ -1166,7 +1206,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Frett"
     },
     {
       "name": "Kidd",
@@ -1222,7 +1264,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kidd"
     },
     {
       "name": "Qbby",
@@ -1273,7 +1317,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "BoxBoy!",
+      "character": "Qbby"
     },
     {
       "name": "Waluigi - Soccer",
@@ -1295,7 +1341,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Waluigi"
     },
     {
       "name": "Purrl",
@@ -1351,7 +1399,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Purrl"
     },
     {
       "name": "Mitzi",
@@ -1407,7 +1457,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mitzi"
     },
     {
       "name": "Reneigh",
@@ -1433,7 +1485,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Reneigh"
     },
     {
       "name": "Rasher",
@@ -1489,7 +1543,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rasher"
     },
     {
       "name": "Chrissy",
@@ -1545,7 +1601,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chrissy"
     },
     {
       "name": "Metal Mario - Tennis",
@@ -1567,7 +1625,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Metal Mario"
     },
     {
       "name": "Harriet",
@@ -1623,7 +1683,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Harriet"
     },
     {
       "name": "Daisy",
@@ -1679,7 +1741,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Daisy"
     },
     {
       "name": "Bam",
@@ -1735,7 +1799,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bam"
     },
     {
       "name": "Anabelle",
@@ -1791,7 +1857,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Anabelle"
     },
     {
       "name": "Labelle",
@@ -1847,7 +1915,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Label"
     },
     {
       "name": "Tatsuhisa “Luke” Kamijō",
@@ -1869,7 +1939,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Yu-Gi-Oh!",
+      "character": "Tatsuhisa “Luke” Kamijō"
     },
     {
       "name": "Smallfry",
@@ -1904,7 +1976,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Smallfry"
     },
     {
       "name": "Inkling",
@@ -1984,7 +2058,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Rover",
@@ -2048,7 +2124,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rover"
     },
     {
       "name": "Wendell",
@@ -2104,7 +2182,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Wendell"
     },
     {
       "name": "Renée",
@@ -2160,7 +2240,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Renée"
     },
     {
       "name": "Agnes",
@@ -2216,7 +2298,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Agnes"
     },
     {
       "name": "Resetti - Without Hat",
@@ -2280,7 +2364,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Resetti"
     },
     {
       "name": "Daisy Mae",
@@ -2306,7 +2392,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Daisy Mae"
     },
     {
       "name": "Merry",
@@ -2362,7 +2450,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Merry"
     },
     {
       "name": "Big Top",
@@ -2418,7 +2508,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Big Top"
     },
     {
       "name": "Leif",
@@ -2474,7 +2566,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Leif"
     },
     {
       "name": "Rocco",
@@ -2530,7 +2624,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rocco"
     },
     {
       "name": "Donkey Kong - Horse Racing",
@@ -2552,7 +2648,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Donkey Kong"
     },
     {
       "name": "Gladys",
@@ -2608,7 +2706,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gladys"
     },
     {
       "name": "Twiggy",
@@ -2664,7 +2764,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Twiggy"
     },
     {
       "name": "Camofrog",
@@ -2720,7 +2822,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Camofrog"
     },
     {
       "name": "Lottie",
@@ -2796,7 +2900,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lottie"
     },
     {
       "name": "King K. Rool",
@@ -2822,7 +2928,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Donkey Kong",
+      "character": "King K. Rool"
     },
     {
       "name": "Nail Saionji",
@@ -2844,7 +2952,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Yu-Gi-Oh!",
+      "character": "Nail Saionji"
     },
     {
       "name": "Sephiroth",
@@ -2866,7 +2976,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Final Fantasy",
+      "character": "Sephiroth"
     },
     {
       "name": "Deirdre",
@@ -2922,7 +3034,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Deirdre"
     },
     {
       "name": "Flick",
@@ -2948,7 +3062,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Flick"
     },
     {
       "name": "Lucina",
@@ -3036,7 +3152,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Lucina"
     },
     {
       "name": "Naomi",
@@ -3092,7 +3210,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Naomi"
     },
     {
       "name": "Raddle",
@@ -3135,7 +3255,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Raddle"
     },
     {
       "name": "Tortimer",
@@ -3191,7 +3313,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tortimer"
     },
     {
       "name": "Digby",
@@ -3267,7 +3391,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Digby"
     },
     {
       "name": "Puddles",
@@ -3323,7 +3449,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Puddles"
     },
     {
       "name": "Octoling Boy",
@@ -3366,7 +3494,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Octoling"
     },
     {
       "name": "Guardian",
@@ -3438,7 +3568,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Guardian"
     },
     {
       "name": "Squirtle",
@@ -3460,7 +3592,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Squirtle"
     },
     {
       "name": "Peach - Power Up Band",
@@ -3514,7 +3648,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Peach"
     },
     {
       "name": "Jacob",
@@ -3557,7 +3693,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Jacob"
     },
     {
       "name": "Boo",
@@ -3628,7 +3766,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Boo"
     },
     {
       "name": "Pashmina",
@@ -3684,7 +3824,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pashmina"
     },
     {
       "name": "Paolo",
@@ -3727,7 +3869,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Paolo"
     },
     {
       "name": "June",
@@ -3770,7 +3914,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "June"
     },
     {
       "name": "Super Mario Cereal",
@@ -3792,7 +3938,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kellogs",
+      "character": "Mario Cereal"
     },
     {
       "name": "Link",
@@ -3928,7 +4076,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Cloud",
@@ -3960,7 +4110,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Final Fantasy",
+      "character": "Cloud Strife"
     },
     {
       "name": "Rudy",
@@ -4016,7 +4168,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rudy"
     },
     {
       "name": "Flurry",
@@ -4072,7 +4226,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Flurry"
     },
     {
       "name": "Tammy",
@@ -4128,7 +4284,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tammy"
     },
     {
       "name": "Teddy",
@@ -4184,7 +4342,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Teddy"
     },
     {
       "name": "Frank",
@@ -4240,7 +4400,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Frank"
     },
     {
       "name": "Peach - Horse Racing",
@@ -4262,7 +4424,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Peach"
     },
     {
       "name": "Stu",
@@ -4305,7 +4469,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Stu"
     },
     {
       "name": "Roscoe",
@@ -4361,7 +4527,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Roscoe"
     },
     {
       "name": "Ike",
@@ -4445,7 +4613,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Ike"
     },
     {
       "name": "Luigi - Golf",
@@ -4467,7 +4637,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Luigi"
     },
     {
       "name": "Rodney",
@@ -4523,7 +4695,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rodney"
     },
     {
       "name": "Baby Mario - Soccer",
@@ -4545,7 +4719,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Mario"
     },
     {
       "name": "Daijobu",
@@ -4567,7 +4743,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Power Pros",
+      "character": "Daijobu"
     },
     {
       "name": "Bruce",
@@ -4623,7 +4801,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bruce"
     },
     {
       "name": "Bree",
@@ -4679,7 +4859,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bree"
     },
     {
       "name": "Bangle",
@@ -4735,7 +4917,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bangle"
     },
     {
       "name": "Stitches",
@@ -4791,7 +4975,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Stitches"
     },
     {
       "name": "Aurora",
@@ -4847,7 +5033,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Aurora"
     },
     {
       "name": "Iggly",
@@ -4903,7 +5091,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Iggly"
     },
     {
       "name": "Vic",
@@ -4959,7 +5149,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Vic"
     },
     {
       "name": "Palico",
@@ -4985,7 +5177,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Palico"
     },
     {
       "name": "Golden - Power Up Band",
@@ -5035,7 +5229,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Amelia",
@@ -5091,7 +5287,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Amelia"
     },
     {
       "name": "Miranda",
@@ -5147,7 +5345,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Miranda"
     },
     {
       "name": "Katrina",
@@ -5203,7 +5403,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Katrina"
     },
     {
       "name": "Audie",
@@ -5229,7 +5431,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Audie"
     },
     {
       "name": "Diddy Kong - Horse Racing",
@@ -5251,7 +5455,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Diddy Kong"
     },
     {
       "name": "Bill",
@@ -5307,7 +5513,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bill"
     },
     {
       "name": "Anchovy",
@@ -5363,7 +5571,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Anchovy"
     },
     {
       "name": "Harvey",
@@ -5389,7 +5599,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Harvey"
     },
     {
       "name": "Link - Archer",
@@ -5529,7 +5741,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Tommy - Uniform",
@@ -5585,7 +5799,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tommy"
     },
     {
       "name": "Octoling Girl",
@@ -5628,7 +5844,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Octoling"
     },
     {
       "name": "8-Bit Link",
@@ -5768,7 +5986,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Maggie",
@@ -5811,7 +6031,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Maggie"
     },
     {
       "name": "Mega Man",
@@ -5887,7 +6109,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Megaman",
+      "character": "Mega Man"
     },
     {
       "name": "Orville",
@@ -5913,7 +6137,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Orville"
     },
     {
       "name": "Chai",
@@ -5956,7 +6182,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chai"
     },
     {
       "name": "Dom",
@@ -5982,7 +6210,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Dom"
     },
     {
       "name": "Kapp'n",
@@ -6058,7 +6288,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kapp'n"
     },
     {
       "name": "Limberg",
@@ -6114,7 +6346,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Limberg"
     },
     {
       "name": "Weber",
@@ -6157,7 +6391,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Weber"
     },
     {
       "name": "Bunnie",
@@ -6213,7 +6449,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bunnie"
     },
     {
       "name": "Poochy",
@@ -6257,7 +6495,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Yoshi's Woolly World",
+      "character": "Poochy"
     },
     {
       "name": "Waluigi - Tennis",
@@ -6279,7 +6519,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Waluigi"
     },
     {
       "name": "Pelly",
@@ -6335,7 +6577,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pelly"
     },
     {
       "name": "Frobert",
@@ -6391,7 +6635,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Frobert"
     },
     {
       "name": "Birdo - Horse Racing",
@@ -6413,7 +6659,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Birdo"
     },
     {
       "name": "Tasha",
@@ -6456,7 +6704,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tasha"
     },
     {
       "name": "Robin",
@@ -6512,7 +6762,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Robin"
     },
     {
       "name": "Alfonso",
@@ -6568,7 +6820,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Alfonso"
     },
     {
       "name": "Peck",
@@ -6624,7 +6878,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Peck"
     },
     {
       "name": "Baby Luigi - Baseball",
@@ -6646,7 +6902,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Luigi"
     },
     {
       "name": "Rosalina",
@@ -6770,7 +7028,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Rosalina"
     },
     {
       "name": "Cyrus",
@@ -6846,7 +7106,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cyrus"
     },
     {
       "name": "Frita",
@@ -6902,7 +7164,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Frita"
     },
     {
       "name": "Sprinkle",
@@ -6958,7 +7222,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sprinkle"
     },
     {
       "name": "Bella",
@@ -7014,7 +7280,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bella"
     },
     {
       "name": "Drago",
@@ -7070,7 +7338,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Drago"
     },
     {
       "name": "Grams",
@@ -7126,7 +7396,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Grams"
     },
     {
       "name": "Corrin",
@@ -7186,7 +7458,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Corrin"
     },
     {
       "name": "OHare",
@@ -7242,7 +7516,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "OHare"
     },
     {
       "name": "Dark Pit",
@@ -7294,7 +7570,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kid Icarus",
+      "character": "Dark Pit"
     },
     {
       "name": "Rosalina & Luma",
@@ -7410,7 +7688,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Rosalina"
     },
     {
       "name": "Redd",
@@ -7466,7 +7746,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Redd"
     },
     {
       "name": "Mabel",
@@ -7542,7 +7824,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mabel"
     },
     {
       "name": "Hamphrey",
@@ -7598,7 +7882,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Hamphrey"
     },
     {
       "name": "Pave",
@@ -7654,7 +7940,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pave"
     },
     {
       "name": "Wario - Soccer",
@@ -7676,7 +7964,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Wario"
     },
     {
       "name": "Alli",
@@ -7732,7 +8022,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Alli"
     },
     {
       "name": "Yoshi - Golf",
@@ -7754,7 +8046,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Yoshi"
     },
     {
       "name": "Bones",
@@ -7810,7 +8104,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bones"
     },
     {
       "name": "E.M.M.I.",
@@ -7844,7 +8140,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "E.M.M.I."
     },
     {
       "name": "Link - Rider",
@@ -7984,7 +8282,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Gaston",
@@ -8040,7 +8340,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gaston"
     },
     {
       "name": "Quillson",
@@ -8096,7 +8398,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Quillson"
     },
     {
       "name": "Pink Gold Peach - Soccer",
@@ -8118,7 +8422,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Pink Gold Peach"
     },
     {
       "name": "Wii Fit Trainer",
@@ -8182,7 +8488,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Wii Fit",
+      "character": "Wii Fit Trainer"
     },
     {
       "name": "Wario",
@@ -8274,7 +8582,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Wario"
     },
     {
       "name": "Chibi Robo",
@@ -8310,7 +8620,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Chibi Robo",
+      "character": "Chibi-Robo"
     },
     {
       "name": "Diddy Kong",
@@ -8398,7 +8710,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Diddy Kong"
     },
     {
       "name": "Razewing Ratha",
@@ -8428,7 +8742,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Razewing Ratha"
     },
     {
       "name": "Zipper",
@@ -8484,7 +8800,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Zipper"
     },
     {
       "name": "Pierce",
@@ -8540,7 +8858,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pierce"
     },
     {
       "name": "Ikari",
@@ -8562,7 +8882,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Power Pros",
+      "character": "Ikari"
     },
     {
       "name": "Toon Link - The Wind Waker",
@@ -8702,7 +9024,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Hero",
@@ -8724,7 +9048,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Dragon Quest",
+      "character": "Hero"
     },
     {
       "name": "Kapp'n",
@@ -8788,7 +9114,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kapp'n"
     },
     {
       "name": "Luigi - Power Up Band",
@@ -8838,7 +9166,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Luigi"
     },
     {
       "name": "Inkling Girl",
@@ -8930,7 +9260,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Lobo",
@@ -8986,7 +9318,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lobo"
     },
     {
       "name": "Zelda",
@@ -9118,7 +9452,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Zelda"
     },
     {
       "name": "Rathian and Cheval",
@@ -9165,7 +9501,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Rathian"
     },
     {
       "name": "Waluigi - Horse Racing",
@@ -9187,7 +9525,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Waluigi"
     },
     {
       "name": "Quinn",
@@ -9213,7 +9553,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Quinn"
     },
     {
       "name": "Digby",
@@ -9277,7 +9619,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Digby"
     },
     {
       "name": "Young Link",
@@ -9413,7 +9757,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Huck",
@@ -9456,7 +9802,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Huck"
     },
     {
       "name": "Avery",
@@ -9512,7 +9860,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Avery"
     },
     {
       "name": "Carrie",
@@ -9555,7 +9905,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Carrie"
     },
     {
       "name": "Kiki",
@@ -9611,7 +9963,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kiki"
     },
     {
       "name": "Isabelle - Summer Outfit",
@@ -9699,7 +10053,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Rooney",
@@ -9755,7 +10111,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rooney"
     },
     {
       "name": "Nate",
@@ -9811,7 +10169,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Nate"
     },
     {
       "name": "Metal Mario - Soccer",
@@ -9833,7 +10193,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Metal Mario"
     },
     {
       "name": "Pippy",
@@ -9889,7 +10251,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pippy"
     },
     {
       "name": "Yoshi",
@@ -10025,7 +10389,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Yoshi"
     },
     {
       "name": "Birdo - Tennis",
@@ -10047,7 +10413,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Birdo"
     },
     {
       "name": "Mythra",
@@ -10073,7 +10441,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Xenoblade",
+      "character": "Mythra"
     },
     {
       "name": "Rocket",
@@ -10129,7 +10499,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rocket"
     },
     {
       "name": "Peaches",
@@ -10185,7 +10557,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Peaches"
     },
     {
       "name": "Ken",
@@ -10241,7 +10615,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ken"
     },
     {
       "name": "Inkling Boy",
@@ -10329,7 +10705,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Luigi",
@@ -10489,7 +10867,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Luigi"
     },
     {
       "name": "Chip",
@@ -10545,7 +10925,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chip"
     },
     {
       "name": "Claudia",
@@ -10601,7 +10983,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Claudia"
     },
     {
       "name": "Greta",
@@ -10657,7 +11041,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Greta"
     },
     {
       "name": "Celica",
@@ -10704,7 +11090,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Celica"
     },
     {
       "name": "Deena",
@@ -10760,7 +11148,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Deena"
     },
     {
       "name": "Ivysaur",
@@ -10782,7 +11172,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Ivysaur"
     },
     {
       "name": "Filbert",
@@ -10838,7 +11230,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Filbert"
     },
     {
       "name": "Velma",
@@ -10894,7 +11288,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Velma"
     },
     {
       "name": "Beardo",
@@ -10950,7 +11346,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Beardo"
     },
     {
       "name": "Azalea",
@@ -10976,7 +11374,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Azalea"
     },
     {
       "name": "Samus",
@@ -11080,7 +11480,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "Samus"
     },
     {
       "name": "Samus",
@@ -11184,7 +11586,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "Samus"
     },
     {
       "name": "Samus & Vi-O-La",
@@ -11288,7 +11692,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "Samus"
     },
     {
       "name": "Simon",
@@ -11310,7 +11716,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Castlevania",
+      "character": "Simon"
     },
     {
       "name": "Magnamalo",
@@ -11336,7 +11744,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Magnamalo"
     },
     {
       "name": "Rosalina - Tennis",
@@ -11358,7 +11768,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Rosalina"
     },
     {
       "name": "Boo - Golf",
@@ -11380,7 +11792,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Boo"
     },
     {
       "name": "Flip",
@@ -11436,7 +11850,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Flip"
     },
     {
       "name": "Hazel",
@@ -11492,7 +11908,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Hazel"
     },
     {
       "name": "Bubbles",
@@ -11548,7 +11966,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bubbles"
     },
     {
       "name": "Elmer",
@@ -11604,7 +12024,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Elmer"
     },
     {
       "name": "Boots",
@@ -11647,7 +12069,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Boots"
     },
     {
       "name": "Hammer Slam Bowser",
@@ -11787,7 +12211,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Bowser"
     },
     {
       "name": "Bea",
@@ -11843,7 +12269,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bea"
     },
     {
       "name": "Boone",
@@ -11899,7 +12327,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Boone"
     },
     {
       "name": "Wardell",
@@ -11925,7 +12355,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Wardell"
     },
     {
       "name": "Petri",
@@ -11951,7 +12383,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Petri"
     },
     {
       "name": "Ace",
@@ -11977,7 +12411,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ace"
     },
     {
       "name": "Mii Swordfighter",
@@ -12025,7 +12461,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mii",
+      "character": "Mii"
     },
     {
       "name": "Gakuto Sōgetsu",
@@ -12047,7 +12485,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Yu-Gi-Oh!",
+      "character": "Gakuto Sōgetsu"
     },
     {
       "name": "Terry",
@@ -12069,7 +12509,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fatal Fury",
+      "character": "Terry"
     },
     {
       "name": "Daisy - Horse Racing",
@@ -12091,7 +12533,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Daisy"
     },
     {
       "name": "Snake",
@@ -12113,7 +12557,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metal Gear Solid",
+      "character": "Snake"
     },
     {
       "name": "Franklin",
@@ -12169,7 +12615,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Franklin"
     },
     {
       "name": "Detective Pikachu",
@@ -12196,7 +12644,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Detective Pikachu"
     },
     {
       "name": "Hopper",
@@ -12252,7 +12702,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Hopper"
     },
     {
       "name": "Palamute",
@@ -12278,7 +12730,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Palamute"
     },
     {
       "name": "Colton",
@@ -12334,7 +12788,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Colton"
     },
     {
       "name": "Phoebe",
@@ -12390,7 +12846,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Phoebe"
     },
     {
       "name": "Ursala",
@@ -12433,7 +12891,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ursala"
     },
     {
       "name": "Gayle",
@@ -12489,7 +12949,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gayle"
     },
     {
       "name": "Daisy",
@@ -12552,7 +13014,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Daisy"
     },
     {
       "name": "Lucy",
@@ -12608,7 +13072,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lucy"
     },
     {
       "name": "Sylvana",
@@ -12651,7 +13117,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sylvana"
     },
     {
       "name": "Billy",
@@ -12694,7 +13162,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Billy"
     },
     {
       "name": "Tutu",
@@ -12750,7 +13220,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tutu"
     },
     {
       "name": "Niko",
@@ -12776,7 +13248,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Niko"
     },
     {
       "name": "Grizzly",
@@ -12832,7 +13306,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Grizzly"
     },
     {
       "name": "Isabelle",
@@ -12904,7 +13380,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Hopkins",
@@ -12947,7 +13425,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Hopkins"
     },
     {
       "name": "Scoot",
@@ -13003,7 +13483,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Scoot"
     },
     {
       "name": "Sydney",
@@ -13059,7 +13541,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sydney"
     },
     {
       "name": "Candi",
@@ -13102,7 +13586,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Candi"
     },
     {
       "name": "Étoile",
@@ -13145,7 +13631,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Étoile"
     },
     {
       "name": "Axel",
@@ -13201,7 +13689,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Axel"
     },
     {
       "name": "Rowan",
@@ -13257,7 +13747,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rowan"
     },
     {
       "name": "Rosie - Amiibo Festival",
@@ -13313,7 +13805,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rosie"
     },
     {
       "name": "Kicks",
@@ -13389,7 +13883,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kicks"
     },
     {
       "name": "One-Eyed Rathalos and Rider - Female",
@@ -13436,7 +13932,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "One-Eyed Rathalos"
     },
     {
       "name": "Copper",
@@ -13492,7 +13990,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Copper"
     },
     {
       "name": "Admiral",
@@ -13535,7 +14035,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Admiral"
     },
     {
       "name": "Cranston",
@@ -13591,7 +14093,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cranston"
     },
     {
       "name": "Wolf",
@@ -13613,7 +14117,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Star Fox",
+      "character": "Wolf"
     },
     {
       "name": "Apple",
@@ -13669,7 +14175,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Apple"
     },
     {
       "name": "Resetti",
@@ -13753,7 +14261,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Resetti"
     },
     {
       "name": "Daisy - Soccer",
@@ -13775,7 +14285,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Daisy"
     },
     {
       "name": "Pikachu",
@@ -13815,7 +14327,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Pikachu"
     },
     {
       "name": "Monty",
@@ -13871,7 +14385,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Monty"
     },
     {
       "name": "Snooty",
@@ -13914,7 +14430,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Snooty"
     },
     {
       "name": "Mega Yarn Yoshi",
@@ -14054,7 +14572,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Yoshi"
     },
     {
       "name": "Plucky",
@@ -14097,7 +14617,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Plucky"
     },
     {
       "name": "Genji",
@@ -14153,7 +14675,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Genji"
     },
     {
       "name": "Timmy",
@@ -14209,7 +14733,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Timmy"
     },
     {
       "name": "Ketchup",
@@ -14252,7 +14778,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ketchup"
     },
     {
       "name": "Midna & Wolf Link",
@@ -14348,7 +14876,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Midna"
     },
     {
       "name": "Luigi",
@@ -14500,7 +15030,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Luigi"
     },
     {
       "name": "Luigi - My Mario Wooden Blocks",
@@ -14652,7 +15184,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Luigi"
     },
     {
       "name": "Label",
@@ -14708,7 +15242,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Label"
     },
     {
       "name": "Steve",
@@ -14730,7 +15266,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Minecraft",
+      "character": "Steve"
     },
     {
       "name": "Timmy & Tommy",
@@ -14806,7 +15344,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Timmy & Tommy"
     },
     {
       "name": "Marth",
@@ -14894,7 +15434,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Marth"
     },
     {
       "name": "Porter",
@@ -14950,7 +15492,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Porter"
     },
     {
       "name": "Yoshi",
@@ -15094,7 +15638,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Yoshi"
     },
     {
       "name": "Yoshi - My Mario Wooden Blocks",
@@ -15230,7 +15776,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Yoshi"
     },
     {
       "name": "Derwin",
@@ -15286,7 +15834,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Derwin"
     },
     {
       "name": "R.O.B. - Famicom",
@@ -15342,7 +15892,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Classic Nintendo",
+      "character": "R.O.B."
     },
     {
       "name": "Cloud - Player 2",
@@ -15374,7 +15926,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Final Fantasy",
+      "character": "Cloud Strife"
     },
     {
       "name": "Olaf",
@@ -15430,7 +15984,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Olaf"
     },
     {
       "name": "Rhonda",
@@ -15486,7 +16042,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rhonda"
     },
     {
       "name": "Waluigi - Golf",
@@ -15508,7 +16066,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Waluigi"
     },
     {
       "name": "Chrom",
@@ -15551,7 +16111,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Chrom"
     },
     {
       "name": "Birdo - Golf",
@@ -15573,7 +16135,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Birdo"
     },
     {
       "name": "Wario - Golf",
@@ -15595,7 +16159,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Wario"
     },
     {
       "name": "Cesar",
@@ -15651,7 +16217,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cesar"
     },
     {
       "name": "Solaire of Astora",
@@ -15673,7 +16241,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Dark Souls",
+      "character": "Solaire of Astora"
     },
     {
       "name": "Roa Kirishima",
@@ -15695,7 +16265,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Yu-Gi-Oh!",
+      "character": "Roa Kirishima"
     },
     {
       "name": "Pinky",
@@ -15751,7 +16323,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pinky"
     },
     {
       "name": "Olive",
@@ -15794,7 +16368,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Olive"
     },
     {
       "name": "Ice Climbers",
@@ -15816,7 +16392,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Classic Nintendo",
+      "character": "Ice Climbers"
     },
     {
       "name": "Asana Mutsuba",
@@ -15838,7 +16416,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Yu-Gi-Oh!",
+      "character": "Asana Mutsuba"
     },
     {
       "name": "Tom Nook - Jacket",
@@ -15902,7 +16482,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tom Nook"
     },
     {
       "name": "Anicotti",
@@ -15958,7 +16540,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Anicotti"
     },
     {
       "name": "Mario - Soccer",
@@ -15980,7 +16564,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Mario"
     },
     {
       "name": "Croque",
@@ -16036,7 +16622,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Croque"
     },
     {
       "name": "Daruk",
@@ -16104,7 +16692,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Daruk"
     },
     {
       "name": "Tulin",
@@ -16143,7 +16733,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Tulin"
     },
     {
       "name": "Yunobo",
@@ -16182,7 +16774,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Yunobo"
     },
     {
       "name": "Sidon",
@@ -16221,7 +16815,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Sidon"
     },
     {
       "name": "Riju",
@@ -16260,7 +16856,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Riju"
     },
     {
       "name": "Chops",
@@ -16316,7 +16914,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chops"
     },
     {
       "name": "Shovel Knight - Gold Edition",
@@ -16376,7 +16976,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Shovel Knight",
+      "character": "Shovel Knight"
     },
     {
       "name": "Bowser - Wedding",
@@ -16532,7 +17134,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Bowser"
     },
     {
       "name": "DJ KK",
@@ -16596,7 +17200,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "K.K. Slider"
     },
     {
       "name": "Saharah",
@@ -16652,7 +17258,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Saharah"
     },
     {
       "name": "Jitters",
@@ -16708,7 +17316,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Jitters"
     },
     {
       "name": "Mipha",
@@ -16776,7 +17386,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Mipha"
     },
     {
       "name": "Tsukino",
@@ -16806,7 +17418,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Tsukino"
     },
     {
       "name": "Coach",
@@ -16862,7 +17476,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Coach"
     },
     {
       "name": "Erik",
@@ -16918,7 +17534,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Erik"
     },
     {
       "name": "Tammi",
@@ -16974,7 +17592,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tammi"
     },
     {
       "name": "Gigi",
@@ -17030,7 +17650,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gigi"
     },
     {
       "name": "Biskit",
@@ -17086,7 +17708,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Biskit"
     },
     {
       "name": "Ken",
@@ -17112,7 +17736,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ken"
     },
     {
       "name": "Sable",
@@ -17168,7 +17794,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sable"
     },
     {
       "name": "Brewster",
@@ -17224,7 +17852,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Brewster"
     },
     {
       "name": "Lyman",
@@ -17280,7 +17910,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lyman"
     },
     {
       "name": "Cyrano",
@@ -17336,7 +17968,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cyrano"
     },
     {
       "name": "Broccolo",
@@ -17392,7 +18026,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Broccolo"
     },
     {
       "name": "Winnie",
@@ -17448,7 +18084,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Winnie"
     },
     {
       "name": "Midge",
@@ -17504,7 +18142,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Midge"
     },
     {
       "name": "Cally",
@@ -17560,7 +18200,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cally"
     },
     {
       "name": "Qurupeco and Dan",
@@ -17607,7 +18249,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Qurupeco"
     },
     {
       "name": "Vladimir",
@@ -17663,7 +18307,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Vladimir"
     },
     {
       "name": "Leopold",
@@ -17706,7 +18352,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Leopold"
     },
     {
       "name": "Maelle",
@@ -17762,7 +18410,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Maelle"
     },
     {
       "name": "Callie",
@@ -17842,7 +18492,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Callie"
     },
     {
       "name": "Callie - Alterna",
@@ -17910,7 +18562,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Callie"
     },
     {
       "name": "Toby",
@@ -17953,7 +18607,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Toby"
     },
     {
       "name": "Coco",
@@ -18009,7 +18665,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Coco"
     },
     {
       "name": "Sprocket",
@@ -18052,7 +18710,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sprocket"
     },
     {
       "name": "Jack",
@@ -18108,7 +18768,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Jack"
     },
     {
       "name": "Pawapuro",
@@ -18130,7 +18792,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Power Pros",
+      "character": "Pawapuro"
     },
     {
       "name": "Banjo & Kazooie",
@@ -18152,7 +18816,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Banjo Kazooie",
+      "character": "Banjo"
     },
     {
       "name": "Sylvia",
@@ -18208,7 +18874,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sylvia"
     },
     {
       "name": "Whitney",
@@ -18264,7 +18932,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Whitney"
     },
     {
       "name": "Redd - Shirt",
@@ -18320,7 +18990,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Redd"
     },
     {
       "name": "Min Min",
@@ -18342,7 +19014,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "ARMS",
+      "character": "Min Min"
     },
     {
       "name": "Peach - Soccer",
@@ -18364,7 +19038,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Peach"
     },
     {
       "name": "Sherb",
@@ -18390,7 +19066,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sherb"
     },
     {
       "name": "Stinky",
@@ -18446,7 +19124,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Stinky"
     },
     {
       "name": "Francine",
@@ -18502,7 +19182,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Francine"
     },
     {
       "name": "Roald",
@@ -18558,7 +19240,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Roald"
     },
     {
       "name": "Boo - Horse Racing",
@@ -18580,7 +19264,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Boo"
     },
     {
       "name": "Monique",
@@ -18636,7 +19322,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Monique"
     },
     {
       "name": "Tybalt",
@@ -18679,7 +19367,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tybalt"
     },
     {
       "name": "Melba",
@@ -18735,7 +19425,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Melba"
     },
     {
       "name": "Luigi - Soccer",
@@ -18757,7 +19449,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Luigi"
     },
     {
       "name": "Chrom",
@@ -18800,7 +19494,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Chrom"
     },
     {
       "name": "Meta Knight",
@@ -18904,7 +19600,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kirby",
+      "character": "Meta Knight"
     },
     {
       "name": "Nibbles",
@@ -18960,7 +19658,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Nibbles"
     },
     {
       "name": "Marie",
@@ -19040,7 +19740,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Marie"
     },
     {
       "name": "Marie - Alterna",
@@ -19108,7 +19810,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Marie"
     },
     {
       "name": "Marty",
@@ -19151,7 +19855,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Marty"
     },
     {
       "name": "Spork/Crackle",
@@ -19207,7 +19913,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Spork/Crackle"
     },
     {
       "name": "Boo - Soccer",
@@ -19229,7 +19937,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Boo"
     },
     {
       "name": "King Knight",
@@ -19285,7 +19995,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Shovel Knight",
+      "character": "King Knight"
     },
     {
       "name": "Inkling Squid",
@@ -19373,7 +20085,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Henry",
@@ -19429,7 +20143,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Henry"
     },
     {
       "name": "Blathers",
@@ -19505,7 +20221,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Blathers"
     },
     {
       "name": "Revali",
@@ -19573,7 +20291,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Revali"
     },
     {
       "name": "Timbra",
@@ -19629,7 +20349,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Timbra"
     },
     {
       "name": "Ed",
@@ -19685,7 +20407,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ed"
     },
     {
       "name": "Sable",
@@ -19741,7 +20465,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sable"
     },
     {
       "name": "Keaton",
@@ -19797,7 +20523,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Keaton"
     },
     {
       "name": "Hugh",
@@ -19853,7 +20581,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Hugh"
     },
     {
       "name": "Wart Jr.",
@@ -19909,7 +20639,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Wart Jr."
     },
     {
       "name": "Kicks",
@@ -19973,7 +20705,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kicks"
     },
     {
       "name": "Shrunk",
@@ -20029,7 +20763,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Shrunk"
     },
     {
       "name": "Eugene",
@@ -20085,7 +20821,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Eugene"
     },
     {
       "name": "Pecan",
@@ -20141,7 +20879,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pecan"
     },
     {
       "name": "Lucario",
@@ -20181,7 +20921,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Lucario"
     },
     {
       "name": "Sparro",
@@ -20237,7 +20979,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sparro"
     },
     {
       "name": "Toon Zelda - The Wind Waker",
@@ -20369,7 +21113,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Zelda"
     },
     {
       "name": "Isabelle - Dress",
@@ -20441,7 +21187,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Kabuki",
@@ -20497,7 +21245,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kabuki"
     },
     {
       "name": "Eloise",
@@ -20553,7 +21303,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Eloise"
     },
     {
       "name": "Gala",
@@ -20609,7 +21361,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gala"
     },
     {
       "name": "Tex",
@@ -20665,7 +21419,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tex"
     },
     {
       "name": "Reese",
@@ -20741,7 +21497,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Reese"
     },
     {
       "name": "Bianca",
@@ -20797,7 +21555,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bianca"
     },
     {
       "name": "Mario",
@@ -20973,7 +21733,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Mario - My Mario Wooden Blocks",
@@ -21149,7 +21911,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Mii Gunner",
@@ -21197,7 +21961,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mii",
+      "character": "Mii"
     },
     {
       "name": "Peach - Wedding",
@@ -21365,7 +22131,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Peach"
     },
     {
       "name": "Cephalobot",
@@ -21391,7 +22159,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cephalobot"
     },
     {
       "name": "Gwen",
@@ -21447,7 +22217,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gwen"
     },
     {
       "name": "Donkey Kong - Soccer",
@@ -21469,7 +22241,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Donkey Kong"
     },
     {
       "name": "Kevin",
@@ -21525,7 +22299,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kevin"
     },
     {
       "name": "Blaire",
@@ -21581,7 +22357,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Blaire"
     },
     {
       "name": "Wolfgang",
@@ -21637,7 +22415,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Wolfgang"
     },
     {
       "name": "Yoshi - Tennis",
@@ -21659,7 +22439,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Yoshi"
     },
     {
       "name": "Resetti",
@@ -21723,7 +22505,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Resetti"
     },
     {
       "name": "Peggy",
@@ -21779,7 +22563,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Peggy"
     },
     {
       "name": "Link - Twilight Princess",
@@ -21919,7 +22705,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Boyd",
@@ -21962,7 +22750,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Boyd"
     },
     {
       "name": "One-Eyed Rathalos and Rider - Male",
@@ -22009,7 +22799,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "One-Eyed Rathalos"
     },
     {
       "name": "Gabi",
@@ -22065,7 +22857,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gabi"
     },
     {
       "name": "T-Bone",
@@ -22121,7 +22915,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "T-Bone"
     },
     {
       "name": "Wario - Tennis",
@@ -22143,7 +22939,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Wario"
     },
     {
       "name": "Fox",
@@ -22227,7 +23025,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Star Fox",
+      "character": "Fox"
     },
     {
       "name": "Inkling Squid - Orange",
@@ -22315,7 +23115,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Ganondorf - Tears of the Kingdom",
@@ -22439,7 +23241,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Ganon"
     },
     {
       "name": "Boris",
@@ -22482,7 +23286,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Boris"
     },
     {
       "name": "Antonio",
@@ -22538,7 +23344,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Antonio"
     },
     {
       "name": "Murphy",
@@ -22581,7 +23389,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Murphy"
     },
     {
       "name": "Wade",
@@ -22624,7 +23434,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Wade"
     },
     {
       "name": "Stitches - Amiibo Festival",
@@ -22680,7 +23492,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Stitches"
     },
     {
       "name": "Pascal",
@@ -22736,7 +23550,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pascal"
     },
     {
       "name": "Wisp",
@@ -22762,7 +23578,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Wisp"
     },
     {
       "name": "Fuchsia",
@@ -22818,7 +23636,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Fuchsia"
     },
     {
       "name": "Jigglypuff",
@@ -22858,7 +23678,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Jigglypuff"
     },
     {
       "name": "Tucker",
@@ -22914,7 +23736,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tucker"
     },
     {
       "name": "Link - Ocarina of Time",
@@ -23054,7 +23878,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Boo - Baseball",
@@ -23076,7 +23902,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Boo"
     },
     {
       "name": "Peach - Golf",
@@ -23098,7 +23926,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Peach"
     },
     {
       "name": "Elvis",
@@ -23154,7 +23984,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Elvis"
     },
     {
       "name": "Pichu",
@@ -23176,7 +24008,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Pichu"
     },
     {
       "name": "Pearl",
@@ -23223,7 +24057,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Pearl"
     },
     {
       "name": "Pearl - Side Order",
@@ -23266,7 +24102,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Pearl"
     },
     {
       "name": "Shino",
@@ -23292,7 +24130,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Shino"
     },
     {
       "name": "Link - Majora's Mask",
@@ -23432,7 +24272,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Lottie - Black Skirt And Bow",
@@ -23496,7 +24338,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lottie"
     },
     {
       "name": "Vivian",
@@ -23539,7 +24383,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Vivian"
     },
     {
       "name": "Bettina",
@@ -23595,7 +24441,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bettina"
     },
     {
       "name": "Alex",
@@ -23617,7 +24465,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Minecraft",
+      "character": "Alex"
     },
     {
       "name": "Lyle",
@@ -23673,7 +24523,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lyle"
     },
     {
       "name": "Walker",
@@ -23729,7 +24581,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Walker"
     },
     {
       "name": "Ozzie",
@@ -23785,7 +24639,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ozzie"
     },
     {
       "name": "Turbo Charge Donkey Kong",
@@ -23901,7 +24757,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Donkey Kong"
     },
     {
       "name": "Sterling",
@@ -23957,7 +24815,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sterling"
     },
     {
       "name": "Isabelle - Character Parfait",
@@ -24029,7 +24889,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Claude",
@@ -24072,7 +24934,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Claude"
     },
     {
       "name": "Goldie - Amiibo Festival",
@@ -24128,7 +24992,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Goldie"
     },
     {
       "name": "Fauna",
@@ -24184,7 +25050,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Fauna"
     },
     {
       "name": "Ankha",
@@ -24240,7 +25108,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ankha"
     },
     {
       "name": "Gulliver",
@@ -24296,7 +25166,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gulliver"
     },
     {
       "name": "Kid Cat",
@@ -24352,7 +25224,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kid Cat"
     },
     {
       "name": "Romin Kirishima",
@@ -24374,7 +25248,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Yu-Gi-Oh!",
+      "character": "Romin Kirishima"
     },
     {
       "name": "Katt",
@@ -24430,7 +25306,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Katt"
     },
     {
       "name": "Piranha Plant",
@@ -24456,7 +25334,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Piranha Plant"
     },
     {
       "name": "Rex",
@@ -24499,7 +25379,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rex"
     },
     {
       "name": "Beau",
@@ -24555,7 +25437,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Beau"
     },
     {
       "name": "Bokoblin",
@@ -24627,7 +25511,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Bokoblin"
     },
     {
       "name": "Rosalina - Baseball",
@@ -24649,7 +25535,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Rosalina"
     },
     {
       "name": "Mewtwo",
@@ -24689,7 +25577,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Mewtwo"
     },
     {
       "name": "Bertha",
@@ -24745,7 +25635,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bertha"
     },
     {
       "name": "Shadow Mewtwo",
@@ -24767,7 +25659,9 @@
         "3ds": [],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Shadow Mewtwo"
     },
     {
       "name": "Puck",
@@ -24823,7 +25717,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Puck"
     },
     {
       "name": "Urbosa",
@@ -24891,7 +25787,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Urbosa"
     },
     {
       "name": "Rosie",
@@ -24947,7 +25845,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rosie"
     },
     {
       "name": "Byleth",
@@ -24977,7 +25877,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Byleth"
     },
     {
       "name": "Spike",
@@ -25020,7 +25922,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Spike"
     },
     {
       "name": "Link - Link's Awakening",
@@ -25160,7 +26064,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Moose",
@@ -25216,7 +26122,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Moose"
     },
     {
       "name": "8-Bit Mario Modern Color",
@@ -25388,7 +26296,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Cobb",
@@ -25444,7 +26354,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cobb"
     },
     {
       "name": "Diddy Kong - Soccer",
@@ -25466,7 +26378,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Diddy Kong"
     },
     {
       "name": "Portia",
@@ -25522,7 +26436,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Portia"
     },
     {
       "name": "Benedict",
@@ -25578,7 +26494,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Benedict"
     },
     {
       "name": "Pudge",
@@ -25634,7 +26552,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pudge"
     },
     {
       "name": "Jay",
@@ -25690,7 +26610,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Jay"
     },
     {
       "name": "Shovel Knight",
@@ -25754,7 +26676,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Shovel Knight",
+      "character": "Shovel Knight"
     },
     {
       "name": "Loot Goblin",
@@ -25776,7 +26700,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Diablo",
+      "character": "Loot Goblin"
     },
     {
       "name": "Tabby",
@@ -25832,7 +26758,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tabby"
     },
     {
       "name": "Kody",
@@ -25888,7 +26816,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kody"
     },
     {
       "name": "Bowser Jr. - Horse Racing",
@@ -25910,7 +26840,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser Jr."
     },
     {
       "name": "Apollo",
@@ -25966,7 +26898,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Apollo"
     },
     {
       "name": "Timmy & Tommy",
@@ -26022,7 +26956,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Timmy & Tommy"
     },
     {
       "name": "Maple",
@@ -26078,7 +27014,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Maple"
     },
     {
       "name": "Dr. Mario",
@@ -26246,7 +27184,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Baby Mario - Horse Racing",
@@ -26268,7 +27208,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Mario"
     },
     {
       "name": "Baby Luigi - Tennis",
@@ -26290,7 +27232,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Luigi"
     },
     {
       "name": "Annalisa",
@@ -26346,7 +27290,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Annalisa"
     },
     {
       "name": "Tia",
@@ -26402,7 +27348,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tia"
     },
     {
       "name": "Yuka",
@@ -26458,7 +27406,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Yuka"
     },
     {
       "name": "Tom Nook",
@@ -26542,7 +27492,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tom Nook"
     },
     {
       "name": "Pate",
@@ -26598,7 +27550,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pate"
     },
     {
       "name": "Kirby",
@@ -26722,7 +27676,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kirby",
+      "character": "Kirby"
     },
     {
       "name": "Carmen",
@@ -26778,7 +27734,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Carmen"
     },
     {
       "name": "Phineas",
@@ -26830,7 +27788,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Phineas"
     },
     {
       "name": "Lily",
@@ -26886,7 +27846,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lily"
     },
     {
       "name": "Bob",
@@ -26942,7 +27904,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bob"
     },
     {
       "name": "Nabiru",
@@ -26989,7 +27953,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Nabiru"
     },
     {
       "name": "Cyrus",
@@ -27053,7 +28019,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cyrus"
     },
     {
       "name": "Palamute",
@@ -27079,7 +28047,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Palamute"
     },
     {
       "name": "Isabelle",
@@ -27151,7 +28121,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Kazuya",
@@ -27173,7 +28145,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Tekken",
+      "character": "Kazuya"
     },
     {
       "name": "Falco",
@@ -27241,7 +28215,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Star Fox",
+      "character": "Falco"
     },
     {
       "name": "Savannah",
@@ -27297,7 +28273,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Savannah"
     },
     {
       "name": "Lucas",
@@ -27341,7 +28319,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Earthbound",
+      "character": "Lucas"
     },
     {
       "name": "Phil",
@@ -27397,7 +28377,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Phil"
     },
     {
       "name": "Pete",
@@ -27453,7 +28435,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pete"
     },
     {
       "name": "Graham",
@@ -27509,7 +28493,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Graham"
     },
     {
       "name": "Barioth and Ayuria",
@@ -27556,7 +28542,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Barioth"
     },
     {
       "name": "Freckles",
@@ -27612,7 +28600,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Freckles"
     },
     {
       "name": "Roswell",
@@ -27638,7 +28628,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Roswell"
     },
     {
       "name": "Bowser",
@@ -27782,7 +28774,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Bowser"
     },
     {
       "name": "Benjamin",
@@ -27838,7 +28832,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Benjamin"
     },
     {
       "name": "Samus - Metroid Dread",
@@ -27942,7 +28938,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "Samus"
     },
     {
       "name": "Lopez",
@@ -27998,7 +28996,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lopez"
     },
     {
       "name": "Willow",
@@ -28054,7 +29054,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Willow"
     },
     {
       "name": "Jambette",
@@ -28110,7 +29112,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Jambette"
     },
     {
       "name": "Charizard",
@@ -28150,7 +29154,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Charizard"
     },
     {
       "name": "Mira",
@@ -28206,7 +29212,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mira"
     },
     {
       "name": "Mario - Cat",
@@ -28374,7 +29382,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Shrunk - Loud Jacket",
@@ -28430,7 +29440,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Shrunk"
     },
     {
       "name": "Raymond",
@@ -28456,7 +29468,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Raymond"
     },
     {
       "name": "Ione",
@@ -28512,7 +29526,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ione"
     },
     {
       "name": "Molly",
@@ -28568,7 +29584,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Molly"
     },
     {
       "name": "Gracie",
@@ -28624,7 +29642,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gracie"
     },
     {
       "name": "Tiki",
@@ -28667,7 +29687,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Tiki"
     },
     {
       "name": "Hans",
@@ -28723,7 +29745,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Hans"
     },
     {
       "name": "Nat",
@@ -28779,7 +29803,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Nat"
     },
     {
       "name": "Tommy - Suit",
@@ -28835,7 +29861,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tommy"
     },
     {
       "name": "Mega Man - Gold Edition",
@@ -28911,7 +29939,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Megaman",
+      "character": "Mega Man"
     },
     {
       "name": "Timmy - Full Apron",
@@ -28967,7 +29997,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Timmy"
     },
     {
       "name": "Zelda - Tears of the Kingdom",
@@ -29099,7 +30131,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Zelda"
     },
     {
       "name": "Felicity",
@@ -29155,7 +30189,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Felicity"
     },
     {
       "name": "Gulliver",
@@ -29211,7 +30247,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gulliver"
     },
     {
       "name": "Waluigi - Baseball",
@@ -29233,7 +30271,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Waluigi"
     },
     {
       "name": "Blathers",
@@ -29297,7 +30337,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Blathers"
     },
     {
       "name": "Kirby",
@@ -29421,7 +30463,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kirby",
+      "character": "Kirby"
     },
     {
       "name": "Rodeo",
@@ -29477,7 +30521,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rodeo"
     },
     {
       "name": "Baby Mario - Golf",
@@ -29499,7 +30545,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Mario"
     },
     {
       "name": "Kitt",
@@ -29555,7 +30603,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kitt"
     },
     {
       "name": "Prince",
@@ -29611,7 +30661,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Prince"
     },
     {
       "name": "K. K. Slider - Pikopuri",
@@ -29675,7 +30727,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "K.K. Slider"
     },
     {
       "name": "Olimar",
@@ -29747,7 +30801,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pikmin",
+      "character": "Olimar"
     },
     {
       "name": "Clyde",
@@ -29803,7 +30859,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Clyde"
     },
     {
       "name": "Ruby",
@@ -29859,7 +30917,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ruby"
     },
     {
       "name": "Groucho",
@@ -29915,7 +30975,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Groucho"
     },
     {
       "name": "King Dedede",
@@ -30019,7 +31081,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kirby",
+      "character": "King Dedede"
     },
     {
       "name": "Roy",
@@ -30083,7 +31147,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Roy"
     },
     {
       "name": "Malzeno",
@@ -30105,7 +31171,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Malzeno"
     },
     {
       "name": "Mario - Wedding",
@@ -30285,7 +31353,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Light Blue Yarn Yoshi",
@@ -30425,7 +31495,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Yoshi"
     },
     {
       "name": "Baabara",
@@ -30481,7 +31553,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Baabara"
     },
     {
       "name": "Mr. Game & Watch",
@@ -30537,7 +31611,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Classic Nintendo",
+      "character": "Mr. G&W"
     },
     {
       "name": "Captain Falcon",
@@ -30605,7 +31681,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "F-Zero",
+      "character": "Captain Falcon"
     },
     {
       "name": "Static",
@@ -30661,7 +31739,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Static"
     },
     {
       "name": "Rod",
@@ -30717,7 +31797,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rod"
     },
     {
       "name": "Bitty",
@@ -30760,7 +31842,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bitty"
     },
     {
       "name": "Peach - Cat",
@@ -30916,7 +32000,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Peach"
     },
     {
       "name": "Buzz",
@@ -30959,7 +32045,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Buzz"
     },
     {
       "name": "Blathers",
@@ -31023,7 +32111,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Blathers"
     },
     {
       "name": "Bonbon",
@@ -31079,7 +32169,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bonbon"
     },
     {
       "name": "Rolf",
@@ -31135,7 +32227,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rolf"
     },
     {
       "name": "Queenie",
@@ -31191,7 +32285,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Queenie"
     },
     {
       "name": "Diana",
@@ -31247,7 +32343,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Diana"
     },
     {
       "name": "Hayakawa",
@@ -31269,7 +32367,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Power Pros",
+      "character": "Hayakawa"
     },
     {
       "name": "Alice",
@@ -31325,7 +32425,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Alice"
     },
     {
       "name": "Wario",
@@ -31425,7 +32527,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Wario"
     },
     {
       "name": "Paula",
@@ -31481,7 +32585,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Paula"
     },
     {
       "name": "Metal Mario - Golf",
@@ -31503,7 +32609,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Metal Mario"
     },
     {
       "name": "Piper",
@@ -31546,7 +32654,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Piper"
     },
     {
       "name": "Meta Knight",
@@ -31650,7 +32760,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kirby",
+      "character": "Meta Knight"
     },
     {
       "name": "Ribbot",
@@ -31706,7 +32818,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ribbot"
     },
     {
       "name": "Hornsby",
@@ -31749,7 +32863,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Hornsby"
     },
     {
       "name": "Timmy - Suit",
@@ -31805,7 +32921,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Timmy"
     },
     {
       "name": "Wilbur",
@@ -31831,7 +32949,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Wilbur"
     },
     {
       "name": "Ellie",
@@ -31874,7 +32994,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ellie"
     },
     {
       "name": "Bluebear",
@@ -31930,7 +33052,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bluebear"
     },
     {
       "name": "Bowser Jr.",
@@ -32034,7 +33158,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Bowser Jr."
     },
     {
       "name": "Shulk",
@@ -32094,7 +33220,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Xenoblade",
+      "character": "Shulk"
     },
     {
       "name": "Daisy",
@@ -32165,7 +33293,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Daisy"
     },
     {
       "name": "Bowser - Soccer",
@@ -32187,7 +33317,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser"
     },
     {
       "name": "Sally",
@@ -32243,7 +33375,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sally"
     },
     {
       "name": "Sasha",
@@ -32269,7 +33403,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sasha"
     },
     {
       "name": "Robin",
@@ -32353,7 +33489,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Robin"
     },
     {
       "name": "Patty",
@@ -32409,7 +33547,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Patty"
     },
     {
       "name": "Gloria",
@@ -32465,7 +33605,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gloria"
     },
     {
       "name": "K.K. Slider",
@@ -32529,7 +33671,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "K.K. Slider"
     },
     {
       "name": "Simon",
@@ -32585,7 +33729,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Simon"
     },
     {
       "name": "Link - Tears of the Kingdom",
@@ -32725,7 +33871,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Papi",
@@ -32781,7 +33929,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Papi"
     },
     {
       "name": "Dizzy",
@@ -32837,7 +33987,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Dizzy"
     },
     {
       "name": "Chow",
@@ -32893,7 +34045,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chow"
     },
     {
       "name": "Tipper",
@@ -32949,7 +34103,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tipper"
     },
     {
       "name": "Leonardo",
@@ -33005,7 +34161,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Leonardo"
     },
     {
       "name": "Toon Link",
@@ -33141,7 +34299,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Pango",
@@ -33197,7 +34357,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pango"
     },
     {
       "name": "R.O.B. - NES",
@@ -33253,7 +34415,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Classic Nintendo",
+      "character": "R.O.B."
     },
     {
       "name": "Pink Gold Peach - Baseball",
@@ -33275,7 +34439,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Pink Gold Peach"
     },
     {
       "name": "Pac-Man",
@@ -33339,7 +34505,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pac-man",
+      "character": "PAC-MAN"
     },
     {
       "name": "Marlo",
@@ -33365,7 +34533,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Marlo"
     },
     {
       "name": "Luigi - Tennis",
@@ -33387,7 +34557,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Luigi"
     },
     {
       "name": "Lottie",
@@ -33451,7 +34623,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lottie"
     },
     {
       "name": "Peach - Tennis",
@@ -33473,7 +34647,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Peach"
     },
     {
       "name": "Poncho",
@@ -33529,7 +34705,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Poncho"
     },
     {
       "name": "Mott",
@@ -33585,7 +34763,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mott"
     },
     {
       "name": "Zucker",
@@ -33641,7 +34821,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Zucker"
     },
     {
       "name": "Daisy - Power Up Band",
@@ -33683,7 +34865,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Daisy"
     },
     {
       "name": "Mega Man",
@@ -33759,7 +34943,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Megaman",
+      "character": "Mega Man"
     },
     {
       "name": "Gruff",
@@ -33815,7 +35001,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gruff"
     },
     {
       "name": "Metroid",
@@ -33866,7 +35054,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "Metroid"
     },
     {
       "name": "Pompom",
@@ -33922,7 +35112,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pompom"
     },
     {
       "name": "Celeste",
@@ -33986,7 +35178,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Celeste"
     },
     {
       "name": "Cashmere",
@@ -34029,7 +35223,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cashmere"
     },
     {
       "name": "Diva",
@@ -34085,7 +35281,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Diva"
     },
     {
       "name": "Truffles",
@@ -34141,7 +35339,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Truffles"
     },
     {
       "name": "Marina",
@@ -34197,7 +35397,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Marina"
     },
     {
       "name": "Nana",
@@ -34253,7 +35455,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Nana"
     },
     {
       "name": "Bowser Jr. - Tennis",
@@ -34275,7 +35479,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser Jr."
     },
     {
       "name": "Inkling Boy - Purple",
@@ -34363,7 +35569,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Eunice",
@@ -34419,7 +35627,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Eunice"
     },
     {
       "name": "Bowser - Horse Racing",
@@ -34441,7 +35651,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser"
     },
     {
       "name": "Donkey Kong",
@@ -34557,7 +35769,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Donkey Kong"
     },
     {
       "name": "Toad - Power Up Band",
@@ -34599,7 +35813,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Toad"
     },
     {
       "name": "Rory",
@@ -34655,7 +35871,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rory"
     },
     {
       "name": "Egbert",
@@ -34711,7 +35929,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Egbert"
     },
     {
       "name": "Mario",
@@ -34879,7 +36099,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Rosalina - Soccer",
@@ -34901,7 +36123,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Rosalina"
     },
     {
       "name": "Link - Skyward Sword",
@@ -35041,7 +36265,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Link"
     },
     {
       "name": "Cheri",
@@ -35097,7 +36323,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cheri"
     },
     {
       "name": "Tom Nook",
@@ -35161,7 +36389,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tom Nook"
     },
     {
       "name": "Luigi - Horse Racing",
@@ -35183,7 +36413,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Luigi"
     },
     {
       "name": "Yoshi - Soccer",
@@ -35205,7 +36437,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Yoshi"
     },
     {
       "name": "Mathilda",
@@ -35261,7 +36495,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mathilda"
     },
     {
       "name": "Mario - Tennis",
@@ -35283,7 +36519,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Mario"
     },
     {
       "name": "Inkling Squid - Neon Purple",
@@ -35367,7 +36605,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Pietro",
@@ -35423,7 +36663,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pietro"
     },
     {
       "name": "Baby Mario - Tennis",
@@ -35445,7 +36687,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Mario"
     },
     {
       "name": "Diddy Kong - Baseball",
@@ -35467,7 +36711,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Diddy Kong"
     },
     {
       "name": "Drake",
@@ -35523,7 +36769,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Drake"
     },
     {
       "name": "Dobie",
@@ -35566,7 +36814,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Dobie"
     },
     {
       "name": "Peach",
@@ -35730,7 +36980,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Peach"
     },
     {
       "name": "Donkey Kong - Baseball",
@@ -35752,7 +37004,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Donkey Kong"
     },
     {
       "name": "Zoe",
@@ -35778,7 +37032,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Zoe"
     },
     {
       "name": "Tom Nook",
@@ -35842,7 +37098,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tom Nook"
     },
     {
       "name": "Nan",
@@ -35898,7 +37156,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Nan"
     },
     {
       "name": "Yoshi - Baseball",
@@ -35920,7 +37180,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Yoshi"
     },
     {
       "name": "Peach",
@@ -36076,7 +37338,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Peach"
     },
     {
       "name": "Peach - My Mario Wooden Blocks",
@@ -36232,7 +37496,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Peach"
     },
     {
       "name": "Waluigi",
@@ -36296,7 +37562,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Waluigi"
     },
     {
       "name": "K.K. Slider",
@@ -36360,7 +37628,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "K.K. Slider"
     },
     {
       "name": "Victoria",
@@ -36416,7 +37686,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Victoria"
     },
     {
       "name": "Kitty",
@@ -36472,7 +37744,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kitty"
     },
     {
       "name": "Rizzo",
@@ -36528,7 +37802,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rizzo"
     },
     {
       "name": "Diddy Kong - Golf",
@@ -36550,7 +37826,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Diddy Kong"
     },
     {
       "name": "Agent S",
@@ -36606,7 +37884,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Agent S"
     },
     {
       "name": "Greninja",
@@ -36646,7 +37926,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Greninja"
     },
     {
       "name": "Peach - Baseball",
@@ -36668,7 +37950,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Peach"
     },
     {
       "name": "Flora",
@@ -36724,7 +38008,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Flora"
     },
     {
       "name": "Cole",
@@ -36780,7 +38066,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cole"
     },
     {
       "name": "Octavian",
@@ -36836,7 +38124,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Octavian"
     },
     {
       "name": "Koopa Troopa",
@@ -36895,7 +38185,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Koopa Troopa"
     },
     {
       "name": "Friga",
@@ -36951,7 +38243,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Friga"
     },
     {
       "name": "Cousteau",
@@ -37007,7 +38301,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cousteau"
     },
     {
       "name": "Don Resetti - Without Hat",
@@ -37063,7 +38359,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Don Resetti"
     },
     {
       "name": "Tiansheng",
@@ -37089,7 +38387,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tiansheng"
     },
     {
       "name": "Becky",
@@ -37145,7 +38445,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Becky"
     },
     {
       "name": "Klaus",
@@ -37201,7 +38503,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Klaus"
     },
     {
       "name": "Chadder",
@@ -37257,7 +38561,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chadder"
     },
     {
       "name": "Inkling Girl - Neon Pink",
@@ -37345,7 +38651,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Goomba",
@@ -37405,7 +38713,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Goomba"
     },
     {
       "name": "Bayonetta - Player 2",
@@ -37441,7 +38751,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Bayonetta",
+      "character": "Bayonetta"
     },
     {
       "name": "Mario - Gold Edition",
@@ -37617,7 +38929,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Zero Suit Samus",
@@ -37721,7 +39035,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "Samus"
     },
     {
       "name": "Mario - Power Up Band",
@@ -37771,7 +39087,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Pit",
@@ -37823,7 +39141,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kid Icarus",
+      "character": "Pit"
     },
     {
       "name": "Dotty",
@@ -37879,7 +39199,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Dotty"
     },
     {
       "name": "Katie",
@@ -37935,7 +39257,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Katie"
     },
     {
       "name": "Sheik",
@@ -38063,7 +39387,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Zelda"
     },
     {
       "name": "Pink Gold Peach - Horse Racing",
@@ -38085,7 +39411,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Pink Gold Peach"
     },
     {
       "name": "Jingle",
@@ -38141,7 +39469,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Jingle"
     },
     {
       "name": "Lolly",
@@ -38197,7 +39527,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lolly"
     },
     {
       "name": "Inkling Girl - Lime Green",
@@ -38289,7 +39621,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Metal Mario - Horse Racing",
@@ -38311,7 +39645,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Metal Mario"
     },
     {
       "name": "Octoling - Blue",
@@ -38350,7 +39686,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Octoling"
     },
     {
       "name": "Alm",
@@ -38397,7 +39735,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Alm"
     },
     {
       "name": "Richter",
@@ -38419,7 +39759,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Castlevania",
+      "character": "Richter"
     },
     {
       "name": "Jeremiah",
@@ -38475,7 +39817,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Jeremiah"
     },
     {
       "name": "Bowser - Golf",
@@ -38497,7 +39841,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser"
     },
     {
       "name": "Booker",
@@ -38553,7 +39899,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Booker"
     },
     {
       "name": "Lucky",
@@ -38609,7 +39957,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lucky"
     },
     {
       "name": "K. K. Slider",
@@ -38693,7 +40043,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "K.K. Slider"
     },
     {
       "name": "Luna",
@@ -38749,7 +40101,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Luna"
     },
     {
       "name": "Doc",
@@ -38805,7 +40159,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Doc"
     },
     {
       "name": "Celia",
@@ -38861,7 +40217,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Celia"
     },
     {
       "name": "Hippeux",
@@ -38917,7 +40275,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Hippeux"
     },
     {
       "name": "Baby Luigi - Soccer",
@@ -38939,7 +40299,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Luigi"
     },
     {
       "name": "Poppy",
@@ -38995,7 +40357,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Poppy"
     },
     {
       "name": "Tank",
@@ -39051,7 +40415,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tank"
     },
     {
       "name": "Lottie - Island",
@@ -39115,7 +40481,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lottie"
     },
     {
       "name": "Marcel",
@@ -39171,7 +40539,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Marcel"
     },
     {
       "name": "Reese",
@@ -39235,7 +40605,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Reese"
     },
     {
       "name": "Pikmin",
@@ -39275,7 +40647,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pikmin",
+      "character": "Pikmin"
     },
     {
       "name": "Buck",
@@ -39331,7 +40705,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Buck"
     },
     {
       "name": "Ricky",
@@ -39387,7 +40763,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ricky"
     },
     {
       "name": "Cube",
@@ -39443,7 +40821,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cube"
     },
     {
       "name": "Yuga Ohdo",
@@ -39465,7 +40845,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Yu-Gi-Oh!",
+      "character": "Yuga Ohdo"
     },
     {
       "name": "Birdo - Soccer",
@@ -39487,7 +40869,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Birdo"
     },
     {
       "name": "Daisy - Tennis",
@@ -39509,7 +40893,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Daisy"
     },
     {
       "name": "Astrid",
@@ -39565,7 +40951,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Astrid"
     },
     {
       "name": "Isabelle - Winter Outfit",
@@ -39653,7 +41041,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Celeste",
@@ -39729,7 +41119,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Celeste"
     },
     {
       "name": "Pink Yarn Yoshi",
@@ -39869,7 +41261,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Yoshi"
     },
     {
       "name": "Ganda",
@@ -39891,7 +41285,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Power Pros",
+      "character": "Ganda"
     },
     {
       "name": "Daisy - Baseball",
@@ -39913,7 +41309,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Daisy"
     },
     {
       "name": "Bowser - Tennis",
@@ -39935,7 +41333,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser"
     },
     {
       "name": "Boomer",
@@ -39991,7 +41391,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Boomer"
     },
     {
       "name": "Diddy Kong",
@@ -40087,7 +41489,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Diddy Kong"
     },
     {
       "name": "Diddy Kong - Power Up Band",
@@ -40125,7 +41529,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Diddy Kong"
     },
     {
       "name": "Canberra",
@@ -40181,7 +41587,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Canberra"
     },
     {
       "name": "Pink Gold Peach - Golf",
@@ -40203,7 +41611,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Pink Gold Peach"
     },
     {
       "name": "Chief",
@@ -40259,7 +41669,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chief"
     },
     {
       "name": "Inkling Boy - Neon Green",
@@ -40343,7 +41755,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Inkling"
     },
     {
       "name": "Biff",
@@ -40399,7 +41813,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Biff"
     },
     {
       "name": "Little Mac",
@@ -40455,7 +41871,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Punch Out",
+      "character": "Little Mac"
     },
     {
       "name": "Julian",
@@ -40511,7 +41929,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Julian"
     },
     {
       "name": "Moe",
@@ -40567,7 +41987,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Moe"
     },
     {
       "name": "Baby Mario - Baseball",
@@ -40589,7 +42011,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Mario"
     },
     {
       "name": "Phyllis",
@@ -40645,7 +42069,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Phyllis"
     },
     {
       "name": "Megan",
@@ -40671,7 +42097,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Megan"
     },
     {
       "name": "Green Yarn Yoshi",
@@ -40811,7 +42239,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Yoshi"
     },
     {
       "name": "Maddie",
@@ -40854,7 +42284,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Maddie"
     },
     {
       "name": "Wendy",
@@ -40910,7 +42342,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Wendy"
     },
     {
       "name": "Peanut",
@@ -40966,7 +42400,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Peanut"
     },
     {
       "name": "Chabwick",
@@ -40992,7 +42428,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chabwick"
     },
     {
       "name": "Leila",
@@ -41048,7 +42486,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Leila"
     },
     {
       "name": "Pyra",
@@ -41074,7 +42514,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Xenoblade",
+      "character": "Pyra"
     },
     {
       "name": "Rilla",
@@ -41117,7 +42559,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rilla"
     },
     {
       "name": "Villager",
@@ -41201,7 +42645,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Villager"
     },
     {
       "name": "Mabel",
@@ -41265,7 +42711,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mabel"
     },
     {
       "name": "Tiffany",
@@ -41321,7 +42769,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tiffany"
     },
     {
       "name": "Bowser Jr. - Golf",
@@ -41343,7 +42793,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser Jr."
     },
     {
       "name": "Waddle Dee",
@@ -41418,7 +42870,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kirby",
+      "character": "Waddle Dee"
     },
     {
       "name": "Del",
@@ -41474,7 +42928,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Del"
     },
     {
       "name": "Cookie",
@@ -41530,7 +42986,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cookie"
     },
     {
       "name": "Donkey Kong - Tennis",
@@ -41552,7 +43010,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Donkey Kong"
     },
     {
       "name": "Isabelle",
@@ -41620,7 +43080,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Ryu",
@@ -41668,7 +43130,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ryu"
     },
     {
       "name": "Luke",
@@ -41690,7 +43154,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Luke"
     },
     {
       "name": "Luke",
@@ -41712,7 +43178,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Luke"
     },
     {
       "name": "Jamie",
@@ -41734,7 +43202,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Jamie"
     },
     {
       "name": "Jamie",
@@ -41756,7 +43226,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Jamie"
     },
     {
       "name": "Manon",
@@ -41778,7 +43250,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Manon"
     },
     {
       "name": "Kimberly",
@@ -41800,7 +43274,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Kimberly"
     },
     {
       "name": "Kimberly",
@@ -41822,7 +43298,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Kimberly"
     },
     {
       "name": "Marisa",
@@ -41844,7 +43322,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Marisa"
     },
     {
       "name": "Lily",
@@ -41866,7 +43346,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Lily"
     },
     {
       "name": "JP",
@@ -41888,7 +43370,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "JP"
     },
     {
       "name": "Juri",
@@ -41910,7 +43394,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Juri"
     },
     {
       "name": "Dee Jay",
@@ -41932,7 +43418,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Dee Jay"
     },
     {
       "name": "Cammy",
@@ -41954,7 +43442,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Cammy"
     },
     {
       "name": "Ryu",
@@ -42002,7 +43492,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ryu"
     },
     {
       "name": "E. Honda",
@@ -42024,7 +43516,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "E. Honda"
     },
     {
       "name": "Blanka",
@@ -42046,7 +43540,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Blanka"
     },
     {
       "name": "Guile",
@@ -42068,7 +43564,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Guile"
     },
     {
       "name": "Ken",
@@ -42094,7 +43592,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ken"
     },
     {
       "name": "Chun-Li",
@@ -42116,7 +43616,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Chun-Li"
     },
     {
       "name": "Zangief",
@@ -42138,7 +43640,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Zangief"
     },
     {
       "name": "Dhalsim",
@@ -42160,7 +43664,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Dhalsim"
     },
     {
       "name": "Rashid",
@@ -42182,7 +43688,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Rashid"
     },
     {
       "name": "A.K.I",
@@ -42204,7 +43712,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "A.K.I"
     },
     {
       "name": "Ed",
@@ -42226,7 +43736,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ed"
     },
     {
       "name": "Akuma",
@@ -42248,7 +43760,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Akuma"
     },
     {
       "name": "M. Bison",
@@ -42270,7 +43784,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "M. Bison"
     },
     {
       "name": "Terry",
@@ -42296,7 +43812,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fatal Fury",
+      "character": "Terry"
     },
     {
       "name": "Mai",
@@ -42318,7 +43836,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fatal Fury",
+      "character": "Mai"
     },
     {
       "name": "Elena",
@@ -42340,7 +43860,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Elena"
     },
     {
       "name": "Sagat",
@@ -42362,7 +43884,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Sagat"
     },
     {
       "name": "C. Viper",
@@ -42384,7 +43908,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "C. Viper"
     },
     {
       "name": "Alex",
@@ -42406,7 +43932,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Alex"
     },
     {
       "name": "Ingrid",
@@ -42428,7 +43956,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ingrid"
     },
     {
       "name": "Luke",
@@ -42450,7 +43980,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Luke"
     },
     {
       "name": "Jamie",
@@ -42472,7 +44004,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Jamie"
     },
     {
       "name": "Manon",
@@ -42494,7 +44028,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Manon"
     },
     {
       "name": "Kimberly",
@@ -42516,7 +44052,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Kimberly"
     },
     {
       "name": "Marisa",
@@ -42538,7 +44076,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Marisa"
     },
     {
       "name": "Lily",
@@ -42560,7 +44100,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Lily"
     },
     {
       "name": "JP",
@@ -42582,7 +44124,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "JP"
     },
     {
       "name": "Juri",
@@ -42604,7 +44148,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Juri"
     },
     {
       "name": "Dee Jay",
@@ -42626,7 +44172,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Dee Jay"
     },
     {
       "name": "Cammy",
@@ -42648,7 +44196,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Cammy"
     },
     {
       "name": "Ryu",
@@ -42696,7 +44246,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ryu"
     },
     {
       "name": "E. Honda",
@@ -42718,7 +44270,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "E. Honda"
     },
     {
       "name": "Blanka",
@@ -42740,7 +44294,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Blanka"
     },
     {
       "name": "Guile",
@@ -42762,7 +44318,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Guile"
     },
     {
       "name": "Ken",
@@ -42788,7 +44346,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ken"
     },
     {
       "name": "Chun-Li",
@@ -42810,7 +44370,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Chun-Li"
     },
     {
       "name": "Zangief",
@@ -42832,7 +44394,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Zangief"
     },
     {
       "name": "Dhalsim",
@@ -42854,7 +44418,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Dhalsim"
     },
     {
       "name": "Rashid",
@@ -42876,7 +44442,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Rashid"
     },
     {
       "name": "A.K.I",
@@ -42898,7 +44466,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "A.K.I"
     },
     {
       "name": "Ed",
@@ -42920,7 +44490,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ed"
     },
     {
       "name": "Akuma",
@@ -42942,7 +44514,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Akuma"
     },
     {
       "name": "M. Bison",
@@ -42964,7 +44538,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "M. Bison"
     },
     {
       "name": "Terry",
@@ -42990,7 +44566,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fatal Fury",
+      "character": "Terry"
     },
     {
       "name": "Mai",
@@ -43012,7 +44590,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fatal Fury",
+      "character": "Mai"
     },
     {
       "name": "Elena",
@@ -43034,7 +44614,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Elena"
     },
     {
       "name": "Sagat",
@@ -43056,7 +44638,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Sagat"
     },
     {
       "name": "C. Viper",
@@ -43078,7 +44662,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "C. Viper"
     },
     {
       "name": "Alex",
@@ -43100,7 +44686,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Alex"
     },
     {
       "name": "Ingrid",
@@ -43122,7 +44710,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Street Fighter",
+      "character": "Ingrid"
     },
     {
       "name": "Harry",
@@ -43178,7 +44768,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Harry"
     },
     {
       "name": "Deli",
@@ -43234,7 +44826,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Deli"
     },
     {
       "name": "Chelsea",
@@ -43277,7 +44871,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chelsea"
     },
     {
       "name": "Ganondorf",
@@ -43397,7 +44993,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Ganon"
     },
     {
       "name": "Daisy - Golf",
@@ -43419,7 +45017,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Daisy"
     },
     {
       "name": "Pink Gold Peach - Tennis",
@@ -43441,7 +45041,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Pink Gold Peach"
     },
     {
       "name": "Bud",
@@ -43497,7 +45099,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Bud"
     },
     {
       "name": "Joker",
@@ -43519,7 +45123,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Persona",
+      "character": "Joker"
     },
     {
       "name": "Al",
@@ -43591,7 +45197,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Al"
     },
     {
       "name": "Elise",
@@ -43647,7 +45255,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Elise"
     },
     {
       "name": "Dark Samus",
@@ -43677,7 +45287,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "Dark Samus"
     },
     {
       "name": "Marcie",
@@ -43733,7 +45345,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Marcie"
     },
     {
       "name": "Curt",
@@ -43789,7 +45403,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Curt"
     },
     {
       "name": "Kyle",
@@ -43845,7 +45461,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kyle"
     },
     {
       "name": "Corrin - Player 2",
@@ -43905,7 +45523,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Fire Emblem",
+      "character": "Corrin"
     },
     {
       "name": "Angus",
@@ -43961,7 +45581,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Angus"
     },
     {
       "name": "Curly",
@@ -44017,7 +45639,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Curly"
     },
     {
       "name": "Yoshi - Power Up Band",
@@ -44063,7 +45687,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Yoshi"
     },
     {
       "name": "Mario - Golf",
@@ -44085,7 +45711,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Mario"
     },
     {
       "name": "Baby Luigi - Golf",
@@ -44107,7 +45735,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Luigi"
     },
     {
       "name": "Wario - Horse Racing",
@@ -44129,7 +45759,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Wario"
     },
     {
       "name": "Bowser Jr. - Baseball",
@@ -44151,7 +45783,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser Jr."
     },
     {
       "name": "Isabelle - Kimono",
@@ -44223,7 +45857,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Drift",
@@ -44279,7 +45915,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Drift"
     },
     {
       "name": "Margie",
@@ -44335,7 +45973,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Margie"
     },
     {
       "name": "Mallary",
@@ -44391,7 +46031,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Mallary"
     },
     {
       "name": "Bowser - Baseball",
@@ -44413,7 +46055,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser"
     },
     {
       "name": "King Dedede",
@@ -44517,7 +46161,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kirby",
+      "character": "King Dedede"
     },
     {
       "name": "Ena",
@@ -44547,7 +46193,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Ena"
     },
     {
       "name": "Luigi - Baseball",
@@ -44569,7 +46217,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Luigi"
     },
     {
       "name": "Duck Hunt",
@@ -44625,7 +46275,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Classic Nintendo",
+      "character": "Duck Hunt"
     },
     {
       "name": "Cleo",
@@ -44668,7 +46320,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cleo"
     },
     {
       "name": "Digby - Raincoat",
@@ -44732,7 +46386,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Digby"
     },
     {
       "name": "Rosalina - Horse Racing",
@@ -44754,7 +46410,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Rosalina"
     },
     {
       "name": "Cyd",
@@ -44780,7 +46438,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cyd"
     },
     {
       "name": "Bowser",
@@ -44932,7 +46592,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Bowser"
     },
     {
       "name": "Faith",
@@ -44958,7 +46620,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Faith"
     },
     {
       "name": "Annalise",
@@ -45014,7 +46678,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Annalise"
     },
     {
       "name": "Mario - Silver Edition",
@@ -45190,7 +46856,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Incineroar",
@@ -45212,7 +46880,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Incineroar"
     },
     {
       "name": "Yoshi - Horse Racing",
@@ -45234,7 +46904,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Yoshi"
     },
     {
       "name": "Sly",
@@ -45290,7 +46962,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sly"
     },
     {
       "name": "Goose",
@@ -45346,7 +47020,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Goose"
     },
     {
       "name": "Marina",
@@ -45393,7 +47069,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Marina"
     },
     {
       "name": "Marina - Side Order",
@@ -45436,7 +47114,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Marina"
     },
     {
       "name": "Bayonetta",
@@ -45472,7 +47152,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Bayonetta",
+      "character": "Bayonetta"
     },
     {
       "name": "Joey",
@@ -45528,7 +47210,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Joey"
     },
     {
       "name": "Pokemon Trainer",
@@ -45550,7 +47234,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Pokemon",
+      "character": "Pokemon Trainer"
     },
     {
       "name": "Tangy",
@@ -45606,7 +47292,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tangy"
     },
     {
       "name": "Pancetti",
@@ -45662,7 +47350,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pancetti"
     },
     {
       "name": "Ridley",
@@ -45692,7 +47382,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "Ridley"
     },
     {
       "name": "Donkey Kong - Golf",
@@ -45714,7 +47406,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Donkey Kong"
     },
     {
       "name": "Louie",
@@ -45757,7 +47451,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Louie"
     },
     {
       "name": "Dora",
@@ -45813,7 +47509,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Dora"
     },
     {
       "name": "Broffina",
@@ -45869,7 +47567,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Broffina"
     },
     {
       "name": "Blanche",
@@ -45925,7 +47625,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Blanche"
     },
     {
       "name": "Mario - Horse Racing",
@@ -45947,7 +47649,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Mario"
     },
     {
       "name": "Lionel",
@@ -46003,7 +47707,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Lionel"
     },
     {
       "name": "Jacques",
@@ -46059,7 +47765,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Jacques"
     },
     {
       "name": "Vesta",
@@ -46115,7 +47823,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Vesta"
     },
     {
       "name": "Chevre",
@@ -46171,7 +47881,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chevre"
     },
     {
       "name": "Shep",
@@ -46227,7 +47939,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Shep"
     },
     {
       "name": "Specter Knight",
@@ -46283,7 +47997,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Shovel Knight",
+      "character": "Specter Knight"
     },
     {
       "name": "Fang",
@@ -46339,7 +48055,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Fang"
     },
     {
       "name": "Isabelle - Sweater",
@@ -46411,7 +48129,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Isabelle"
     },
     {
       "name": "Snake",
@@ -46467,7 +48187,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Snake"
     },
     {
       "name": "Rio",
@@ -46510,7 +48232,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rio"
     },
     {
       "name": "Pekoe",
@@ -46566,7 +48290,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Pekoe"
     },
     {
       "name": "Celeste",
@@ -46630,7 +48356,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Celeste"
     },
     {
       "name": "Norma",
@@ -46673,7 +48401,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Norma"
     },
     {
       "name": "Butch",
@@ -46729,7 +48459,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Butch"
     },
     {
       "name": "Marshal",
@@ -46785,7 +48517,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Marshal"
     },
     {
       "name": "Octoling Octopus",
@@ -46828,7 +48562,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Splatoon",
+      "character": "Octoling"
     },
     {
       "name": "8-Bit Mario Classic Color",
@@ -47000,7 +48736,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Mario"
     },
     {
       "name": "Olivia",
@@ -47056,7 +48794,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Olivia"
     },
     {
       "name": "Zelda",
@@ -47184,7 +48924,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "The Legend of Zelda",
+      "character": "Zelda"
     },
     {
       "name": "Samus Aran",
@@ -47292,7 +49034,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Metroid",
+      "character": "Samus"
     },
     {
       "name": "Zell",
@@ -47348,7 +49092,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Zell"
     },
     {
       "name": "Clay",
@@ -47404,7 +49150,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Clay"
     },
     {
       "name": "Boo - Tennis",
@@ -47426,7 +49174,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Boo"
     },
     {
       "name": "Goldie",
@@ -47482,7 +49232,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Goldie"
     },
     {
       "name": "Yabe",
@@ -47504,7 +49256,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Power Pros",
+      "character": "Yabe"
     },
     {
       "name": "Ness",
@@ -47564,7 +49318,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Earthbound",
+      "character": "Ness"
     },
     {
       "name": "Plague Knight",
@@ -47620,7 +49376,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Shovel Knight",
+      "character": "Plague Knight"
     },
     {
       "name": "Tad",
@@ -47663,7 +49421,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tad"
     },
     {
       "name": "Penelope",
@@ -47719,7 +49479,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Penelope"
     },
     {
       "name": "Rosalina - Golf",
@@ -47741,7 +49503,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Rosalina"
     },
     {
       "name": "Palutena",
@@ -47801,7 +49565,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kid Icarus",
+      "character": "Palutena"
     },
     {
       "name": "Curlos",
@@ -47857,7 +49623,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Curlos"
     },
     {
       "name": "Samson",
@@ -47913,7 +49681,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Samson"
     },
     {
       "name": "Saharah",
@@ -47969,7 +49739,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Saharah"
     },
     {
       "name": "Walt",
@@ -48025,7 +49797,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Walt"
     },
     {
       "name": "Julia",
@@ -48081,7 +49855,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Julia"
     },
     {
       "name": "Hamlet",
@@ -48137,7 +49913,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Hamlet"
     },
     {
       "name": "Charlise",
@@ -48193,7 +49971,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Charlise"
     },
     {
       "name": "Gonzo",
@@ -48236,7 +50016,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Gonzo"
     },
     {
       "name": "Opal",
@@ -48292,7 +50074,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Opal"
     },
     {
       "name": "Flo",
@@ -48348,7 +50132,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Flo"
     },
     {
       "name": "Knox",
@@ -48404,7 +50190,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Knox"
     },
     {
       "name": "Donkey Kong",
@@ -48528,7 +50316,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Donkey Kong"
     },
     {
       "name": "Donkey Kong & Pauline",
@@ -48550,7 +50340,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Donkey Kong"
     },
     {
       "name": "Donkey Kong - Power Up Band",
@@ -48592,7 +50384,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Donkey Kong"
     },
     {
       "name": "Cherry",
@@ -48648,7 +50442,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Cherry"
     },
     {
       "name": "Rover",
@@ -48724,7 +50520,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Rover"
     },
     {
       "name": "Soleil",
@@ -48780,7 +50578,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Soleil"
     },
     {
       "name": "Barold",
@@ -48836,7 +50636,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Barold"
     },
     {
       "name": "Birdo - Baseball",
@@ -48858,7 +50660,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Birdo"
     },
     {
       "name": "Toad",
@@ -48990,7 +50794,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Super Mario",
+      "character": "Toad"
     },
     {
       "name": "Shari",
@@ -49046,7 +50852,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Shari"
     },
     {
       "name": "Joan",
@@ -49102,7 +50910,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Joan"
     },
     {
       "name": "Bowser Jr. - Soccer",
@@ -49124,7 +50934,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Bowser Jr."
     },
     {
       "name": "Sheldon",
@@ -49180,7 +50992,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Sheldon"
     },
     {
       "name": "Chester",
@@ -49236,7 +51050,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Chester"
     },
     {
       "name": "Baby Luigi - Horse Racing",
@@ -49258,7 +51074,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Baby Luigi"
     },
     {
       "name": "Ike",
@@ -49301,7 +51119,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Ike"
     },
     {
       "name": "Leilani",
@@ -49357,7 +51177,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Leilani"
     },
     {
       "name": "Skye",
@@ -49413,7 +51235,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Skye"
     },
     {
       "name": "C.J.",
@@ -49439,7 +51263,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "C.J."
     },
     {
       "name": "Metal Mario - Baseball",
@@ -49461,7 +51287,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Metal Mario"
     },
     {
       "name": "Palico",
@@ -49487,7 +51315,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Monster Hunter",
+      "character": "Palico"
     },
     {
       "name": "Mario - Baseball",
@@ -49509,7 +51339,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Mario"
     },
     {
       "name": "Kicks",
@@ -49573,7 +51405,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Kicks"
     },
     {
       "name": "Stella",
@@ -49616,7 +51450,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Stella"
     },
     {
       "name": "Freya",
@@ -49672,7 +51508,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Freya"
     },
     {
       "name": "Judy",
@@ -49698,7 +51536,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Judy"
     },
     {
       "name": "Peewee",
@@ -49754,7 +51594,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Peewee"
     },
     {
       "name": "Tom Nook - Coat",
@@ -49818,7 +51660,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Tom Nook"
     },
     {
       "name": "Diddy Kong - Tennis",
@@ -49840,7 +51684,9 @@
         ],
         "switch": [],
         "switch2": []
-      }
+      },
+      "gameSeries": "Mario Sports Superstars",
+      "character": "Diddy Kong"
     },
     {
       "name": "Don Resetti",
@@ -49896,7 +51742,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Don Resetti"
     },
     {
       "name": "Merengue",
@@ -49952,7 +51800,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Merengue"
     },
     {
       "name": "Muffy",
@@ -50008,7 +51858,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Animal Crossing",
+      "character": "Muffy"
     },
     {
       "name": "Noah",
@@ -50030,7 +51882,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Xenoblade",
+      "character": "Noah"
     },
     {
       "name": "Mio",
@@ -50052,7 +51906,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Xenoblade",
+      "character": "Mio"
     },
     {
       "name": "Sora",
@@ -50074,7 +51930,9 @@
           }
         ],
         "switch2": []
-      }
+      },
+      "gameSeries": "Kingdom Hearts",
+      "character": "Sora"
     }
   ]
 }
