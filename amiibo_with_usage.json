@@ -55649,6 +55649,57 @@
       "type": "Figure",
       "head": "3f000000",
       "tail": "042e0002"
+    },
+    {
+      "amiiboSeries": "Kirby Air Riders",
+      "character": "Kirby & Warp Star",
+      "gameSeries": "Kirby",
+      "head": "1f000000",
+      "id": "0x1f00000004c41e03",
+      "image": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/icon_1f000000-04c41e03.png",
+      "name": "Kirby & Warp Star",
+      "release": {
+        "au": "2025-11-20",
+        "eu": "2025-11-20",
+        "jp": "2025-11-20",
+        "na": "2025-11-20"
+      },
+      "tail": "04c41e03",
+      "type": "Figure"
+    },
+    {
+      "amiiboSeries": "Kirby Air Riders",
+      "character": "Bandana Waddle Dee & Winged Star",
+      "gameSeries": "Kirby",
+      "head": "1f030100",
+      "id": "0x1f03010004c91e03",
+      "image": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/icon_1f030100-04c91e03.png",
+      "name": "Bandana Waddle Dee & Winged Star",
+      "release": {
+        "au": "2025-11-20",
+        "eu": "2025-11-20",
+        "jp": "2025-11-20",
+        "na": "2025-11-20"
+      },
+      "tail": "04c91e03",
+      "type": "Figure"
+    },
+    {
+      "amiiboSeries": "Metroid Series",
+      "character": "Sylux",
+      "gameSeries": "Metroid Series",
+      "head": "05c50000",
+      "id": "0x05c50000043c1302",
+      "image": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/icon_05c50000-043c1302.png",
+      "name": "Sylux",
+      "release": {
+        "au": "2025-12-04",
+        "eu": "2025-12-04",
+        "jp": "2025-12-04",
+        "na": "2025-12-04"
+      },
+      "tail": "043c1302",
+      "type": "Figure"
     }
   ]
 }
