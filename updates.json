@@ -2,6 +2,12 @@
   "appUpdates" : [
     {
       "changes" : [
+        "Removed API Due to it shutting down "
+      ],
+      "version" : "3.1"
+    },
+    {
+      "changes" : [
         "Added Switch 2 Console To The Compatible Games",
         "Fixed UI In Settings"
       ],
