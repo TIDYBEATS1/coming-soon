@@ -61,5 +61,19 @@
     "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/chef-kawasaki-hop-star-89516333feadf413d40c8d0c575e73a78128c9cbce393fa216e101e53342ce56.png",
     "releaseDate": "2026",
     "region": "JP"
+  },
+  {
+    "id": "E55A32E5",
+    "name": "Diana",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/pragmata/diana-873aee66935d633b907eb377730d6b9645750912029de2c3c0fe4c188e118754.png",
+    "releaseDate": "26-04-2026",
+    "region": "JP and US"
+  },
+  {
+    "id": "A521D5A0",
+    "name": "Grace Ashcroft",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/resident-evil/grace-ashcroft-152adb1e8991c35977fa556210faca68bd9fe029b5fbf6be87e1d1301edfe456.png",
+    "releaseDate": "Summer 2026",
+    "region": "JP and US"
   }
 ]
