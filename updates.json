@@ -2,6 +2,12 @@
   "appUpdates" : [
     {
       "changes" : [
+        "Fixed NFC Hopefully "
+      ],
+      "version" : "3.2.1"
+    },
+    {
+      "changes" : [
         "Removed API Due to it shutting down "
       ],
       "version" : "3.1"
@@ -64,6 +70,13 @@
     }
   ],
   "otaUpdates" : [
+    {
+      "changes" : [
+        "Added Diana To Coming Soon",
+        "Added Grace Ashcroft To Coming Soon"
+      ],
+      "version" : "3.2.1"
+    },
     {
       "changes" : [
         "Removed Sylux From Coming Soon ",
