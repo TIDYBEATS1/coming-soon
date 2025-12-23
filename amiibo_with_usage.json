@@ -55691,6 +55691,25 @@
       "head": "05c50000",
       "id": "0x05c50000043c1302",
       "image": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/icon_05c50000-043c1302.png",
+      "usage":
+          "Switch 2" : [
+          {
+            "name" : "Metroid Prime 4: Beyond",
+            "usage" : "View a particular completed cutscene after beating game without needing 100% completion / Hear a random voice line from Sylux"
+          }
+
+        ],
+
+        "Switch" : [
+          {
+            "name" : "Mario Kart 8 Deluxe",
+            "usage" : "Unlock a Metroid-themed Mii racing suit"
+          },
+          {
+            "name" : "Conga Master Party!",
+            "usage" : "Unlock a special costume"
+          }
+        ],
       "name": "Sylux",
       "release": {
         "au": "2025-12-04",
