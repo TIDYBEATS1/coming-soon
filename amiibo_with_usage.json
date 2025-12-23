@@ -55684,42 +55684,40 @@
       "tail": "04c91e03",
       "type": "Figure"
     },
-    {
-      "amiiboSeries": "Metroid Series",
-      "character": "Sylux",
-      "gameSeries": "Metroid Series",
-      "head": "05c50000",
-      "id": "0x05c50000043c1302",
-      "image": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/icon_05c50000-043c1302.png",
-      "usage": {
-          "Switch 2" : [
-          {
-            "name" : "Metroid Prime 4: Beyond",
-            "usage" : "View a particular completed cutscene after beating game without needing 100% completion / Hear a random voice line from Sylux"
-          }
-
-        ],
-
-        "Switch" : [
-          {
-            "name" : "Mario Kart 8 Deluxe",
-            "usage" : "Unlock a Metroid-themed Mii racing suit"
-          },
-          {
-            "name" : "Conga Master Party!",
-            "usage" : "Unlock a special costume"
-          }
-        ]
+{
+  "name": "Sylux",
+  "release": {
+    "au": "2025-12-04",
+    "na": "2025-12-04",
+    "eu": "2025-12-04",
+    "jp": "2025-12-04"
+  },
+  "id": "0x05c50000043c1302",
+  "image": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/icon_05c50000-043c1302.png",
+  "usage": {
+    "switch2": [
+      {
+        "name": "Metroid Prime 4: Beyond",
+        "usage": "View a particular completed cutscene after beating the game without needing 100% completion / Hear a random voice line from Sylux"
+      }
+    ],
+    "switch": [
+      {
+        "name": "Mario Kart 8 Deluxe",
+        "usage": "Unlock a Metroid-themed Mii racing suit"
       },
-      "name": "Sylux",
-      "release": {
-        "au": "2025-12-04",
-        "eu": "2025-12-04",
-        "jp": "2025-12-04",
-        "na": "2025-12-04"
-      },
-      "tail": "043c1302",
-      "type": "Figure"
-    }
+      {
+        "name": "Conga Master Party!",
+        "usage": "Unlock a special costume"
+      }
+    ]
+  },
+  "gameSeries": "Metroid Series",
+  "character": "Sylux",
+  "amiiboSeries": "Metroid Series",
+  "type": "Figure",
+  "head": "05c50000",
+  "tail": "043c1302"
+}
   ]
 }
