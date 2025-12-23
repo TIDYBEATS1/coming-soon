@@ -55691,7 +55691,7 @@
       "head": "05c50000",
       "id": "0x05c50000043c1302",
       "image": "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/refs/heads/main/images/icon_05c50000-043c1302.png",
-      "usage":
+      "usage": {
           "Switch 2" : [
           {
             "name" : "Metroid Prime 4: Beyond",
@@ -55709,7 +55709,8 @@
             "name" : "Conga Master Party!",
             "usage" : "Unlock a special costume"
           }
-        ],
+        ]
+      },
       "name": "Sylux",
       "release": {
         "au": "2025-12-04",
