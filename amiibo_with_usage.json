@@ -12394,7 +12394,12 @@
             "usage": "Unlock a special costume"
           }
         ],
-        "switch2": []
+        "switch2": [
+          {
+            "name": "Metroid Prime 4",
+            "usage": "Change background music while riding Vi-O-La / Replenish health and boost max health by 99 once per day"
+          }
+        ]
       },
       "gameSeries": "Metroid Prime 4",
       "character": "Samus",
