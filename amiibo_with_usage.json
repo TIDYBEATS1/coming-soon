@@ -8731,11 +8731,16 @@
             "usage": "Receive a Spirit of the character"
           }
         ],
-        "switch2": []
+        "switch2": [
+          {
+            "name": "Metroid Prime 4",
+            "usage": "Play a musical jingle"
+          }
+        ]
       },
-      "gameSeries": "Metroid",
+      "gameSeries": "Metroid Dread",
       "character": "E.M.M.I.",
-      "amiiboSeries": "Metroid",
+      "amiiboSeries": "Metroid Series",
       "type": "Figure",
       "head": "05c40000",
       "tail": "04131302"
@@ -30834,7 +30839,7 @@
       "tail": "00970502"
     },
     {
-      "name": "Samus - Metroid Dread",
+      "name": "Samus",
       "release": {
         "au": "2021-10-08",
         "na": "2021-10-08",
@@ -30936,9 +30941,9 @@
         ],
         "switch2": []
       },
-      "gameSeries": "Metroid",
+      "gameSeries": "Metroid Dread",
       "character": "Samus",
-      "amiiboSeries": "Metroid",
+      "amiiboSeries": "Metroid Series",
       "type": "Figure",
       "head": "05c00000",
       "tail": "04121302"
