@@ -10500,6 +10500,12 @@
             "name" : "Mario Kart 8",
             "usage" : "Unlock a character-themed Mii racing suit"
           }
+        ],
+       "switch2": [
+          {
+            "name": "Metroid Prime 4",
+            "usage": "Change background music while riding Vi-O-La / Replenish health and boost max health by 99 once per day"
+          }
         ]
       },
       "hasGames" : true
