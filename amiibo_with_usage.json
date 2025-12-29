@@ -12391,9 +12391,9 @@
         ],
         "switch2": []
       },
-      "gameSeries": "Metroid",
+      "gameSeries": "Metroid Prime 4",
       "character": "Samus",
-      "amiiboSeries": "Metroid",
+      "amiiboSeries": "Metroid Series",
       "type": "Figure",
       "head": "05c00000",
       "tail": "043b1302"
@@ -12499,11 +12499,16 @@
             "usage": "Unlock a special costume"
           }
         ],
-        "switch2": []
+        "switch2": [
+          {  
+            "name": "Metroid Prime 4",
+            "usage": "Change Vi-O-La's color / Improve Vi-O-La boost regeneration once per day / See total distance traveled on Vi-O-La"
+          }
+        ]
       },
-      "gameSeries": "Metroid",
-      "character": "Samus",
-      "amiiboSeries": "Metroid",
+      "gameSeries": "Metroid Prime 4",
+      "character": "Samus & Vi-O-La",
+      "amiiboSeries": "Metroid Series",
       "type": "Figure",
       "head": "05c00000",
       "tail": "043a1302"
