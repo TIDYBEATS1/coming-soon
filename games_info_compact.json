@@ -10316,6 +10316,12 @@
     },
     "0x05c00000043a1302" : {
       "games" : {
+       "Switch 2": [
+          {
+            "name": "Metroid Prime 4",
+            "usage": "Change Vi-O-La's color / Improve Vi-O-La boost regeneration once per day / See total distance traveled on Vi-O-La"
+          }
+        ],
         "3DS" : [
           {
             "name" : "WarioWare Gold",
@@ -16847,6 +16853,12 @@
     },
     "0x34c0000104a81d02" : {
       "games" : {
+        "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
           {
             "name" : "Super Smash Bros. for Nintendo 3DS",
@@ -16858,10 +16870,6 @@
           }
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          },
           {
             "name" : "Resident Evil Revelations",
             "usage" : "Receive a lot of BP \/ Receive better supplies (compared to other amiibo)"
@@ -16886,6 +16894,12 @@
     },
     "0x34c0000104cb1d02" : {
       "games" : {
+       "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
           {
             "name" : "Poochy & Yoshi's Woolly World",
@@ -16897,10 +16911,6 @@
           }
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          },
           {
             "name" : "Super Smash Bros. Ultimate",
             "usage" : "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
@@ -16925,14 +16935,16 @@
     },
     "0x34c1000104a91d02" : {
       "games" : {
+         "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
 
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          },
           {
             "name" : "Super Smash Bros. Ultimate",
             "usage" : "Battle and train up a computer-controlled Figure Player of the character"
@@ -16946,14 +16958,16 @@
     },
     "0x34c1000104cc1d02" : {
       "games" : {
+        "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
 
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          },
           {
             "name" : "Super Smash Bros. Ultimate",
             "usage" : "Battle and train up a computer-controlled Figure Player of the character (Read+Write)"
@@ -16967,14 +16981,16 @@
     },
     "0x34c2000004aa1d02" : {
       "games" : {
+       "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
 
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          }
         ],
         "WiiU" : [
 
@@ -16984,14 +17000,16 @@
     },
     "0x34c2000104ab1d02" : {
       "games" : {
+       "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
 
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          }
         ],
         "WiiU" : [
 
@@ -17001,14 +17019,16 @@
     },
     "0x34c2000104cd1d02" : {
       "games" : {
+        "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
 
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          }
         ],
         "WiiU" : [
 
@@ -17018,6 +17038,12 @@
     },
     "0x34c0000002530002" : {
       "games" : {
+       "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
           {
             "name" : "Super Smash Bros. for Nintendo 3DS",
@@ -17029,10 +17055,6 @@
           }
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          },
           {
             "name" : "Resident Evil Revelations",
             "usage" : "Receive a lot of BP \/ Receive better supplies (compared to other amiibo)"
@@ -17057,14 +17079,16 @@
     },
     "0x34c3000004ac1d02" : {
       "games" : {
+       "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
 
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          }
         ],
         "WiiU" : [
 
@@ -17074,14 +17098,16 @@
     },
     "0x34c3000104ad1d02" : {
       "games" : {
+        "Switch 2" : [
+          {
+            "name" : "Street Fighter 6",
+            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
+          }
+        ],
         "3DS" : [
 
         ],
         "Switch" : [
-          {
-            "name" : "Street Fighter 6 (Switch 2)",
-            "usage" : "Save and load outfit, color, and button settings \/ Scan another player's amiibo to friend or follow them (Read+Write)"
-          }
         ],
         "WiiU" : [
 
