@@ -10411,6 +10411,12 @@
     },
     "0x05c00000043b1302" : {
       "games" : {
+      "Switch 2": [
+          {
+            "name": "Metroid Prime 4",
+            "usage": "Change background music while riding Vi-O-La / Replenish health and boost max health by 99 once per day"
+          }
+        ],
         "3DS" : [
           {
             "name" : "WarioWare Gold",
@@ -10499,12 +10505,6 @@
           {
             "name" : "Mario Kart 8",
             "usage" : "Unlock a character-themed Mii racing suit"
-          }
-        ],
-       "Switch 2": [
-          {
-            "name": "Metroid Prime 4",
-            "usage": "Change background music while riding Vi-O-La / Replenish health and boost max health by 99 once per day"
           }
         ]
       },
