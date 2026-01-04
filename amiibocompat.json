@@ -3,633 +3,1136 @@
     {
       "id": "switch2_donkey_kong_bananza",
       "title": "Donkey Kong Bananza",
-      "platform": "Nintendo Switch 2"
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Donkey Kong"],
+      "notes": ""
     },
     {
       "id": "switch2_kirby_air_riders",
       "title": "Kirby Air Riders",
-      "platform": "Nintendo Switch 2"
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "switch2_mario_tennis_fever",
       "title": "Mario Tennis Fever",
-      "platform": "Nintendo Switch 2"
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario Tennis"],
+      "notes": ""
     },
     {
       "id": "switch2_monster_hunter_stories_3_twisted_reflection",
       "title": "Monster Hunter Stories 3: Twisted Reflection",
-      "platform": "Nintendo Switch 2"
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Monster Hunter"],
+      "notes": ""
     },
     {
       "id": "switch2_pragmata",
       "title": "Pragmata",
-      "platform": "Nintendo Switch 2"
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "switch2_street_fighter_6",
       "title": "Street Fighter 6",
-      "platform": "Nintendo Switch 2"
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Street Fighter"],
+      "notes": ""
     },
     {
       "id": "switch_animal_crossing_new_horizons",
       "title": "Animal Crossing: New Horizons",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Animal Crossing"],
+      "notes": ""
     },
     {
       "id": "switch_azure_striker_gunvolt_striker_pack",
       "title": "Azure Striker Gunvolt: Striker Pack",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Azure Striker Gunvolt"],
+      "notes": ""
     },
     {
       "id": "switch_bayonetta_2",
       "title": "Bayonetta 2",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Bayonetta"],
+      "notes": ""
     },
     {
       "id": "switch_build_a_bridge",
       "title": "Build a Bridge!",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "switch_captain_toad_treasure_tracker",
       "title": "Captain Toad: Treasure Tracker",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Captain Toad"],
+      "notes": ""
     },
     {
       "id": "switch_conga_master_party",
       "title": "Conga Master Party!",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "switch_cyber_shadow",
       "title": "Cyber Shadow",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Cyber Shadow"],
+      "notes": ""
     },
     {
       "id": "switch_dark_souls_remastered",
       "title": "Dark Souls: Remastered",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Dark Souls"],
+      "notes": ""
     },
     {
       "id": "switch_diablo_iii_eternal_collection",
       "title": "Diablo III: Eternal Collection",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Diablo"],
+      "notes": ""
     },
     {
       "id": "switch_fire_emblem_engage",
       "title": "Fire Emblem Engage",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Fire Emblem"],
+      "notes": ""
     },
     {
       "id": "switch_fire_emblem_three_houses",
       "title": "Fire Emblem: Three Houses",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Fire Emblem"],
+      "notes": ""
     },
     {
       "id": "switch_fire_emblem_warriors",
       "title": "Fire Emblem Warriors",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Fire Emblem"],
+      "notes": ""
     },
     {
       "id": "switch_fire_emblem_warriors_three_hopes",
       "title": "Fire Emblem Warriors: Three Hopes",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Fire Emblem"],
+      "notes": ""
     },
     {
       "id": "switch_hyrule_warriors_age_of_calamity",
       "title": "Hyrule Warriors: Age of Calamity",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Hyrule Warriors", "The Legend of Zelda"],
+      "notes": ""
     },
     {
       "id": "switch_hyrule_warriors_definitive_edition",
       "title": "Hyrule Warriors: Definitive Edition",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Hyrule Warriors", "The Legend of Zelda"],
+      "notes": ""
     },
     {
       "id": "switch_just_shapes_and_beats",
       "title": "Just Shapes & Beats",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "switch_kirby_and_the_forgotten_land",
       "title": "Kirby and the Forgotten Land",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "switch_kirbys_return_to_dream_land_deluxe",
       "title": "Kirby’s Return to Dream Land Deluxe",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "switch_kirby_star_allies",
       "title": "Kirby Star Allies",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "switch_little_nightmares_complete_edition",
       "title": "Little Nightmares: Complete Edition",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Little Nightmares"],
+      "notes": ""
     },
     {
       "id": "switch_mario_kart_8_deluxe",
       "title": "Mario Kart 8 Deluxe",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario Kart"],
+      "notes": ""
     },
     {
       "id": "switch_mario_rabbids_kingdom_battle",
       "title": "Mario + Rabbids: Kingdom Battle",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario", "Rabbids"],
+      "notes": ""
     },
     {
       "id": "switch_megabyte_punch",
       "title": "Megabyte Punch",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "switch_mega_man_11",
       "title": "Mega Man 11",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mega Man"],
+      "notes": ""
     },
     {
       "id": "switch_mega_man_legacy_collection",
       "title": "Mega Man Legacy Collection",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mega Man"],
+      "notes": ""
     },
     {
       "id": "switch_mega_man_legacy_collection_2",
       "title": "Mega Man Legacy Collection 2",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mega Man"],
+      "notes": ""
     },
     {
       "id": "switch_metroid_dread",
       "title": "Metroid Dread",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Metroid"],
+      "notes": ""
     },
     {
       "id": "switch_metroid_prime_4_beyond",
       "title": "Metroid Prime 4: Beyond",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Metroid"],
+      "notes": ""
     },
     {
       "id": "switch_miitopia",
       "title": "Miitopia",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Miitopia"],
+      "notes": ""
     },
     {
       "id": "switch_monster_hunter_rise",
       "title": "Monster Hunter Rise",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Monster Hunter"],
+      "notes": ""
     },
     {
       "id": "switch_monster_hunter_stories",
       "title": "Monster Hunter Stories",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Monster Hunter"],
+      "notes": ""
     },
     {
       "id": "switch_monster_hunter_stories_2_wings_of_ruin",
       "title": "Monster Hunter Stories 2: Wings of Ruin",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Monster Hunter"],
+      "notes": ""
     },
     {
       "id": "switch_pokken_tournament_dx",
       "title": "Pokkén Tournament DX",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Pokémon"],
+      "notes": ""
     },
     {
       "id": "switch_power_pros",
       "title": "Power Pros",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "switch_resident_evil_revelations",
       "title": "Resident Evil Revelations",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Resident Evil"],
+      "notes": ""
     },
     {
       "id": "switch_resident_evil_revelations_2",
       "title": "Resident Evil Revelations 2",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Resident Evil"],
+      "notes": ""
     },
     {
       "id": "switch_shovel_knight",
       "title": "Shovel Knight",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Shovel Knight"],
+      "notes": ""
     },
     {
       "id": "switch_shovel_knight_dig",
       "title": "Shovel Knight Dig",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Shovel Knight"],
+      "notes": ""
     },
     {
       "id": "switch_shovel_knight_pocket_dungeon",
       "title": "Shovel Knight Pocket Dungeon",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Shovel Knight"],
+      "notes": ""
     },
     {
       "id": "switch_shovel_knight_showdown",
       "title": "Shovel Knight Showdown",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Shovel Knight"],
+      "notes": ""
     },
     {
       "id": "switch_splatoon_2",
       "title": "Splatoon 2",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Splatoon"],
+      "notes": ""
     },
     {
       "id": "switch_splatoon_3",
       "title": "Splatoon 3",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Splatoon"],
+      "notes": ""
     },
     {
       "id": "switch_super_kirby_clash",
       "title": "Super Kirby Clash",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "switch_super_mario_3d_world_bowser_fury",
       "title": "Super Mario 3D World + Bowser’s Fury",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Super Mario"],
+      "notes": ""
     },
     {
       "id": "switch_super_mario_galaxy",
       "title": "Super Mario Galaxy",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Super Mario"],
+      "notes": ""
     },
     {
       "id": "switch_super_mario_galaxy_2",
       "title": "Super Mario Galaxy 2",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Super Mario"],
+      "notes": ""
     },
     {
       "id": "switch_super_mario_odyssey",
       "title": "Super Mario Odyssey",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Super Mario"],
+      "notes": ""
     },
     {
       "id": "switch_super_mario_party",
       "title": "Super Mario Party",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario Party"],
+      "notes": ""
     },
     {
       "id": "switch_super_smash_bros_ultimate",
       "title": "Super Smash Bros. Ultimate",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Super Smash Bros."],
+      "notes": ""
     },
     {
       "id": "switch_skyrim",
       "title": "The Elder Scrolls V: Skyrim",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["The Elder Scrolls"],
+      "notes": ""
     },
     {
       "id": "switch_loz_breath_of_the_wild",
       "title": "The Legend of Zelda: Breath of the Wild",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["The Legend of Zelda"],
+      "notes": ""
     },
     {
       "id": "switch_loz_echoes_of_wisdom",
       "title": "The Legend of Zelda: Echoes of Wisdom",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["The Legend of Zelda"],
+      "notes": ""
     },
     {
       "id": "switch_loz_link_awakening",
       "title": "The Legend of Zelda: Link’s Awakening",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["The Legend of Zelda"],
+      "notes": ""
     },
     {
       "id": "switch_loz_skyward_sword_hd",
       "title": "The Legend of Zelda: Skyward Sword HD",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["The Legend of Zelda"],
+      "notes": ""
     },
     {
       "id": "switch_loz_tears_of_the_kingdom",
       "title": "The Legend of Zelda: Tears of the Kingdom",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["The Legend of Zelda"],
+      "notes": ""
     },
     {
       "id": "switch_xenoblade_chronicles_3",
       "title": "Xenoblade Chronicles 3",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Xenoblade Chronicles"],
+      "notes": ""
     },
     {
       "id": "switch_yoshis_crafted_world",
       "title": "Yoshi’s Crafted World",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Yoshi"],
+      "notes": ""
     },
     {
       "id": "switch_yu_gi_oh_rush_duel",
       "title": "Yu‑Gi‑Oh! RUSH DUEL: Dawn of the Battle Royale!!",
-      "platform": "Nintendo Switch"
+      "platform": "Nintendo Switch",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Yu-Gi-Oh!"],
+      "notes": ""
     },
     {
       "id": "3ds_ace_combat_assault_horizon_legacy_plus",
       "title": "Ace Combat Assault Horizon Legacy +",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Ace Combat"],
+      "notes": ""
     },
     {
       "id": "3ds_animal_crossing_happy_home_designer",
       "title": "Animal Crossing: Happy Home Designer",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Animal Crossing"],
+      "notes": ""
     },
     {
       "id": "3ds_animal_crossing_new_leaf",
       "title": "Animal Crossing: New Leaf",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Animal Crossing"],
+      "notes": ""
     },
     {
       "id": "3ds_azure_striker_gunvolt_2",
       "title": "Azure Striker Gunvolt 2",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Azure Striker Gunvolt"],
+      "notes": ""
     },
     {
       "id": "3ds_bye_bye_boxboy",
       "title": "BYE‑BYE BOXBOY!",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["BoxBoy"],
+      "notes": ""
     },
     {
       "id": "3ds_captain_toad_treasure_tracker",
       "title": "Captain Toad: Treasure Tracker",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Captain Toad"],
+      "notes": ""
     },
     {
       "id": "3ds_chibi_robo_zip_lash",
       "title": "Chibi‑Robo! Zip Lash",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Chibi-Robo"],
+      "notes": ""
     },
     {
       "id": "3ds_code_name_steam",
       "title": "Code Name: S.T.E.A.M.",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "3ds_detective_pikachu",
       "title": "Detective Pikachu",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Pokémon"],
+      "notes": ""
     },
     {
       "id": "3ds_fire_emblem_echoes_shadows_of_valentia",
       "title": "Fire Emblem Echoes: Shadows of Valentia",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Fire Emblem"],
+      "notes": ""
     },
     {
       "id": "3ds_fire_emblem_fates",
       "title": "Fire Emblem Fates",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Fire Emblem"],
+      "notes": ""
     },
     {
       "id": "3ds_fire_emblem_warriors",
       "title": "Fire Emblem Warriors",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Fire Emblem"],
+      "notes": ""
     },
     {
       "id": "3ds_hey_pikmin",
       "title": "Hey! Pikmin",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Pikmin"],
+      "notes": ""
     },
     {
       "id": "3ds_hyrule_warriors_legends",
       "title": "Hyrule Warriors Legends",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Hyrule Warriors", "The Legend of Zelda"],
+      "notes": ""
     },
     {
       "id": "3ds_kirby_battle_royale",
       "title": "Kirby Battle Royale",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "3ds_kirby_planet_robobot",
       "title": "Kirby: Planet Robobot",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "3ds_kirbys_blowout_blast",
       "title": "Kirby’s Blowout Blast",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "3ds_kirbys_extra_epic_yarn",
       "title": "Kirby’s Extra Epic Yarn",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "3ds_luigis_mansion",
       "title": "Luigi’s Mansion",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Luigi's Mansion"],
+      "notes": ""
     },
     {
       "id": "3ds_mario_luigi_bowsers_inside_story_bowser_jr_journey",
       "title": "Mario & Luigi: Bowser’s Inside Story + Bowser Jr.’s Journey",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario & Luigi"],
+      "notes": ""
     },
     {
       "id": "3ds_mario_luigi_paper_jam",
       "title": "Mario & Luigi: Paper Jam",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario & Luigi"],
+      "notes": ""
     },
     {
       "id": "3ds_mario_luigi_superstar_saga_bowser_minions",
       "title": "Mario & Luigi: Superstar Saga + Bowser’s Minions",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario & Luigi"],
+      "notes": ""
     },
     {
       "id": "3ds_mario_party_star_rush",
       "title": "Mario Party: Star Rush",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario Party"],
+      "notes": ""
     },
     {
       "id": "3ds_mario_party_the_top_100",
       "title": "Mario Party: The Top 100",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario Party"],
+      "notes": ""
     },
     {
       "id": "3ds_mario_sonic_rio_2016_olympic_games",
       "title": "Mario & Sonic at the Rio 2016 Olympic Games",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario & Sonic"],
+      "notes": ""
     },
     {
       "id": "3ds_mario_sports_superstars",
       "title": "Mario Sports Superstars",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario"],
+      "notes": ""
     },
     {
       "id": "3ds_mega_man_legacy_collection",
       "title": "Mega Man Legacy Collection",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mega Man"],
+      "notes": ""
     },
     {
       "id": "3ds_metroid_prime_blast_ball",
       "title": "Metroid Prime: Blast Ball",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Metroid"],
+      "notes": ""
     },
     {
       "id": "3ds_metroid_prime_federation_force",
       "title": "Metroid Prime: Federation Force",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Metroid"],
+      "notes": ""
     },
     {
       "id": "3ds_metroid_samus_returns",
       "title": "Metroid: Samus Returns",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Metroid"],
+      "notes": ""
     },
     {
       "id": "3ds_miitopia",
       "title": "Miitopia",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Miitopia"],
+      "notes": ""
     },
     {
       "id": "3ds_mini_mario_friends_amiibo_challenge",
       "title": "Mini Mario & Friends: Amiibo Challenge",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario"],
+      "notes": ""
     },
     {
       "id": "3ds_monster_hunter_stories",
       "title": "Monster Hunter Stories",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Monster Hunter"],
+      "notes": ""
     },
     {
       "id": "3ds_niconico_app",
       "title": "niconico app",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "3ds_one_piece_super_grand_battle_x",
       "title": "One Piece: Super Grand Battle! X",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["One Piece"],
+      "notes": ""
     },
     {
       "id": "3ds_picross_3d_round_2",
       "title": "Picross 3D Round 2",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Picross"],
+      "notes": ""
     },
     {
       "id": "3ds_poochy_yoshis_woolly_world",
       "title": "Poochy & Yoshi’s Woolly World",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Yoshi"],
+      "notes": ""
     },
     {
       "id": "3ds_style_savvy_fashion_forward",
       "title": "Style Savvy: Fashion Forward",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Style Savvy"],
+      "notes": ""
     },
     {
       "id": "3ds_style_savvy_styling_star",
       "title": "Style Savvy: Styling Star",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Style Savvy"],
+      "notes": ""
     },
     {
       "id": "3ds_super_smash_bros_for_nintendo_3ds",
       "title": "Super Smash Bros. for Nintendo 3DS",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Super Smash Bros."],
+      "notes": ""
     },
     {
       "id": "3ds_team_kirby_clash_deluxe",
       "title": "Team Kirby Clash Deluxe",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "3ds_teddy_together",
       "title": "Teddy Together",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "3ds_warioware_gold",
       "title": "WarioWare Gold",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["WarioWare"],
+      "notes": ""
     },
     {
       "id": "3ds_word_puzzles_by_powgi",
       "title": "Word Puzzles by POWGI",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "3ds_xenoblade_chronicles_3d",
       "title": "Xenoblade Chronicles 3D",
-      "platform": "Nintendo 3DS"
+      "platform": "Nintendo 3DS",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Xenoblade Chronicles"],
+      "notes": ""
     },
-
     {
       "id": "wiiu_amiibo_tap_nintendos_greatest_bits",
       "title": "amiibo tap: Nintendo’s Greatest Bits",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": ""
     },
     {
       "id": "wiiu_animal_crossing_amiibo_festival",
       "title": "Animal Crossing: amiibo Festival",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Animal Crossing"],
+      "notes": ""
     },
     {
       "id": "wiiu_captain_toad_treasure_tracker",
       "title": "Captain Toad: Treasure Tracker",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Captain Toad"],
+      "notes": ""
     },
     {
       "id": "wiiu_hyrule_warriors",
       "title": "Hyrule Warriors",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Hyrule Warriors", "The Legend of Zelda"],
+      "notes": ""
     },
     {
       "id": "wiiu_kirby_and_the_rainbow_curse",
       "title": "Kirby and the Rainbow Curse",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Kirby"],
+      "notes": ""
     },
     {
       "id": "wiiu_mario_kart_8",
       "title": "Mario Kart 8",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario Kart"],
+      "notes": ""
     },
     {
       "id": "wiiu_mario_party_10",
       "title": "Mario Party 10",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario Party"],
+      "notes": ""
     },
     {
       "id": "wiiu_mario_sonic_rio_2016_olympic_games",
       "title": "Mario & Sonic at the Rio 2016 Olympic Games",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario & Sonic"],
+      "notes": ""
     },
     {
       "id": "wiiu_mario_tennis_ultra_smash",
       "title": "Mario Tennis: Ultra Smash",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario Tennis"],
+      "notes": ""
     },
     {
       "id": "wiiu_mini_mario_friends_amiibo_challenge",
       "title": "Mini Mario & Friends: Amiibo Challenge",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Mario"],
+      "notes": ""
     },
     {
       "id": "wiiu_pokken_tournament",
       "title": "Pokkén Tournament",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Pokémon"],
+      "notes": ""
     },
     {
       "id": "wiiu_shovel_knight",
       "title": "Shovel Knight",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Shovel Knight"],
+      "notes": ""
     },
     {
       "id": "wiiu_splatoon",
       "title": "Splatoon",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Splatoon"],
+      "notes": ""
     },
     {
       "id": "wiiu_star_fox_guard",
       "title": "Star Fox Guard",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Star Fox"],
+      "notes": ""
     },
     {
       "id": "wiiu_star_fox_zero",
       "title": "Star Fox Zero",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Star Fox"],
+      "notes": ""
     },
     {
       "id": "wiiu_super_mario_maker",
       "title": "Super Mario Maker",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Super Mario"],
+      "notes": ""
     },
     {
       "id": "wiiu_super_smash_bros_for_wii_u",
       "title": "Super Smash Bros. for Wii U",
-      "platform": "Wii U"
+      "platform": "Wii U",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Super Smash Bros."],
+      "notes": ""
     }
   ]
 }
