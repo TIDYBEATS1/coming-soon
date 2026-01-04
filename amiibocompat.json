@@ -1,5 +1,4 @@
 {
-  "games": [
     {
       "id": "switch2_donkey_kong_bananza",
       "title": "Donkey Kong Bananza",
@@ -1134,5 +1133,4 @@
       "supportedSeries": ["Super Smash Bros."],
       "notes": ""
     }
-  ]
 }
