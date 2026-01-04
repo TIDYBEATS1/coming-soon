@@ -31,7 +31,6 @@
       "platform": "Nintendo Switch 2"
     },
 
-    // **Nintendo Switch**
     {
       "id": "switch_animal_crossing_new_horizons",
       "title": "Animal Crossing: New Horizons",
@@ -323,7 +322,6 @@
       "platform": "Nintendo Switch"
     },
 
-    // Nintendo 3DS Games
     {
       "id": "3ds_ace_combat_assault_horizon_legacy_plus",
       "title": "Ace Combat Assault Horizon Legacy +",
@@ -550,7 +548,6 @@
       "platform": "Nintendo 3DS"
     },
 
-    // Wii U Games
     {
       "id": "wiiu_amiibo_tap_nintendos_greatest_bits",
       "title": "amiibo tap: Nintendo’s Greatest Bits",
