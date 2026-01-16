@@ -1,0 +1,37 @@
+[
+  {
+    "id": "switch2_mario_tennis_fever",
+    "title": "Mario Tennis Fever",
+    "platform": "Switch 2",
+    "supportedAmiibo": [
+      "Mario",
+      "Luigi",
+      "Peach",
+      "Bowser"
+    ],
+    "releaseDate": "2026-03-01"
+  },
+  {
+    "id": "switch2_kirby_air_riders",
+    "title": "Kirby Air Riders",
+    "platform": "Switch 2",
+    "supportedAmiibo": [
+      "Kirby",
+      "Meta Knight",
+      "King Dedede"
+    ],
+    "releaseDate": "2026-04-15"
+  },
+  {
+    "id": "switch2_animal_crossing_new_horizons_plus",
+    "title": "Animal Crossing: New Horizons+",
+    "platform": "Switch 2",
+    "supportedAmiibo": [
+      "Isabelle",
+      "Tom Nook",
+      "Villager",
+      "K.K. Slider"
+    ],
+    "releaseDate": "2026-05-20"
+  }
+]
