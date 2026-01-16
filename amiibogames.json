@@ -14,5 +14,13 @@
     "supportedAmiibo": ["Pragmata series"],
     "releaseDate": "2026-04-24",
     "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/pragmata-82f7d34c086b83094aa5b9e12d5d5697a57a32882b348990377b796d3d016263.png"
+  },
+  {
+    "id": "switch2_MHS3_TR",
+    "title": "Monster Hunter Stories 3: Twisted Reflection",
+    "platform": "Switch 2",
+    "supportedAmiibo": ["Monster Hunter Stories series"],
+    "releaseDate": "2026-03-13",
+    "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/monster-hunter-stories-3-twisted-reflection-c9387984e8228febc586d270061b0f72d91a73a14552e1e588b2c2681a989957.png"
   }
 ]
