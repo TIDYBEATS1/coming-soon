@@ -8,11 +8,11 @@
     "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/mario-tennis-fever-4d538d2d55b7ba1dd3d07c813c116e722f9c4d01b69e67894e56e3fe1a772589.png"
   },
   {
-    "id": "switch2_kirby_air_riders",
-    "title": "Kirby Air Riders",
+    "id": "switch2_Pragmata",
+    "title": "Pragmata",
     "platform": "Switch 2",
-    "supportedAmiibo": ["Kirby", "Meta Knight", "King Dedede"],
-    "releaseDate": "2026-04-15",
-    "imageURL": "https://raw.githubusercontent.com/YOURNAME/amiibo-data/main/images/kirby_air_riders.png"
+    "supportedAmiibo": ["Pragmata series"],
+    "releaseDate": "2026-04-24",
+    "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/pragmata-82f7d34c086b83094aa5b9e12d5d5697a57a32882b348990377b796d3d016263.png"
   }
 ]
