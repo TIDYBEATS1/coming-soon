@@ -10,6 +10,16 @@
       "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/donkey-kong-bananza-5d871f7619b7bdcc6b38e682fc92924a9f548573a11f4f5dd4a7c1e0f7afb1ab.png"
     },
     {
+      "id": "switch2_hqaoi",
+      "title": "Hyrule Warriors: Age of Imprisonment",
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["The Legend of Zelda", "Super Smash Bros."],
+      "notes": "",
+      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/hyrule-warriors-age-of-imprisonment-ce6a06949d4996bf83f1af606b3845b485ff2dce1fe23daf97ad3a91a5388088.png"
+    },
+    {
       "id": "switch2_kirby_air_riders",
       "title": "Kirby Air Riders",
       "platform": "Nintendo Switch 2",
