@@ -1,5 +1,15 @@
 {
   "appUpdates" : [
+   {
+      "changes" : [
+        "Added Amiibo Games",
+        "Added Games to Coming Soon",
+        "Added Countdowns Timer in Coming Soon",
+        "Added Widgets",
+        "Added Widget Settings in Settings"
+      ],
+      "version" : "3.3.0"
+    },
     {
       "changes" : [
         "Fixed NFC Hopefully "
