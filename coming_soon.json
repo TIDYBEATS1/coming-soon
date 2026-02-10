@@ -77,6 +77,13 @@
     "region": "JP - USA"
   },
   {
+    "id": "A521D5A1",
+    "name": "Leon S. Kennedy",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/resident-evil/leon-s-kennedy-a63139a29058f4fba9bf3e813b16bede091e5ca8ab3aba236e8ffeff92c5b0e8.png",
+    "releaseDate": "Summer 2026",
+    "region": "JP - USA"
+  },
+  {
     "id": "A521D532",
     "name": "Elephant Mario",
     "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/elephant-mario-9e586b2b7b77fe7b6b6f18c98efa59197d14f2d2fe29a06b04b95c4b47fd54d6.png",
@@ -96,5 +103,33 @@
     "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/captain-toad-talking-flower-30defe54064952a5546e7a20b900dcc20a3571ae79beceb3753cd97eab01c848.png",
     "releaseDate": "26-03-2026",
     "region": "ALL"
-  }
+  },
+    {
+    "id": "A521D273",
+    "name": "Mario",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/my-mario-wooden-blocks/mario-c97c1d6ae4e4448c1f62cacd1e4bf5c3be33b0fd42945a4b908b4d0ffa0b47b7.png",
+    "releaseDate": "18-02-2026",
+    "region": "US"
+  },
+    {
+    "id": "A521D274",
+    "name": "Luigi",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/my-mario-wooden-blocks/luigi-64a9c9398ba19aca4ccf2f533793b790b1780c4dbd978a19fd83f7103038f0e0.png",
+    "releaseDate": "18-02-2026",
+    "region": "US"
+  },
+    {
+    "id": "A521D275",
+    "name": "Peach",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/my-mario-wooden-blocks/peach-bdd3d677a39bcad36296fed3fe9df74f68fb7218ec1015aa7fb02dc19f4f7d47.png",
+    "releaseDate": "18-02-2026",
+    "region": "US"
+  },
+    {
+    "id": "A521D276",
+    "name": "Yoshi",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/my-mario-wooden-blocks/yoshi-7f958a8c00f4c1baef37dd79740a851e136486d72a811e16b0406f6e5e99752f.png",
+    "releaseDate": "18-02-2026",
+    "region": "US"
+  },
 ]
