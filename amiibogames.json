@@ -1,13 +1,5 @@
 [
   {
-    "id": "switch2_mario_tennis_fever",
-    "title": "Mario Tennis Fever",
-    "platform": "Switch 2",
-    "supportedAmiibo": ["Mario", "Luigi", "Peach", "Bowser"],
-    "releaseDate": "2026-02-12",
-    "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/mario-tennis-fever-4d538d2d55b7ba1dd3d07c813c116e722f9c4d01b69e67894e56e3fe1a772589.png"
-  },
-  {
     "id": "switch2_Pragmata",
     "title": "Pragmata",
     "platform": "Switch 2",
