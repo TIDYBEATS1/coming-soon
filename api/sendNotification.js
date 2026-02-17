@@ -1,22 +1,21 @@
 // /api/sendNotification.js
 import apn from "apn";
+import { NextResponse } from "next/server";
 
-export default async function handler(req, res) {
-  if (req.method !== "POST") {
-    return res.status(405).json({ error: "Method not allowed — use POST instead" });
-  }
+export async function POST(req) {
+  const body = await req.json();
 
   // ✅ API Key check
   const apiKey = process.env.API_SECRET_KEY;
-  const providedKey = req.headers["x-api-key"];
+  const providedKey = req.headers.get("x-api-key");
   if (!apiKey || providedKey !== apiKey) {
-    return res.status(401).json({ error: "Unauthorized — wrong API key" });
+    return NextResponse.json({ error: "Unauthorized — wrong API key" }, { status: 401 });
   }
 
-  const { deviceToken, title, bodyText, useSandbox } = req.body ?? {};
+  const { deviceToken, title, bodyText, useSandbox } = body ?? {};
 
   if (!deviceToken || !title || !bodyText) {
-    return res.status(400).json({ error: "Missing deviceToken, title, or bodyText" });
+    return NextResponse.json({ error: "Missing deviceToken, title, or bodyText" }, { status: 400 });
   }
 
   const teamId = process.env.APNS_TEAM_ID;
@@ -25,18 +24,14 @@ export default async function handler(req, res) {
   const privateKey = process.env.APPLE_AUTH_KEY?.replace(/\\n/g, "\n");
 
   if (!teamId || !keyId || !bundleId || !privateKey) {
-    return res.status(500).json({ error: "Missing APNS secrets" });
+    return NextResponse.json({ error: "Missing APNS secrets" }, { status: 500 });
   }
 
   try {
     // ✅ Configure APN provider
     const apnProvider = new apn.Provider({
-      token: {
-      key: privateKey, // string from environment variable
-      keyId: keyId,
-      teamId: teamId,
-      },
-      production: !useSandbox, // true for production, false for sandbox
+      token: { key: privateKey, keyId, teamId },
+      production: !useSandbox,
     });
 
     // ✅ Create notification
@@ -44,25 +39,22 @@ export default async function handler(req, res) {
       alert: { title, body: bodyText },
       sound: "default",
       topic: bundleId,
+      pushType: "alert", // needed for iOS 13+
     });
 
     // ✅ Send notification
     const result = await apnProvider.send(notification, deviceToken);
-
-    // Log full response
-    console.log("APNS Result:", result);
-
-    // Always shutdown provider
     apnProvider.shutdown();
 
-    // Check for failures
+    console.log("APNS Result:", result);
+
     if (result.failed && result.failed.length > 0) {
-      return res.status(500).json({ error: "APNS request failed", details: result.failed });
+      return NextResponse.json({ error: "APNS request failed", details: result.failed }, { status: 500 });
     }
 
-    return res.status(200).json({ status: "success", result });
+    return NextResponse.json({ status: "success", result });
   } catch (error) {
     console.error("APNS Error:", error);
-    return res.status(500).json({ error: "APNS request threw an error", details: error.message });
+    return NextResponse.json({ error: "APNS request threw an error", details: error.message }, { status: 500 });
   }
 }
