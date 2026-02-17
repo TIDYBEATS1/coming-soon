@@ -1,3 +1,4 @@
+// app/api/check-new-amiibo/route.ts
 import { NextResponse } from "next/server";
 import fetch from "node-fetch";
 import crypto from "crypto";
@@ -5,18 +6,23 @@ import admin from "firebase-admin";
 
 let lastHash = "";
 
-// Initialize Firebase with service account from environment variable
+// Initialize Firebase
 if (!admin.apps.length) {
   const rawServiceAccount = process.env.FIREBASE_ADMIN_SDK;
-  if (!rawServiceAccount) throw new Error("FIREBASE_ADMIN_SDK environment variable not set");
+  if (!rawServiceAccount) {
+    throw new Error("FIREBASE_ADMIN_SDK environment variable is not set");
+  }
 
+  // Parse service account JSON
   const serviceAccount = JSON.parse(rawServiceAccount);
 
+  // Initialize Firebase with cert
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    projectId: serviceAccount.project_id,
+    projectId: serviceAccount.project_id, // ensure Firestore knows the project
   });
 }
+
 const db = admin.firestore();
 
 export async function GET() {
@@ -44,12 +50,12 @@ export async function GET() {
       .map((doc) => doc.data().deviceToken)
       .filter(Boolean);
 
-    // Send notifications in parallel
-    const notifications = [];
+    // Send notification for each Amiibo to each user
     for (const amiibo of data) {
       for (const token of tokens) {
-        notifications.push(
-          fetch("https://coming-soon-one-lilac.vercel.app/api/sendNotification", {
+        await fetch(
+          "https://coming-soon-one-lilac.vercel.app/api/sendNotification",
+          {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
@@ -61,11 +67,10 @@ export async function GET() {
               bodyText: `${amiibo.name} is coming soon!`,
               useSandbox: true,
             }),
-          })
+          }
         );
       }
     }
-    await Promise.all(notifications);
 
     return NextResponse.json({ status: "notifications-sent", users: tokens.length });
   } catch (error: any) {
