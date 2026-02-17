@@ -2,6 +2,7 @@
 import crypto from "crypto";
 import admin from "firebase-admin";
 import fetch from "node-fetch";
+import apn from "apn";
 import { NextResponse } from "next/server";
 
 let lastHash = "";
@@ -9,9 +10,7 @@ let lastHash = "";
 // Initialize Firebase Admin once
 if (!admin.apps.length) {
   const rawServiceAccount = process.env.FIREBASE_ADMIN_SDK;
-  if (!rawServiceAccount) {
-    throw new Error("FIREBASE_ADMIN_SDK environment variable is not set");
-  }
+  if (!rawServiceAccount) throw new Error("FIREBASE_ADMIN_SDK environment variable not set");
 
   const serviceAccount = JSON.parse(rawServiceAccount);
   serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, "\n");
@@ -28,7 +27,7 @@ const db = admin.firestore();
 
 export async function GET() {
   try {
-    // 1️⃣ Fetch JSON from GitHub
+    // 1️⃣ Fetch the JSON from GitHub
     const response = await fetch(
       "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/coming_soon.json"
     );
@@ -41,37 +40,47 @@ export async function GET() {
     }
     lastHash = hash;
 
-    // 3️⃣ Get all users' device tokens from Firestore
+    // 3️⃣ Get all device tokens from Firestore
     const usersSnapshot = await db.collection("users").get();
     const tokens = usersSnapshot.docs
       .map((doc) => doc.data().deviceToken)
       .filter(Boolean);
 
-    // 4️⃣ Send notification for each Amiibo to each device token
-    for (const amiibo of data) {
-      for (const token of tokens) {
-        try {
-          await fetch(
-            `${process.env.NEXT_PUBLIC_BASE_URL}/api/sendNotification`,
-            {
-              method: "POST",
-              headers: {
-                "Content-Type": "application/json",
-                "x-api-key": process.env.API_SECRET_KEY,
-              },
-              body: JSON.stringify({
-                deviceToken: token,
-                title: "New Amiibo!",
-                bodyText: `${amiibo.name} is coming soon!`,
-                useSandbox: true,
-              }),
-            }
-          );
-        } catch (err) {
-          console.error("Failed to send notification for", amiibo.name, err);
-        }
-      }
+    if (!tokens.length) {
+      console.log("No device tokens found");
+      return NextResponse.json({ status: "no-tokens" });
     }
+
+    // 4️⃣ APNS secrets
+    const teamId = process.env.APNS_TEAM_ID;
+    const keyId = process.env.APNS_KEY_ID;
+    const bundleId = process.env.APP_BUNDLE_ID;
+    const privateKey = process.env.APPLE_AUTH_KEY?.replace(/\\n/g, "\n");
+
+    if (!teamId || !keyId || !bundleId || !privateKey) {
+      throw new Error("Missing APNS credentials");
+    }
+
+    // 5️⃣ Configure APN provider
+    const apnProvider = new apn.Provider({
+      token: { key: privateKey, keyId, teamId },
+      production: false, // set to true for production
+    });
+
+    // 6️⃣ Send notifications
+    for (const amiibo of data) {
+      const notification = new apn.Notification({
+        alert: { title: "New Amiibo!", body: `${amiibo.name} is coming soon!` },
+        sound: "default",
+        topic: bundleId,
+        pushType: "alert",
+      });
+
+      const result = await apnProvider.send(notification, tokens);
+      console.log(`Sent notification for ${amiibo.name}:`, result);
+    }
+
+    apnProvider.shutdown();
 
     return NextResponse.json({ status: "notifications-sent", users: tokens.length });
   } catch (error) {
