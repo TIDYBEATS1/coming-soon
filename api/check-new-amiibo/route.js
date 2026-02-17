@@ -22,7 +22,8 @@ if (!admin.apps.length) {
 
 const db = admin.firestore();
 
-export async function GET() {
+// Serverless handler
+export async function handler(event) {
   try {
     const response = await fetch(
       "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/coming_soon.json"
@@ -32,12 +33,17 @@ export async function GET() {
     const hash = crypto.createHash("sha256").update(JSON.stringify(data)).digest("hex");
 
     if (hash === lastHash) {
-      return NextResponse.json({ status: "no-new-amiibos" });
+      return {
+        statusCode: 200,
+        body: JSON.stringify({ status: "no-new-amiibos" }),
+      };
     }
     lastHash = hash;
 
     const usersSnapshot = await db.collection("users").get();
-    const tokens = usersSnapshot.docs.map((doc) => doc.data().deviceToken).filter(Boolean);
+    const tokens = usersSnapshot.docs
+      .map((doc) => doc.data().deviceToken)
+      .filter(Boolean);
 
     for (const amiibo of data) {
       for (const token of tokens) {
@@ -60,9 +66,15 @@ export async function GET() {
       }
     }
 
-    return NextResponse.json({ status: "notifications-sent", users: tokens.length });
+    return {
+      statusCode: 200,
+      body: JSON.stringify({ status: "notifications-sent", users: tokens.length }),
+    };
   } catch (error) {
     console.error("Error in check-new-amiibo:", error);
-    return NextResponse.json({ status: "error", error: error.message });
+    return {
+      statusCode: 500,
+      body: JSON.stringify({ status: "error", error: error.message }),
+    };
   }
 }
