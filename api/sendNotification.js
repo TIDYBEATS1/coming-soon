@@ -1,6 +1,6 @@
 import apn from "apn";
 
-export async function POST(req: Request) {
+export async function POST(req) {
   const body = await req.json();
 
   // ✅ API Key check
@@ -66,7 +66,7 @@ export async function POST(req: Request) {
     }
 
     return new Response(JSON.stringify({ status: "success", result }), { status: 200 });
-  } catch (error: any) {
+  } catch (error) {
     console.error("APNS Error:", error);
     return new Response(
       JSON.stringify({ error: "APNS request threw an error", details: error.message }),
