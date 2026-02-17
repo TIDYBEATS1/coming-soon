@@ -1,3 +1,4 @@
+// /api/check-new-amiibo/route.js
 import fetch from "node-fetch";
 import crypto from "crypto";
 import admin from "firebase-admin";
@@ -22,8 +23,8 @@ if (!admin.apps.length) {
 
 const db = admin.firestore();
 
-// Serverless handler
-export async function handler(event) {
+// ✅ Next.js App Router requires named exports for HTTP methods
+export async function GET() {
   try {
     const response = await fetch(
       "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/coming_soon.json"
@@ -33,10 +34,10 @@ export async function handler(event) {
     const hash = crypto.createHash("sha256").update(JSON.stringify(data)).digest("hex");
 
     if (hash === lastHash) {
-      return {
-        statusCode: 200,
-        body: JSON.stringify({ status: "no-new-amiibos" }),
-      };
+      return new Response(JSON.stringify({ status: "no-new-amiibos" }), {
+        status: 200,
+        headers: { "Content-Type": "application/json" },
+      });
     }
     lastHash = hash;
 
@@ -66,15 +67,15 @@ export async function handler(event) {
       }
     }
 
-    return {
-      statusCode: 200,
-      body: JSON.stringify({ status: "notifications-sent", users: tokens.length }),
-    };
+    return new Response(
+      JSON.stringify({ status: "notifications-sent", users: tokens.length }),
+      { status: 200, headers: { "Content-Type": "application/json" } }
+    );
   } catch (error) {
     console.error("Error in check-new-amiibo:", error);
-    return {
-      statusCode: 500,
-      body: JSON.stringify({ status: "error", error: error.message }),
-    };
+    return new Response(JSON.stringify({ status: "error", error: error.message }), {
+      status: 500,
+      headers: { "Content-Type": "application/json" },
+    });
   }
 }
