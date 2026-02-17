@@ -1,12 +1,18 @@
-// check-new-amiibo.js (Node.js / serverless)
+// /api/check-new-amiibo.js
 import fetch from "node-fetch";
 import crypto from "crypto";
 import admin from "firebase-admin";
 
 let lastHash = "";
 
+// Initialize Firebase
 if (!admin.apps.length) {
-  const serviceAccount = JSON.parse(process.env.FIREBASE_ADMIN_SDK);
+  const rawServiceAccount = process.env.FIREBASE_ADMIN_SDK;
+  if (!rawServiceAccount) {
+    throw new Error("FIREBASE_ADMIN_SDK environment variable is not set");
+  }
+
+  const serviceAccount = JSON.parse(rawServiceAccount);
   serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, "\n");
 
   admin.initializeApp({
@@ -17,7 +23,8 @@ if (!admin.apps.length) {
 
 const db = admin.firestore();
 
-export async function checkNewAmiibo() {
+// Export handler for serverless function
+export async function handler(event) {
   try {
     const response = await fetch(
       "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/coming_soon.json"
@@ -25,7 +32,13 @@ export async function checkNewAmiibo() {
     const data = await response.json();
 
     const hash = crypto.createHash("sha256").update(JSON.stringify(data)).digest("hex");
-    if (hash === lastHash) return { status: "no-new-amiibos" };
+
+    if (hash === lastHash) {
+      return {
+        statusCode: 200,
+        body: JSON.stringify({ status: "no-new-amiibos" }),
+      };
+    }
     lastHash = hash;
 
     const usersSnapshot = await db.collection("users").get();
@@ -52,14 +65,15 @@ export async function checkNewAmiibo() {
       }
     }
 
-    return { status: "notifications-sent", users: tokens.length };
+    return {
+      statusCode: 200,
+      body: JSON.stringify({ status: "notifications-sent", users: tokens.length }),
+    };
   } catch (error) {
     console.error("Error in check-new-amiibo:", error);
-    return { status: "error", error: error.message };
+    return {
+      statusCode: 500,
+      body: JSON.stringify({ status: "error", error: error.message }),
+    };
   }
-}
-
-// If running standalone
-if (require.main === module) {
-  checkNewAmiibo().then(console.log);
 }
