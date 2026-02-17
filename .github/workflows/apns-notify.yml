@@ -1,0 +1,53 @@
+name: Send APNs Notification
+
+on:
+  workflow_dispatch:
+    inputs:
+      device_token:
+        description: 'Target device token'
+        required: true
+      alert_title:
+        description: 'Notification title'
+        required: true
+      alert_body:
+        description: 'Notification body'
+        required: true
+
+jobs:
+  send-apns:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl jq openssl
+
+      - name: Generate JWT
+        id: jwt
+        run: |
+          HEADER='{"alg":"ES256","kid":"'"${{ secrets.APNS_KEY_ID }}"'"}'
+          PAYLOAD='{"iss":"'"${{ secrets.APNS_TEAM_ID }}"'","iat":'"$(date +%s)"'}'
+
+          HEADER_BASE64=$(echo -n "$HEADER" | openssl base64 -e | tr -d '=' | tr '/+' '_-' | tr -d '\n')
+          PAYLOAD_BASE64=$(echo -n "$PAYLOAD" | openssl base64 -e | tr -d '=' | tr '/+' '_-' | tr -d '\n')
+
+          SIGNING_INPUT="$HEADER_BASE64.$PAYLOAD_BASE64"
+
+          echo "${{ secrets.APPLE_AUTH_KEY }}" > authkey.p8
+
+          SIGNATURE=$(echo -n $SIGNING_INPUT | openssl dgst -sha256 -binary -sign authkey.p8 | openssl base64 -e | tr -d '=' | tr '/+' '_-' | tr -d '\n')
+
+          JWT="$SIGNING_INPUT.$SIGNATURE"
+          echo "JWT=$JWT" >> $GITHUB_ENV
+
+      - name: Send APNs Notification
+        run: |
+          curl -v \
+            --http2 \
+            -H "apns-topic: ${{ secrets.APP_BUNDLE_ID }}" \
+            -H "authorization: bearer $JWT" \
+            -d '{"aps":{"alert":{"title":"'"${{ github.event.inputs.alert_title }}"'","body":"'"${{ github.event.inputs.alert_body }}"'"}}}' \
+            https://api.sandbox.push.apple.com/3/device/${{ github.event.inputs.device_token }}
