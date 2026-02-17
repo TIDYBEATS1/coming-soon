@@ -1,5 +1,4 @@
 import jwt from "jsonwebtoken";
-import fetch from "node-fetch";
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
@@ -39,6 +38,7 @@ export default async function handler(req, res) {
   );
 
   try {
+    // ✅ Use global fetch
     const apnsResponse = await fetch(
       `https://api.push.apple.com/3/device/${deviceToken}`,
       {
