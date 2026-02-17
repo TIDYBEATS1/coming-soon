@@ -5,12 +5,14 @@ import admin from "firebase-admin";
 
 let lastHash = "";
 
-// Initialize Firebase
 if (!admin.apps.length) {
+  const serviceAccount = JSON.parse(process.env.FIREBASE_ADMIN_SDK || "{}");
   admin.initializeApp({
-    credential: admin.credential.applicationDefault(),
+    credential: admin.credential.cert(serviceAccount),
+    projectId: serviceAccount.project_id
   });
 }
+
 const db = admin.firestore();
 
 export async function GET() {
