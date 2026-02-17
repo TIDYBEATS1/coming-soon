@@ -1,5 +1,4 @@
 import fetch from "node-fetch";
-import crypto from "crypto";
 import admin from "firebase-admin";
 
 if (!admin.apps.length) {
@@ -21,35 +20,31 @@ const db = admin.firestore();
 
 export async function GET() {
   try {
-    // 1️⃣ Fetch JSON from GitHub
+    // Fetch JSON from GitHub
     const response = await fetch(
       "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/coming_soon.json"
     );
     const data = await response.json();
 
-    // 2️⃣ Compute new hash
-    const hash = crypto.createHash("sha256").update(JSON.stringify(data)).digest("hex");
+    // Get previously notified Amiibo IDs
+    const docRef = db.collection("notifications").doc("notifiedAmiibos");
+    const docSnap = await docRef.get();
+    const notifiedIds = docSnap.exists ? docSnap.data()?.ids || [] : [];
 
-    // 3️⃣ Get last stored hash from Firestore
-    const hashDocRef = db.collection("meta").doc("lastAmiiboHash");
-    const hashDoc = await hashDocRef.get();
-    const lastHash = hashDoc.exists ? hashDoc.data()?.hash : null;
-
-    if (hash === lastHash) {
+    // Filter only new Amiibos
+    const newAmiibos = data.filter(amiibo => !notifiedIds.includes(amiibo.id));
+    if (newAmiibos.length === 0) {
       return { status: "no-new-amiibos" };
     }
 
-    // 4️⃣ Update Firestore with new hash
-    await hashDocRef.set({ hash });
-
-    // 5️⃣ Get all users' device tokens
+    // Get all users' device tokens
     const usersSnapshot = await db.collection("users").get();
-    const tokens = usersSnapshot.docs
-      .map((doc) => doc.data().deviceToken)
-      .filter(Boolean);
+    const tokens = usersSnapshot.docs.map(doc => doc.data().deviceToken).filter(Boolean);
 
-    // 6️⃣ Send notifications
-    for (const amiibo of data) {
+    const newlySentIds: string[] = [];
+
+    // Send notifications
+    for (const amiibo of newAmiibos) {
       for (const token of tokens) {
         await fetch("https://coming-soon-one-lilac.vercel.app/api/sendNotification", {
           method: "POST",
@@ -65,9 +60,13 @@ export async function GET() {
           }),
         });
       }
+      newlySentIds.push(amiibo.id);
     }
 
-    return { status: "notifications-sent", users: tokens.length };
+    // Update Firestore to mark these Amiibos as notified
+    await docRef.set({ ids: [...notifiedIds, ...newlySentIds] }, { merge: true });
+
+    return { status: "notifications-sent", users: tokens.length, newAmiibos: newlySentIds.length };
   } catch (error) {
     console.error("Error in check-new-amiibo:", error);
     return { status: "error", error: error.message };
