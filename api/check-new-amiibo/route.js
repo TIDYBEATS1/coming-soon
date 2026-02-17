@@ -1,4 +1,3 @@
-// app/api/check-new-amiibo/route.ts
 import { NextResponse } from "next/server";
 import fetch from "node-fetch";
 import crypto from "crypto";
@@ -13,15 +12,9 @@ if (!admin.apps.length) {
     throw new Error("FIREBASE_ADMIN_SDK environment variable is not set");
   }
 
-  // Parse the service account JSON
   const serviceAccount = JSON.parse(rawServiceAccount);
-
-  // Replace escaped newlines with real newlines
   serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, "\n");
 
-  console.log("Initializing Firebase with project:", serviceAccount.project_id);
-
-  // Initialize Firebase Admin
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
     projectId: serviceAccount.project_id,
@@ -32,30 +25,21 @@ const db = admin.firestore();
 
 export async function GET() {
   try {
-    // Fetch JSON from GitHub
     const response = await fetch(
       "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/coming_soon.json"
     );
     const data = await response.json();
 
-    // Check if JSON has changed
-    const hash = crypto
-      .createHash("sha256")
-      .update(JSON.stringify(data))
-      .digest("hex");
+    const hash = crypto.createHash("sha256").update(JSON.stringify(data)).digest("hex");
 
     if (hash === lastHash) {
       return NextResponse.json({ status: "no-new-amiibos" });
     }
     lastHash = hash;
 
-    // Get all users' device tokens from Firebase
     const usersSnapshot = await db.collection("users").get();
-    const tokens = usersSnapshot.docs
-      .map((doc) => doc.data().deviceToken)
-      .filter(Boolean);
+    const tokens = usersSnapshot.docs.map((doc) => doc.data().deviceToken).filter(Boolean);
 
-    // Send notification for each Amiibo to each user
     for (const amiibo of data) {
       for (const token of tokens) {
         await fetch(
@@ -78,7 +62,7 @@ export async function GET() {
     }
 
     return NextResponse.json({ status: "notifications-sent", users: tokens.length });
-  } catch (error: any) {
+  } catch (error) {
     console.error("Error in check-new-amiibo:", error);
     return NextResponse.json({ status: "error", error: error.message });
   }
