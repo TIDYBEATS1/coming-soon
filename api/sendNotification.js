@@ -38,7 +38,7 @@ export async function POST(req) {
       alert: { title, body: bodyText },
       sound: "default",
       topic: bundleId,
-      pushType: "alert", // needed for iOS 13+
+      pushType: "alert",
     });
 
     // ✅ Send notification
