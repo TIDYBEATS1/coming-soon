@@ -7,10 +7,19 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
+  // Only allow POST requests
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method not allowed" });
   }
 
+  // --- SECRET CHECK ---
+  // Expect the app to send a header "x-api-key" with your secret
+  const incomingSecret = req.headers["x-api-key"];
+  if (incomingSecret !== process.env.API_SECRET_KEY) {
+    return res.status(401).json({ error: "Unauthorized" });
+  }
+
+  // Destructure payload
   const { deviceToken, title, bodyText } = req.body;
 
   const teamId = process.env.APNS_TEAM_ID;
@@ -33,7 +42,7 @@ export default async function handler(
       { algorithm: "ES256", header: { alg: "ES256", kid: keyId } }
     );
 
-    // APNS request
+    // Send request to APNS
     const apnsResponse = await fetch(
       `https://api.sandbox.push.apple.com/3/device/${deviceToken}`,
       {
@@ -45,10 +54,7 @@ export default async function handler(
         },
         body: JSON.stringify({
           aps: {
-            alert: {
-              title: title,
-              body: bodyText,
-            },
+            alert: { title, body: bodyText },
             sound: "default",
           },
         }),
