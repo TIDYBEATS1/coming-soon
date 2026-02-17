@@ -2,6 +2,7 @@
   "name": "coming-soon",
   "version": "1.0.0",
   "dependencies": {
-    "jsonwebtoken": "^9.0.0"
+    "jsonwebtoken": "^9.0.0",
+        "node-fetch": "^3.3.2"
   }
 }
