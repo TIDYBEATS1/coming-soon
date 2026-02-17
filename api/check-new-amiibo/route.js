@@ -1,4 +1,3 @@
-import { NextResponse } from "next/server";
 import fetch from "node-fetch";
 import crypto from "crypto";
 import admin from "firebase-admin";
