@@ -1,14 +1,10 @@
 import jwt from "jsonwebtoken";
-import fetch from "node-fetch";
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
-    return res
-      .status(405)
-      .json({ error: "Method not allowed — use POST instead" });
+    return res.status(405).json({ error: "Method not allowed — use POST instead" });
   }
 
-  // ✅ API Key check
   const apiKey = process.env.API_SECRET_KEY;
   const providedKey = req.headers["x-api-key"];
   if (!apiKey || providedKey !== apiKey) {
@@ -16,11 +12,8 @@ export default async function handler(req, res) {
   }
 
   const { deviceToken, title, bodyText, useSandbox } = req.body ?? {};
-
   if (!deviceToken || !title || !bodyText) {
-    return res
-      .status(400)
-      .json({ error: "Missing deviceToken, title or bodyText" });
+    return res.status(400).json({ error: "Missing deviceToken, title or bodyText" });
   }
 
   const teamId = process.env.APNS_TEAM_ID;
@@ -32,14 +25,12 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: "Missing APNS secrets" });
   }
 
-  // ✅ Create JWT for APNS
   const token = jwt.sign(
     { iss: teamId, iat: Math.floor(Date.now() / 1000) },
     privateKey,
     { algorithm: "ES256", header: { alg: "ES256", kid: keyId } }
   );
 
-  // ✅ APNS endpoint: sandbox vs production
   const apnsUrl = useSandbox
     ? `https://api.sandbox.push.apple.com/3/device/${deviceToken}`
     : `https://api.push.apple.com/3/device/${deviceToken}`;
@@ -60,7 +51,6 @@ export default async function handler(req, res) {
       }),
     });
 
-    // ✅ Log full APNS response
     const responseBody = await apnsResponse.text();
     console.log("APNS Status:", apnsResponse.status);
     console.log("APNS Body:", responseBody);
