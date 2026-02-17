@@ -1,61 +1,63 @@
+// app/api/check-new-amiibo/route.ts
+import { NextResponse } from "next/server";
 import fetch from "node-fetch";
 import crypto from "crypto";
 import admin from "firebase-admin";
 
 let lastHash = "";
 
-// Initialize Firebase once
+// Initialize Firebase
 if (!admin.apps.length) {
+  const rawServiceAccount = process.env.FIREBASE_ADMIN_SDK;
+  if (!rawServiceAccount) {
+    throw new Error("FIREBASE_ADMIN_SDK environment variable is not set");
+  }
+
+  // Parse the service account JSON
+  const serviceAccount = JSON.parse(rawServiceAccount);
+
+  // Replace escaped newlines with real newlines
+  serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, "\n");
+
+  console.log("Initializing Firebase with project:", serviceAccount.project_id);
+
+  // Initialize Firebase Admin
   admin.initializeApp({
-    credential: admin.credential.applicationDefault(),
+    credential: admin.credential.cert(serviceAccount),
+    projectId: serviceAccount.project_id,
   });
 }
+
 const db = admin.firestore();
 
-export default async function handler(req, res) {
+export async function GET() {
   try {
-    // 1️⃣ Fetch JSON
+    // Fetch JSON from GitHub
     const response = await fetch(
       "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/coming_soon.json"
     );
     const data = await response.json();
 
-    // 2️⃣ Compute hash to detect changes
+    // Check if JSON has changed
     const hash = crypto
       .createHash("sha256")
       .update(JSON.stringify(data))
       .digest("hex");
 
     if (hash === lastHash) {
-      console.log("ℹ️ No new Amiibos");
-      return res.status(200).json({ status: "no-new-amiibos" });
+      return NextResponse.json({ status: "no-new-amiibos" });
     }
-
     lastHash = hash;
-    console.log("🚀 New Amiibo JSON detected");
 
-    // 3️⃣ Get all device tokens from Firebase
+    // Get all users' device tokens from Firebase
     const usersSnapshot = await db.collection("users").get();
     const tokens = usersSnapshot.docs
       .map((doc) => doc.data().deviceToken)
       .filter(Boolean);
 
-    if (!tokens.length) {
-      console.log("⚠️ No device tokens found");
-      return res.status(200).json({ status: "no-tokens" });
-    }
-
-    // 4️⃣ Send notifications for each new Amiibo
+    // Send notification for each Amiibo to each user
     for (const amiibo of data) {
-      const payload = {
-        deviceToken: null,
-        title: "New Amiibo!",
-        bodyText: `${amiibo.name} is coming soon!`,
-        useSandbox: true,
-      };
-
       for (const token of tokens) {
-        payload.deviceToken = token;
         await fetch(
           "https://coming-soon-one-lilac.vercel.app/api/sendNotification",
           {
@@ -64,16 +66,20 @@ export default async function handler(req, res) {
               "Content-Type": "application/json",
               "x-api-key": process.env.API_SECRET_KEY,
             },
-            body: JSON.stringify(payload),
+            body: JSON.stringify({
+              deviceToken: token,
+              title: "New Amiibo!",
+              bodyText: `${amiibo.name} is coming soon!`,
+              useSandbox: true,
+            }),
           }
         );
       }
     }
 
-    console.log(`✅ Notifications sent to ${tokens.length} users`);
-    res.status(200).json({ status: "notifications-sent", users: tokens.length });
-  } catch (error) {
-    console.error("❌ Error in check-new-amiibo:", error);
-    res.status(500).json({ status: "error", error: error.message });
+    return NextResponse.json({ status: "notifications-sent", users: tokens.length });
+  } catch (error: any) {
+    console.error("Error in check-new-amiibo:", error);
+    return NextResponse.json({ status: "error", error: error.message });
   }
 }
