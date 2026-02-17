@@ -1,8 +1,8 @@
-// app/api/check-new-amiibo/route.ts
-import { NextResponse } from "next/server";
+// api/check-new-amiibo/check-new-amiibo.js
 import fetch from "node-fetch";
 import crypto from "crypto";
 import admin from "firebase-admin";
+import sendNotification from "./sendNotification.js";
 
 let lastHash = "";
 
@@ -13,15 +13,9 @@ if (!admin.apps.length) {
     throw new Error("FIREBASE_ADMIN_SDK environment variable is not set");
   }
 
-  // Parse the service account JSON
   const serviceAccount = JSON.parse(rawServiceAccount);
-
-  // Replace escaped newlines with real newlines
   serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, "\n");
 
-  console.log("Initializing Firebase with project:", serviceAccount.project_id);
-
-  // Initialize Firebase Admin
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
     projectId: serviceAccount.project_id,
@@ -30,7 +24,7 @@ if (!admin.apps.length) {
 
 const db = admin.firestore();
 
-export async function GET() {
+export default async function checkNewAmiibo() {
   try {
     // Fetch JSON from GitHub
     const response = await fetch(
@@ -38,16 +32,18 @@ export async function GET() {
     );
     const data = await response.json();
 
-    // Check if JSON has changed
+    // Create hash to check for changes
     const hash = crypto
       .createHash("sha256")
       .update(JSON.stringify(data))
       .digest("hex");
 
     if (hash === lastHash) {
-      return NextResponse.json({ status: "no-new-amiibos" });
+      console.log("No new Amiibos detected");
+      return;
     }
     lastHash = hash;
+    console.log("🚀 New Amiibo JSON detected");
 
     // Get all users' device tokens from Firebase
     const usersSnapshot = await db.collection("users").get();
@@ -55,31 +51,19 @@ export async function GET() {
       .map((doc) => doc.data().deviceToken)
       .filter(Boolean);
 
-    // Send notification for each Amiibo to each user
+    // Send notification for each new Amiibo
     for (const amiibo of data) {
       for (const token of tokens) {
-        await fetch(
-          "https://coming-soon-one-lilac.vercel.app/api/sendNotification",
-          {
-            method: "POST",
-            headers: {
-              "Content-Type": "application/json",
-              "x-api-key": process.env.API_SECRET_KEY,
-            },
-            body: JSON.stringify({
-              deviceToken: token,
-              title: "New Amiibo!",
-              bodyText: `${amiibo.name} is coming soon!`,
-              useSandbox: true,
-            }),
-          }
-        );
+        await sendNotification(token, {
+          title: "New Amiibo!",
+          bodyText: `${amiibo.name} is coming soon!`,
+          useSandbox: true,
+        });
       }
     }
 
-    return NextResponse.json({ status: "notifications-sent", users: tokens.length });
-  } catch (error: any) {
-    console.error("Error in check-new-amiibo:", error);
-    return NextResponse.json({ status: "error", error: error.message });
+    console.log(`Notifications sent to ${tokens.length} users`);
+  } catch (error) {
+    console.error("❌ Error in check-new-amiibo:", error);
   }
 }
