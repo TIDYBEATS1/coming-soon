@@ -1,10 +1,12 @@
-import jwt from "jsonwebtoken";
+// /api/sendNotification.js
+import apn from "apn";
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).json({ error: "Method not allowed — use POST instead" });
   }
 
+  // ✅ API Key check
   const apiKey = process.env.API_SECRET_KEY;
   const providedKey = req.headers["x-api-key"];
   if (!apiKey || providedKey !== apiKey) {
@@ -12,8 +14,9 @@ export default async function handler(req, res) {
   }
 
   const { deviceToken, title, bodyText, useSandbox } = req.body ?? {};
+
   if (!deviceToken || !title || !bodyText) {
-    return res.status(400).json({ error: "Missing deviceToken, title or bodyText" });
+    return res.status(400).json({ error: "Missing deviceToken, title, or bodyText" });
   }
 
   const teamId = process.env.APNS_TEAM_ID;
@@ -25,41 +28,39 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: "Missing APNS secrets" });
   }
 
-  const token = jwt.sign(
-    { iss: teamId, iat: Math.floor(Date.now() / 1000) },
-    privateKey,
-    { algorithm: "ES256", header: { alg: "ES256", kid: keyId } }
-  );
-
-  const apnsUrl = useSandbox
-    ? `https://api.sandbox.push.apple.com/3/device/${deviceToken}`
-    : `https://api.push.apple.com/3/device/${deviceToken}`;
-
   try {
-    const apnsResponse = await fetch(apnsUrl, {
-      method: "POST",
-      headers: {
-        authorization: `bearer ${token}`,
-        "apns-topic": bundleId,
-        "content-type": "application/json",
+    // ✅ Configure APN provider
+    const apnProvider = new apn.Provider({
+      token: {
+        key: Buffer.from(privateKey), // or path to .p8 file if you prefer
+        keyId: keyId,
+        teamId: teamId,
       },
-      body: JSON.stringify({
-        aps: {
-          alert: { title, body: bodyText },
-          sound: "default",
-        },
-      }),
+      production: !useSandbox, // true for production, false for sandbox
     });
 
-    const responseBody = await apnsResponse.text();
-    console.log("APNS Status:", apnsResponse.status);
-    console.log("APNS Body:", responseBody);
+    // ✅ Create notification
+    const notification = new apn.Notification({
+      alert: { title, body: bodyText },
+      sound: "default",
+      topic: bundleId,
+    });
 
-    if (!apnsResponse.ok) {
-      return res.status(500).json({ error: "APNS request failed", details: responseBody });
+    // ✅ Send notification
+    const result = await apnProvider.send(notification, deviceToken);
+
+    // Log full response
+    console.log("APNS Result:", result);
+
+    // Always shutdown provider
+    apnProvider.shutdown();
+
+    // Check for failures
+    if (result.failed && result.failed.length > 0) {
+      return res.status(500).json({ error: "APNS request failed", details: result.failed });
     }
 
-    return res.status(200).json({ status: apnsResponse.status, body: responseBody });
+    return res.status(200).json({ status: "success", result });
   } catch (error) {
     console.error("APNS Error:", error);
     return res.status(500).json({ error: "APNS request threw an error", details: error.message });
