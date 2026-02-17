@@ -1,75 +1,76 @@
-import fetch from "node-fetch";
-import crypto from "crypto";
-import admin from "firebase-admin";
+import apn from "apn";
 
-if (!admin.apps.length) {
-  const rawServiceAccount = process.env.FIREBASE_ADMIN_SDK;
-  if (!rawServiceAccount) {
-    throw new Error("FIREBASE_ADMIN_SDK environment variable is not set");
+export async function POST(req: Request) {
+  const body = await req.json();
+
+  // ✅ API Key check
+  const apiKey = process.env.API_SECRET_KEY;
+  const providedKey = req.headers.get("x-api-key");
+  if (!apiKey || providedKey !== apiKey) {
+    return new Response(
+      JSON.stringify({ error: "Unauthorized — wrong API key" }),
+      { status: 401 }
+    );
   }
 
-  const serviceAccount = JSON.parse(rawServiceAccount);
-  serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, "\n");
+  const { deviceToken, title, bodyText } = body ?? {};
 
-  admin.initializeApp({
-    credential: admin.credential.cert(serviceAccount),
-    projectId: serviceAccount.project_id,
-  });
-}
-
-const db = admin.firestore();
-
-export async function GET() {
-  try {
-    // 1️⃣ Fetch JSON from GitHub
-    const response = await fetch(
-      "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/coming_soon.json"
+  if (!deviceToken || !title || !bodyText) {
+    return new Response(
+      JSON.stringify({ error: "Missing deviceToken, title, or bodyText" }),
+      { status: 400 }
     );
-    const data = await response.json();
+  }
 
-    // 2️⃣ Load already notified Amiibo IDs from Firestore
-    const notifiedDocRef = db.collection("meta").doc("notifiedAmiibos");
-    const notifiedDoc = await notifiedDocRef.get();
-    const notifiedIds = notifiedDoc.exists ? notifiedDoc.data()?.ids || [] : [];
+  const teamId = process.env.APNS_TEAM_ID;
+  const keyId = process.env.APNS_KEY_ID;
+  const bundleId = process.env.APP_BUNDLE_ID;
+  const privateKey = process.env.APPLE_AUTH_KEY?.replace(/\\n/g, "\n");
 
-    // 3️⃣ Find new Amiibos that haven't been notified yet
-    const newAmiibos = data.filter((amiibo) => !notifiedIds.includes(amiibo.id));
+  if (!teamId || !keyId || !bundleId || !privateKey) {
+    return new Response(
+      JSON.stringify({ error: "Missing APNS secrets" }),
+      { status: 500 }
+    );
+  }
 
-    if (newAmiibos.length === 0) {
-      return { status: "no-new-amiibos" };
+  try {
+    // ✅ Detect environment automatically
+    const isProduction = process.env.VERCEL_ENV === "production";
+
+    // ✅ Configure APN provider
+    const apnProvider = new apn.Provider({
+      token: { key: privateKey, keyId, teamId },
+      production: isProduction,
+    });
+
+    // ✅ Create notification
+    const notification = new apn.Notification({
+      alert: { title, body: bodyText },
+      sound: "default",
+      topic: bundleId,
+      pushType: "alert", // required for iOS 13+
+    });
+
+    // ✅ Send notification
+    const result = await apnProvider.send(notification, deviceToken);
+    apnProvider.shutdown();
+
+    console.log("APNS Result:", result);
+
+    if (result.failed && result.failed.length > 0) {
+      return new Response(
+        JSON.stringify({ error: "APNS request failed", details: result.failed }),
+        { status: 500 }
+      );
     }
 
-    // 4️⃣ Send notifications for new Amiibos
-    const usersSnapshot = await db.collection("users").get();
-    const tokens = usersSnapshot.docs
-      .map((doc) => doc.data().deviceToken)
-      .filter(Boolean);
-
-    for (const amiibo of newAmiibos) {
-      for (const token of tokens) {
-        await fetch("https://coming-soon-one-lilac.vercel.app/api/sendNotification", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            "x-api-key": process.env.API_SECRET_KEY,
-          },
-          body: JSON.stringify({
-            deviceToken: token,
-            title: "New Amiibo!",
-            bodyText: `${amiibo.name} is coming soon!`,
-            useSandbox: true,
-          }),
-        });
-      }
-    }
-
-    // 5️⃣ Update Firestore with newly notified Amiibo IDs
-    const updatedIds = [...new Set([...notifiedIds, ...newAmiibos.map((a) => a.id)])];
-    await notifiedDocRef.set({ ids: updatedIds });
-
-    return { status: "notifications-sent", newAmiibos: newAmiibos.length, users: tokens.length };
-  } catch (error) {
-    console.error("Error in check-new-amiibo:", error);
-    return { status: "error", error: error.message };
+    return new Response(JSON.stringify({ status: "success", result }), { status: 200 });
+  } catch (error: any) {
+    console.error("APNS Error:", error);
+    return new Response(
+      JSON.stringify({ error: "APNS request threw an error", details: error.message }),
+      { status: 500 }
+    );
   }
 }
