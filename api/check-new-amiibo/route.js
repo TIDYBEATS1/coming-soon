@@ -16,15 +16,15 @@ if (!admin.apps.length) {
   // Parse the service account JSON
   const serviceAccount = JSON.parse(rawServiceAccount);
 
-  // Replace literal "\n" with real newlines
-  if (serviceAccount.private_key) {
-    serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, "\n");
-  }
+  // Replace escaped newlines with real newlines
+  serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, "\n");
+
+  console.log("Initializing Firebase with project:", serviceAccount.project_id);
 
   // Initialize Firebase Admin
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    projectId: serviceAccount.project_id, // ensure Firestore knows the project
+    projectId: serviceAccount.project_id,
   });
 }
 
