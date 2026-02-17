@@ -1,0 +1,77 @@
+name: Coming Soon APNs Notifications
+
+# Runs automatically every hour
+on:
+  schedule:
+    - cron: '0 * * * *'  # every hour at minute 0
+  workflow_dispatch:  # also allows manual run
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl jq openssl
+
+      - name: Fetch Coming Soon JSON
+        id: fetch
+        run: |
+          URL="https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/coming_soon.json"
+          curl -s $URL -o coming_soon.json
+          # store current hash to compare previous
+          HASH=$(sha256sum coming_soon.json | awk '{print $1}')
+          echo "CURRENT_HASH=$HASH" >> $GITHUB_ENV
+
+      - name: Determine new Amiibos
+        id: new
+        run: |
+          PREV_HASH_FILE="previous_hash.txt"
+          if [ -f "$PREV_HASH_FILE" ]; then
+            PREV_HASH=$(cat $PREV_HASH_FILE)
+          else
+            PREV_HASH=""
+          fi
+
+          if [ "$CURRENT_HASH" != "$PREV_HASH" ]; then
+            echo "New Amiibos detected!"
+            cat coming_soon.json | jq -r '.[].name' > new_amiibos.txt
+          else
+            echo "No new Amiibos."
+          fi
+
+          # Save current hash for next run
+          echo "$CURRENT_HASH" > previous_hash.txt
+
+      - name: Send APNs Notification
+        if: steps.new.outputs.new_amiibos != ''
+        run: |
+          # Load names of new Amiibos
+          NEW_NAMES=$(cat new_amiibos.txt | tr '\n' ', ' | sed 's/, $//')
+
+          echo "Sending notification for: $NEW_NAMES"
+
+          HEADER='{"alg":"ES256","kid":"'"${{ secrets.APNS_KEY_ID }}"'"}'
+          PAYLOAD='{"iss":"'"${{ secrets.APNS_TEAM_ID }}"'","iat":'"$(date +%s)"'}'
+
+          HEADER_BASE64=$(echo -n "$HEADER" | openssl base64 -e | tr -d '=' | tr '/+' '_-' | tr -d '\n')
+          PAYLOAD_BASE64=$(echo -n "$PAYLOAD" | openssl base64 -e | tr -d '=' | tr '/+' '_-' | tr -d '\n')
+
+          SIGNING_INPUT="$HEADER_BASE64.$PAYLOAD_BASE64"
+
+          echo "${{ secrets.APPLE_AUTH_KEY }}" > authkey.p8
+
+          SIGNATURE=$(echo -n $SIGNING_INPUT | openssl dgst -sha256 -binary -sign authkey.p8 | openssl base64 -e | tr -d '=' | tr '/+' '_-' | tr -d '\n')
+
+          JWT="$SIGNING_INPUT.$SIGNATURE"
+
+          curl -v \
+            --http2 \
+            -H "apns-topic: ${{ secrets.APP_BUNDLE_ID }}" \
+            -H "authorization: bearer $JWT" \
+            -d '{"aps":{"alert":{"title":"New Amiibo Wave!","body":"'"$NEW_NAMES"'"},"sound":"default"}}' \
+            https://api.sandbox.push.apple.com/3/device/${{ secrets.DEVICE_TOKEN }}
