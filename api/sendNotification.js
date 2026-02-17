@@ -32,9 +32,9 @@ export default async function handler(req, res) {
     // ✅ Configure APN provider
     const apnProvider = new apn.Provider({
       token: {
-        key: Buffer.from(privateKey), // or path to .p8 file if you prefer
-        keyId: keyId,
-        teamId: teamId,
+      key: privateKey, // string from environment variable
+      keyId: keyId,
+      teamId: teamId,
       },
       production: !useSandbox, // true for production, false for sandbox
     });
