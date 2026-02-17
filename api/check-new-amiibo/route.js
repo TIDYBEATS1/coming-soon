@@ -13,10 +13,15 @@ if (!admin.apps.length) {
     throw new Error("FIREBASE_ADMIN_SDK environment variable is not set");
   }
 
-  // Parse service account JSON
+  // Parse the service account JSON
   const serviceAccount = JSON.parse(rawServiceAccount);
 
-  // Initialize Firebase with cert
+  // Replace literal "\n" with real newlines
+  if (serviceAccount.private_key) {
+    serviceAccount.private_key = serviceAccount.private_key.replace(/\\n/g, "\n");
+  }
+
+  // Initialize Firebase Admin
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
     projectId: serviceAccount.project_id, // ensure Firestore knows the project
