@@ -5,14 +5,15 @@ import admin from "firebase-admin";
 
 let lastHash = "";
 
+// Initialize Firebase with service account from environment variable
 if (!admin.apps.length) {
   const serviceAccount = JSON.parse(process.env.FIREBASE_ADMIN_SDK || "{}");
+
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    projectId: serviceAccount.project_id
+    projectId: serviceAccount.project_id,
   });
 }
-
 const db = admin.firestore();
 
 export async function GET() {
@@ -63,7 +64,7 @@ export async function GET() {
     }
 
     return NextResponse.json({ status: "notifications-sent", users: tokens.length });
-  } catch (error) {
+  } catch (error: any) {
     console.error("Error in check-new-amiibo:", error);
     return NextResponse.json({ status: "error", error: error.message });
   }
