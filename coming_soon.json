@@ -7,13 +7,6 @@
     "region": "ALL"
   },
   {
-    "id": "testing123576",
-    "name": "testing123576",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/mario-and-luma-98e30f15d7fd28e9487b05797123abd22215abcb578d6c8f129241f9a6acd7e9.png",
-    "releaseDate": "02-04-2026",
-    "region": "ALL"
-  },
-  {
     "id": "00000008",
     "name": "Rosalina and Lumas",
     "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/rosalina-and-lumas-f51a3258399488c3b6b6fc665d76a5c396c3d4f083dca24b8c5a6f5473bf0b65.png",
@@ -110,33 +103,5 @@
     "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/captain-toad-talking-flower-30defe54064952a5546e7a20b900dcc20a3571ae79beceb3753cd97eab01c848.png",
     "releaseDate": "26-03-2026",
     "region": "ALL"
-  },
-    {
-    "id": "A521D273",
-    "name": "Mario",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/my-mario-wooden-blocks/mario-c97c1d6ae4e4448c1f62cacd1e4bf5c3be33b0fd42945a4b908b4d0ffa0b47b7.png",
-    "releaseDate": "19-02-2026",
-    "region": "US"
-  },
-    {
-    "id": "A521D274",
-    "name": "Luigi",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/my-mario-wooden-blocks/luigi-64a9c9398ba19aca4ccf2f533793b790b1780c4dbd978a19fd83f7103038f0e0.png",
-    "releaseDate": "19-02-2026",
-    "region": "US"
-  },
-    {
-    "id": "A521D275",
-    "name": "Peach",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/my-mario-wooden-blocks/peach-bdd3d677a39bcad36296fed3fe9df74f68fb7218ec1015aa7fb02dc19f4f7d47.png",
-    "releaseDate": "19-02-2026",
-    "region": "US"
-  },
-    {
-    "id": "A521D276",
-    "name": "Yoshi",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/my-mario-wooden-blocks/yoshi-7f958a8c00f4c1baef37dd79740a851e136486d72a811e16b0406f6e5e99752f.png",
-    "releaseDate": "19-02-2026",
-    "region": "US"
   }
 ]
