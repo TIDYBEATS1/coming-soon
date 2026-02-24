@@ -6,6 +6,13 @@
     "releaseDate": "02-04-2026",
     "region": "ALL"
   },
+   {
+    "id": "00000007",
+    "name": "Invincible Power-Up Band",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/super-nintendo-world/invincible-power-up-band-cb85da95972b82131669aca187f1720ae20e5ceff1d8d7cfd211a5a50579f4fd.png",
+    "releaseDate": "18-03-2026",
+    "region": "JP"
+  },
   {
     "id": "00000008",
     "name": "Rosalina and Lumas",
