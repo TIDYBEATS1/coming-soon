@@ -10,6 +10,16 @@
       "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/donkey-kong-bananza-5d871f7619b7bdcc6b38e682fc92924a9f548573a11f4f5dd4a7c1e0f7afb1ab.png"
     },
     {
+      "id": "switch2_RER",
+      "title": "Resident Evil Requiem",
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": ["Resident Evil Series"],
+      "notes": "",
+      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/resident-evil-requiem-156fa71235c20810a7c6c0e3b657bbdb70aa4b265282e4d576e79ee6af4a2ac7.png"
+    },
+    {
       "id": "switch2_hqaoi",
       "title": "Hyrule Warriors: Age of Imprisonment",
       "platform": "Nintendo Switch 2",
