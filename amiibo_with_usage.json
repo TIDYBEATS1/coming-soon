@@ -55755,11 +55755,7 @@
         "name": "Kirby Air Riders",
         "usage": "Race and train up a computer-controlled Figure Player of the character / Change main menu cursor doll to match amiibo (Read+Write)"
       }
-    ],
-    "switch": [
-
-    ]
-  },
+  }
   "gameSeries": "Kirby Air Riders Series",
   "character": "Meta Knight & Shadow Star",
   "amiiboSeries": "Kirby Air Riders Series",
