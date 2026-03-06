@@ -55738,6 +55738,34 @@
   "type": "Figure",
   "head": "05c50000",
   "tail": "043c1302"
+},
+    {
+  "name": "Meta Knight & Shadow Star",
+  "release": {
+    "au": "2026-03-05",
+    "na": "2026-03-05",
+    "eu": "2026-03-05",
+    "jp": "2026-03-05"
+  },
+  "id": "0x1f01000004c61e03",
+  "image": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/meta-knight-shadow-star-37ceed39342c27a335d96c464036bd34acf0c3be10797402ec4e04de6fb1715d.png",
+  "usage": {
+    "switch2": [
+      {
+        "name": "Kirby Air Riders",
+        "usage": "Race and train up a computer-controlled Figure Player of the character / Change main menu cursor doll to match amiibo (Read+Write)"
+      }
+    ],
+    "switch": [
+
+    ]
+  },
+  "gameSeries": "MKirby Air Riders Series",
+  "character": "Meta Knight & Shadow Star",
+  "amiiboSeries": "Kirby Air Riders Series",
+  "type": "Figure",
+  "head": "1f010000",
+  "tail": "04c61e03"
 }
   ]
 }
