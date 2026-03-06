@@ -55739,7 +55739,7 @@
   "head": "05c50000",
   "tail": "043c1302"
 },
-    {
+{
   "name": "Meta Knight & Shadow Star",
   "release": {
     "au": "2026-03-05",
@@ -55756,7 +55756,7 @@
         "usage": "Race and train up a computer-controlled Figure Player of the character / Change main menu cursor doll to match amiibo (Read+Write)"
       }
     ]
-  }
+  },
   "gameSeries": "Kirby Air Riders Series",
   "character": "Meta Knight & Shadow Star",
   "amiiboSeries": "Kirby Air Riders Series",
