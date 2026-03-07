@@ -7434,8 +7434,8 @@
       ]
     },
     {
-      "gameName": "Donkey Kong Bananza",
-      "console": "Switch 2 ",
+      "gameName": "Donkey Kong Bananza (Switch 2)",
+      "console": "switch",
       "amiiboIDs": [
         "0x00c00000037b0002",
         "0x00090000000d0002",
@@ -8856,7 +8856,7 @@
       ]
     },
     {
-      "gameName": "Metroid Prime 4: Beyond",
+      "gameName": "Metroid Prime 4",
       "console": "switch2",
       "amiiboIDs": [
         "0x05c4000004131302",
@@ -9240,8 +9240,8 @@
       ]
     },
     {
-      "gameName": "Street Fighter 6",
-      "console": "Switch 2",
+      "gameName": "Street Fighter 6 (Switch 2)",
+      "console": "switch",
       "amiiboIDs": [
         "0x34c1000003890002",
         "0x34c0000002530002",
@@ -9466,7 +9466,7 @@
     },
     {
       "gameName": "Street Fighter 6",
-      "console": "Switch 2",
+      "console": "switch",
       "amiiboIDs": [
         "0x34d6000104e11d02",
         "0x3c80000104e81d02"
@@ -9493,7 +9493,7 @@
     },
     {
       "gameName": "Metroid Prime 4: Beyond",
-      "console": "Switch 2",
+      "console": "switch2",
       "amiiboIDs": [
         "0x05c50000043c1302"
       ],
@@ -9506,7 +9506,7 @@
     },
     {
       "gameName": "Kirby Air Riders",
-      "console": "Switch 2",
+      "console": "switch2",
       "amiiboIDs": [
         "0x1f01000004c61e03"
       ],
