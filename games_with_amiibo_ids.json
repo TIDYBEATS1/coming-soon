@@ -7434,8 +7434,8 @@
       ]
     },
     {
-      "gameName": "Donkey Kong Bananza (Switch 2)",
-      "console": "switch",
+      "gameName": "Donkey Kong Bananza",
+      "console": "Switch 2",
       "amiiboIDs": [
         "0x00c00000037b0002",
         "0x00090000000d0002",
@@ -9240,8 +9240,8 @@
       ]
     },
     {
-      "gameName": "Street Fighter 6 (Switch 2)",
-      "console": "switch",
+      "gameName": "Street Fighter 6",
+      "console": "Switch 2",
       "amiiboIDs": [
         "0x34c1000003890002",
         "0x34c0000002530002",
