@@ -49,10 +49,17 @@
     "region": "ALL"
   },
   {
+    "id": "BFD06F20",
+    "name": "Noir Dedede & Hydra",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/noir-dedede-hydra-d20233f1e41d52b256aa5e3922b096b708b5e26f9c1eb52197d648e59464cc03.png",
+    "releaseDate": "TBA",
+    "region": "ALL"
+  },
+  {
     "id": "D46319CB",
-    "name": "Meta Knight & Shadow Star",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/meta-knight-shadow-star-37ceed39342c27a335d96c464036bd34acf0c3be10797402ec4e04de6fb1715d.png",
-    "releaseDate": "05-03-2026",
+    "name": "Sword Kirby & Dragoon",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/sword-kirby-dragoon-30d529c51a1a626e169665898cf6b8c135337f918857e8378c7374b2f4bc0fed.png",
+    "releaseDate": "TBA",
     "region": "ALL"
   },
   {
