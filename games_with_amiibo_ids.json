@@ -9508,7 +9508,9 @@
       "gameName": "Kirby Air Riders",
       "console": "Switch 2",
       "amiiboIDs": [
-        "0x1f01000004c61e03"
+        "0x1f01000004c61e03",
+        "0x1f00000004c41e03",
+        "0x1f03010004c91e03"
       ],
       "amiiboUsage": [
         {
