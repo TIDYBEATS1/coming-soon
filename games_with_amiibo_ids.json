@@ -3569,11 +3569,12 @@
         "0x018f000100b30502",
         "0x04b9000101600502",
         "0x04d10001009e0502",
-        "0x05c50000043c1302"
+        "0x05c50000043c1302",
+        "0x1f01000004c61e03"
       ],
       "amiiboUsage": [
         {
-          "Usage": "Unlock an Animal Crossing-themed Mii racing suit",
+          "Usage": "Unlock an Charactor Theme Mii racing suit",
           "write": false
         }
       ]
