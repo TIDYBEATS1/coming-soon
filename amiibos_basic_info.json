@@ -15625,18 +15625,18 @@
       "type" : "Figure"
     },
     {
-      "amiiboSeries" : "",
-      "character" : "",
-      "gameSeries" : "",
-      "head" : "",
+      "amiiboSeries" : "test",
+      "character" : "tets",
+      "gameSeries" : "test",
+      "head" : "000000",
       "id" : "0x0000",
       "image" : "0x0000",
       "name" : "test",
       "release" : {
 
       },
-      "tail" : "",
-      "type" : ""
+      "tail" : "000000",
+      "type" : "test"
     }
   ]
 }
