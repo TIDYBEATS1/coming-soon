@@ -15623,6 +15623,20 @@
       },
       "tail" : "04c61e03",
       "type" : "Figure"
+    },
+    {
+      "amiiboSeries" : "",
+      "character" : "",
+      "gameSeries" : "",
+      "head" : "",
+      "id" : "0x0000",
+      "image" : "0x0000",
+      "name" : "test",
+      "release" : {
+
+      },
+      "tail" : "",
+      "type" : ""
     }
   ]
 }
