@@ -1,9 +1,7 @@
 {
-  "games": [
+  "games" : [
     {
-      "gameName": "Animal Crossing: New Leaf",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0438000103000502",
         "0x0181010100b40502",
         "0x029e0001013d0502",
@@ -544,19 +542,20 @@
         "0x0183030103be0502",
         "0x018f000100b30502",
         "0x04b9000101600502",
-        "0x04d10001009e0502"
+        "0x04d10001009e0502",
+        "0x0000"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Invite the character to visit your RV campsite, give you an item, and/or move to your town",
-          "write": false
+          "Usage" : "Invite the character to visit your RV campsite, give you an item, and/or move to your town",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Animal Crossing: New Leaf"
     },
     {
-      "gameName": "Kirby: Planet Robobot",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0438000103000502",
         "0x0181010100b40502",
         "0x029e0001013d0502",
@@ -1169,17 +1168,17 @@
         "0x04b9000101600502",
         "0x04d10001009e0502"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Give Kirby a Copy ability based on the character's abilities and a health item",
-          "write": false
+          "Usage" : "Give Kirby a Copy ability based on the character's abilities and a health item",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Kirby: Planet Robobot"
     },
     {
-      "gameName": "Style Savvy: Styling Star",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0438000103000502",
         "0x0181010100b40502",
         "0x029e0001013d0502",
@@ -1764,19 +1763,20 @@
         "0x0183030103be0502",
         "0x018f000100b30502",
         "0x04b9000101600502",
-        "0x04d10001009e0502"
+        "0x04d10001009e0502",
+        "0x0000"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock an Animal Crossing pattern",
-          "write": false
+          "Usage" : "Unlock an Animal Crossing pattern",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Style Savvy: Styling Star"
     },
     {
-      "gameName": "Animal Crossing: New Horizons",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0438000103000502",
         "0x0181010100b40502",
         "0x029e0001013d0502",
@@ -2304,17 +2304,17 @@
         "0x04b9000101600502",
         "0x04d10001009e0502"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Invite the character to your campsite and, eventually, to move to your island / Invite the character for photo shoots at Photopia / Unlock a special poster of the character / Invite the character to the Roost for a cup of coffee / Invite the character to Happy Home Paradise to design their vacation home",
-          "write": false
+          "Usage" : "Invite the character to your campsite and, eventually, to move to your island / Invite the character for photo shoots at Photopia / Unlock a special poster of the character / Invite the character to the Roost for a cup of coffee / Invite the character to Happy Home Paradise to design their vacation home",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Animal Crossing: New Horizons"
     },
     {
-      "gameName": "Conga Master Party!",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0438000103000502",
         "0x0181010100b40502",
         "0x029e0001013d0502",
@@ -2898,19 +2898,20 @@
         "0x04b9000101600502",
         "0x04d10001009e0502",
         "0x05c50000043c1302",
-        "0x05c50000043c1302"
+        "0x05c50000043c1302",
+        "0x0000"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a special costume",
-          "write": false
+          "Usage" : "Unlock a special costume",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Conga Master Party!"
     },
     {
-      "gameName": "Mario Kart 8 Deluxe",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0438000103000502",
         "0x0181010100b40502",
         "0x3200000000300002",
@@ -3574,17 +3575,17 @@
         "0x1f01000004c61e03",
         "0x05c50000043c1302"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock an Charactor Theme Mii racing suit",
-          "write": false
+          "Usage" : "Unlock an Charactor Theme Mii racing suit",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Mario Kart 8 Deluxe"
     },
     {
-      "gameName": "Animal Crossing: Happy Home Designer",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0181010100b40502",
         "0x029e0001013d0502",
         "0x01b3000100b50502",
@@ -4027,17 +4028,17 @@
         "0x04b9000101600502",
         "0x04d10001009e0502"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Call on amiibo phone to design the character's home on demand / Store house design and furniture for sharing",
-          "write": false
+          "Usage" : "Call on amiibo phone to design the character's home on demand / Store house design and furniture for sharing",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Animal Crossing: Happy Home Designer"
     },
     {
-      "gameName": "Style Savvy: Fashion Forward",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0181010100b40502",
         "0x0101030004140902",
         "0x0800010004150402",
@@ -4096,17 +4097,17 @@
         "0x05c0000003651302",
         "0x07420000001f0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-themed accessory",
-          "write": false
+          "Usage" : "Unlock a character-themed accessory",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Style Savvy: Fashion Forward"
     },
     {
-      "gameName": "Yoshi's Woolly World",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0181010100b40502",
         "0x3200000000300002",
         "0x07c0000000210002",
@@ -4288,17 +4289,17 @@
         "0x0194000103b60502",
         "0x0183030103be0502"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-based Yoshi yarn pattern",
-          "write": false
+          "Usage" : "Unlock a character-based Yoshi yarn pattern",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Yoshi's Woolly World"
     },
     {
-      "gameName": "Animal Crossing: amiibo Festival",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0181010100b40502",
         "0x029e0001013d0502",
         "0x01b3000100b50502",
@@ -4741,17 +4742,17 @@
         "0x04b9000101600502",
         "0x04d10001009e0502"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Use the character in mini-games",
-          "write": false
+          "Usage" : "Use the character in mini-games",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Animal Crossing: amiibo Festival"
     },
     {
-      "gameName": "Super Mario Maker",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0181010100b40502",
         "0x3200000000300002",
         "0x026c000100c30502",
@@ -4931,17 +4932,17 @@
         "0x0194000103b60502",
         "0x0183030103be0502"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-based Mystery Mushroom costume",
-          "write": false
+          "Usage" : "Unlock a character-based Mystery Mushroom costume",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Super Mario Maker"
     },
     {
-      "gameName": "Taiko Drum Master: Atsumete Tomodachi Daisakusen",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0181010100b40502",
         "0x029e0001013d0502",
         "0x01b3000100b50502",
@@ -5383,17 +5384,17 @@
         "0x04b9000101600502",
         "0x04d10001009e0502"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock music, frames, and figures",
-          "write": false
+          "Usage" : "Unlock music, frames, and figures",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Taiko Drum Master: Atsumete Tomodachi Daisakusen"
     },
     {
-      "gameName": "Super Smash Bros. Ultimate",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0181010100b40502",
         "0x3200000000300002",
         "0x07c0000000210002",
@@ -5628,17 +5629,17 @@
         "0x3f000000042e0002",
         "0x1f01000004c61e03"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
-          "write": false
+          "Usage" : "Battle and train up a computer-controlled Figure Player of the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Super Smash Bros. Ultimate"
     },
     {
-      "gameName": "Mario & Sonic at the Rio 2016 Olympic Games",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3200000000300002",
         "0x0000000000340102",
         "0x00000004043f1c02",
@@ -5651,17 +5652,17 @@
         "0x00000000003d0102",
         "0x0000000002380602"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Boost power of the Sonic Mii suit for the day",
-          "write": false
+          "Usage" : "Boost power of the Sonic Mii suit for the day",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Mario & Sonic at the Rio 2016 Olympic Games"
     },
     {
-      "gameName": "Super Smash Bros. for Nintendo 3DS",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3200000000300002",
         "0x07c0000000210002",
         "0x0101030004140902",
@@ -5780,17 +5781,17 @@
         "0x07420000001f0002",
         "0x0008000002640102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
-          "write": false
+          "Usage" : "Battle and train up a computer-controlled Figure Player of the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Super Smash Bros. for Nintendo 3DS"
     },
     {
-      "gameName": "Mario & Sonic at the Rio 2016 Olympic Games",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3200000000300002",
         "0x0000000000340102",
         "0x00000004043f1c02",
@@ -5803,17 +5804,17 @@
         "0x00000000003d0102",
         "0x0000000002380602"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Play the Sonic League, for a chance to unlock the Sonic Mii costume",
-          "write": false
+          "Usage" : "Play the Sonic League, for a chance to unlock the Sonic Mii costume",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Mario & Sonic at the Rio 2016 Olympic Games"
     },
     {
-      "gameName": "Mario Kart 8",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3200000000300002",
         "0x0100000000040002",
         "0x0100000003530902",
@@ -5882,17 +5883,17 @@
         "0x0008000002640102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-themed Mii racing suit",
-          "write": false
+          "Usage" : "Unlock a character-themed Mii racing suit",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Mario Kart 8"
     },
     {
-      "gameName": "Super Smash Bros. for Wii U",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3200000000300002",
         "0x07c0000000210002",
         "0x0101030004140902",
@@ -6010,17 +6011,17 @@
         "0x07420000001f0002",
         "0x0008000002640102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Battle and train up a computer-controlled Figure Player of the character",
-          "write": false
+          "Usage" : "Battle and train up a computer-controlled Figure Player of the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Super Smash Bros. for Wii U"
     },
     {
-      "gameName": "Yoshi's Woolly World",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3200000000300002",
         "0x07c0000000210002",
         "0x0101030004140902",
@@ -6135,17 +6136,17 @@
         "0x0008000002640102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-based Yoshi yarn pattern",
-          "write": false
+          "Usage" : "Unlock a character-based Yoshi yarn pattern",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Yoshi's Woolly World"
     },
     {
-      "gameName": "Chibi-Robo! Zip Lash",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x07c0000000210002",
         "0x0101030004140902",
         "0x0800010004150402",
@@ -6242,17 +6243,17 @@
         "0x07420000001f0002",
         "0x0008000002640102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock figure in the pose of the character (requires Chibi-Robo amiibo)",
-          "write": false
+          "Usage" : "Unlock figure in the pose of the character (requires Chibi-Robo amiibo)",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Chibi-Robo! Zip Lash"
     },
     {
-      "gameName": "Mario Sports Superstars",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x09c5020102830e02",
         "0x09c6010102870e02",
         "0x09d0030102bb0e02",
@@ -6344,17 +6345,17 @@
         "0x09c00201026a0e02",
         "0x09c8030102930e02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock character's Star version for corresponding sport / Play Road to Superstar mode (with 3 cards)",
-          "write": false
+          "Usage" : "Unlock character's Star version for corresponding sport / Play Road to Superstar mode (with 3 cards)",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Mario Sports Superstars"
     },
     {
-      "gameName": "Ace Combat Assault Horizon Legacy+",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0100000000040002",
         "0x0100000003530902",
@@ -6408,17 +6409,17 @@
         "0x05c0000003651302",
         "0x0008000002640102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock an amiibo-exclusive character-themed aircraft, plus a bonus tuning part",
-          "write": false
+          "Usage" : "Unlock an amiibo-exclusive character-themed aircraft, plus a bonus tuning part",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Ace Combat Assault Horizon Legacy+"
     },
     {
-      "gameName": "Hyrule Warriors Legends",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0100000000040002",
         "0x0100000003530902",
@@ -6442,17 +6443,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a weapon rated 3 stars or higher",
-          "write": false
+          "Usage" : "Receive a weapon rated 3 stars or higher",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Hyrule Warriors Legends"
     },
     {
-      "gameName": "Miitopia",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0800010004150402",
         "0x0800010003820002",
@@ -6542,17 +6543,17 @@
         "0x0008000002640102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-based costume",
-          "write": false
+          "Usage" : "Unlock a character-based costume",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Miitopia"
     },
     {
-      "gameName": "WarioWare Gold",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0800010004150402",
         "0x0800010003820002",
@@ -6685,17 +6686,17 @@
         "0x018d0000024c0502",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a sketch of the character from Wario which can be exchanged for in-game coins",
-          "write": false
+          "Usage" : "Receive a sketch of the character from Wario which can be exchanged for in-game coins",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "WarioWare Gold"
     },
     {
-      "gameName": "Hyrule Warriors",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0100000000040002",
         "0x0100000003530902",
@@ -6719,17 +6720,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a weapon rated 3 stars or higher",
-          "write": false
+          "Usage" : "Receive a weapon rated 3 stars or higher",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Hyrule Warriors"
     },
     {
-      "gameName": "The Legend of Zelda: Twilight Princess HD",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0100000000040002",
         "0x0100000003530902",
@@ -6753,17 +6754,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Get a refill of hearts, once a day per amiibo",
-          "write": false
+          "Usage" : "Get a refill of hearts, once a day per amiibo",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "The Legend of Zelda: Twilight Princess HD"
     },
     {
-      "gameName": "Hyrule Warriors: Age of Calamity",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0140000003550902",
         "0x0100000000040002",
@@ -6793,17 +6794,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive specific crafting materials or a weapon for the character",
-          "write": false
+          "Usage" : "Receive specific crafting materials or a weapon for the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Hyrule Warriors: Age of Calamity"
     },
     {
-      "gameName": "Hyrule Warriors: Definitive Edition",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0100000000040002",
         "0x0100000003530902",
@@ -6827,17 +6828,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a weapon rated 3 stars or higher",
-          "write": false
+          "Usage" : "Receive a weapon rated 3 stars or higher",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Hyrule Warriors: Definitive Edition"
     },
     {
-      "gameName": "Miitopia",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0800010004150402",
         "0x0800010003820002",
@@ -6935,17 +6936,17 @@
         "0x000800030431ff02",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-based costume",
-          "write": false
+          "Usage" : "Unlock a character-based costume",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Miitopia"
     },
     {
-      "gameName": "The Elder Scrolls V: Skyrim",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0140000003550902",
         "0x0100000000040002",
@@ -6975,17 +6976,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a chest of loot, potentially containing gear inspired by the Legend of Zelda series",
-          "write": false
+          "Usage" : "Receive a chest of loot, potentially containing gear inspired by the Legend of Zelda series",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "The Elder Scrolls V: Skyrim"
     },
     {
-      "gameName": "The Legend of Zelda: Echoes of Wisdom",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0140000003550902",
         "0x0100000000040002",
@@ -7015,17 +7016,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients",
-          "write": false
+          "Usage" : "Unlock an amiibo-exclusive outfit / Receive smoothie ingredients",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "The Legend of Zelda: Echoes of Wisdom"
     },
     {
-      "gameName": "The Legend of Zelda: Link's Awakening",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0140000003550902",
         "0x0100000000040002",
@@ -7059,30 +7060,30 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock one of five amiibo-exclusive Chamber Dungeon chambers / Save your Chamber Dungeon to the amiibo to share with friends",
-          "write": false
+          "Usage" : "Unlock one of five amiibo-exclusive Chamber Dungeon chambers / Save your Chamber Dungeon to the amiibo to share with friends",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "The Legend of Zelda: Link's Awakening"
     },
     {
-      "gameName": "The Legend of Zelda: Skyward Sword HD",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Quickly travel between the surface and the sky",
-          "write": false
+          "Usage" : "Quickly travel between the surface and the sky",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "The Legend of Zelda: Skyward Sword HD"
     },
     {
-      "gameName": "The Legend of Zelda: Tears of the Kingdom",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0101030004140902",
         "0x0140000003550902",
         "0x0100000000040002",
@@ -7116,17 +7117,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive materials and a weapon or rare item / Unlock an amiibo-exclusive character-specific paraglider fabric",
-          "write": false
+          "Usage" : "Receive materials and a weapon or rare item / Unlock an amiibo-exclusive character-specific paraglider fabric",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "The Legend of Zelda: Tears of the Kingdom"
     },
     {
-      "gameName": "Splatoon",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0800010004150402",
         "0x0800010003820002",
         "0x08000100003e0402",
@@ -7143,17 +7144,17 @@
         "0x08000100025f0402",
         "0x08000200036a0402"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Access challenge mode stages, and beat them to unlock exclusive gear and mini-games",
-          "write": false
+          "Usage" : "Access challenge mode stages, and beat them to unlock exclusive gear and mini-games",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Splatoon"
     },
     {
-      "gameName": "Splatoon 2",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0800010004150402",
         "0x0800010003820002",
         "0x08050200038f0402",
@@ -7178,17 +7179,17 @@
         "0x0804000004390402",
         "0x0805030003900402"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock exclusive gear / Save favorite weapons, gear, and control settings / Take photos with the character or saved gear",
-          "write": false
+          "Usage" : "Unlock exclusive gear / Save favorite weapons, gear, and control settings / Take photos with the character or saved gear",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Splatoon 2"
     },
     {
-      "gameName": "Splatoon 3",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0800010004150402",
         "0x0807000004330402",
         "0x0808000004340402",
@@ -7217,17 +7218,17 @@
         "0x0804000004390402",
         "0x0805030003900402"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock exclusive gear / Save favorite weapons, gear, and control settings / Take photos with the character or saved gear",
-          "write": false
+          "Usage" : "Unlock exclusive gear / Save favorite weapons, gear, and control settings / Take photos with the character or saved gear",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Splatoon 3"
     },
     {
-      "gameName": "BYE-BYE BOXBOY!",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f400000035e1002",
         "0x1f01000000270002",
         "0x1f000000000a0002",
@@ -7237,17 +7238,17 @@
         "0x1f03000002570c02",
         "0x1f02000002560c02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock Qucy costume and Game Boy screen filter",
-          "write": false
+          "Usage" : "Unlock Qucy costume and Game Boy screen filter",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "BYE-BYE BOXBOY!"
     },
     {
-      "gameName": "Kirby Battle Royale",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f400000035e1002",
         "0x1f01000000270002",
         "0x1f000000000a0002",
@@ -7257,17 +7258,17 @@
         "0x1f03000002570c02",
         "0x1f02000002560c02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive amiibo-exclusive cosmetic gear based on the character",
-          "write": false
+          "Usage" : "Receive amiibo-exclusive cosmetic gear based on the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Kirby Battle Royale"
     },
     {
-      "gameName": "Team Kirby Clash Deluxe",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f400000035e1002",
         "0x1f01000000270002",
         "0x1f000000000a0002",
@@ -7277,17 +7278,17 @@
         "0x1f03000002570c02",
         "0x1f02000002560c02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive 20 Fragments",
-          "write": false
+          "Usage" : "Receive 20 Fragments",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Team Kirby Clash Deluxe"
     },
     {
-      "gameName": "Kirby and the Forgotten Land",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f400000035e1002",
         "0x1f01000000270002",
         "0x1f000000000a0002",
@@ -7298,17 +7299,17 @@
         "0x1f02000002560c02",
         "0x1f01000004c61e03"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive star coins and a boost item",
-          "write": false
+          "Usage" : "Receive star coins and a boost item",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Kirby and the Forgotten Land"
     },
     {
-      "gameName": "Kirby Star Allies",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f400000035e1002",
         "0x1f01000000270002",
         "0x1f000000000a0002",
@@ -7319,17 +7320,17 @@
         "0x1f02000002560c02",
         "0x1f01000004c61e03"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive two Picture Pieces, a Maxim Tomato, and two Point Stars",
-          "write": false
+          "Usage" : "Receive two Picture Pieces, a Maxim Tomato, and two Point Stars",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Kirby Star Allies"
     },
     {
-      "gameName": "Kirby's Return to Dream Land Deluxe",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f400000035e1002",
         "0x1f01000000270002",
         "0x1f000000000a0002",
@@ -7340,17 +7341,17 @@
         "0x1f02000002560c02",
         "0x1f01000004c61e03"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive more useful items",
-          "write": false
+          "Usage" : "Receive more useful items",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Kirby's Return to Dream Land Deluxe"
     },
     {
-      "gameName": "Super Kirby Clash",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f400000035e1002",
         "0x1f01000000270002",
         "0x1f000000000a0002",
@@ -7361,17 +7362,17 @@
         "0x1f02000002560c02",
         "0x1f01000004c61e03"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive 10 - 20 Fragments",
-          "write": false
+          "Usage" : "Receive 10 - 20 Fragments",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Super Kirby Clash"
     },
     {
-      "gameName": "Yu-Gi-Oh! Rush Duel Saikyo Battle Royale",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3841000104251902",
         "0x3845000104291902",
         "0x3842000104261902",
@@ -7380,17 +7381,17 @@
         "0x3843000104271902",
         "0x3840000104241902"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive items/bonuses",
-          "write": false
+          "Usage" : "Receive items/bonuses",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Yu-Gi-Oh! Rush Duel Saikyo Battle Royale"
     },
     {
-      "gameName": "Hey! Pikmin",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x01c1000002440502",
         "0x018c000002430502",
         "0x0017000002680102",
@@ -7434,17 +7435,17 @@
         "0x018d0000024c0502",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Figure appears in-game and can be collected to gain energy points",
-          "write": false
+          "Usage" : "Figure appears in-game and can be collected to gain energy points",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Hey! Pikmin"
     },
     {
-      "gameName": "Donkey Kong Bananza",
-      "console": "Switch 2",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x00c00000037b0002",
         "0x00090000000d0002",
         "0x0008ff00023b0702",
@@ -7455,33 +7456,33 @@
         "0x00080100042f1a02",
         "0x000800030431ff02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Spawn explosive golden KONG tiles",
-          "write": false
+          "Usage" : "Spawn explosive golden KONG tiles",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Donkey Kong Bananza"
     },
     {
-      "gameName": "Code Name: S.T.E.A.M.",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x2102000000290002",
         "0x2101000000180002",
         "0x21000000000b0002",
         "0x21030000002a0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Add the character to your playable team",
-          "write": false
+          "Usage" : "Add the character to your playable team",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Code Name: S.T.E.A.M."
     },
     {
-      "gameName": "Fire Emblem Echoes: Shadows of Valentia",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x2102000000290002",
         "0x2101000000180002",
         "0x21050000025a0002",
@@ -7492,33 +7493,33 @@
         "0x2106000003601202",
         "0x2105010003630002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Summon an illusory hero to help during battle",
-          "write": false
+          "Usage" : "Summon an illusory hero to help during battle",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Fire Emblem Echoes: Shadows of Valentia"
     },
     {
-      "gameName": "Fire Emblem Fates",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x2102000000290002",
         "0x2101000000180002",
         "0x21000000000b0002",
         "0x21030000002a0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Battle the character and add them to your party",
-          "write": false
+          "Usage" : "Battle the character and add them to your party",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Fire Emblem Fates"
     },
     {
-      "gameName": "Fire Emblem Warriors",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x2102000000290002",
         "0x2101000000180002",
         "0x21050000025a0002",
@@ -7532,17 +7533,17 @@
         "0x2106000003601202",
         "0x2105010003630002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a weapon",
-          "write": false
+          "Usage" : "Receive a weapon",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Fire Emblem Warriors"
     },
     {
-      "gameName": "Fire Emblem Engage",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x2102000000290002",
         "0x2101000000180002",
         "0x21050000025a0002",
@@ -7557,17 +7558,17 @@
         "0x2106000003601202",
         "0x2105010003630002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
-          "write": false
+          "Usage" : "Receive a Fashion Ticket and a Music Ticket, for unlocking any of the available costumes and music tracks",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Fire Emblem Engage"
     },
     {
-      "gameName": "Fire Emblem Warriors",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x2102000000290002",
         "0x2101000000180002",
         "0x21050000025a0002",
@@ -7581,17 +7582,17 @@
         "0x2106000003601202",
         "0x2105010003630002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a weapon",
-          "write": false
+          "Usage" : "Receive a weapon",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Fire Emblem Warriors"
     },
     {
-      "gameName": "Fire Emblem Warriors: Three Hopes",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x2102000000290002",
         "0x2101000000180002",
         "0x21050000025a0002",
@@ -7606,17 +7607,17 @@
         "0x2106000003601202",
         "0x2105010003630002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive better-quality randomized resources, weapons, or equipment",
-          "write": false
+          "Usage" : "Receive better-quality randomized resources, weapons, or equipment",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Fire Emblem Warriors: Three Hopes"
     },
     {
-      "gameName": "Fire Emblem: Three Houses",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x2102000000290002",
         "0x2101000000180002",
         "0x21050000025a0002",
@@ -7630,17 +7631,17 @@
         "0x2106000003601202",
         "0x2105010003630002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a special piece of battle music / Receive higher-quality items and materials",
-          "write": false
+          "Usage" : "Unlock a special piece of battle music / Receive higher-quality items and materials",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Fire Emblem: Three Houses"
     },
     {
-      "gameName": "The Legend of Zelda: Breath of the Wild",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0140000003550902",
         "0x0100000000040002",
         "0x0100000003530902",
@@ -7669,17 +7670,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive materials and a rare or exclusive item",
-          "write": false
+          "Usage" : "Receive materials and a rare or exclusive item",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "The Legend of Zelda: Breath of the Wild"
     },
     {
-      "gameName": "The Legend of Zelda: Breath of the Wild",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0140000003550902",
         "0x0100000000040002",
         "0x0100000003530902",
@@ -7708,17 +7709,17 @@
         "0x01020100001b0002",
         "0x01010000000e0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive materials and a rare or exclusive item",
-          "write": false
+          "Usage" : "Receive materials and a rare or exclusive item",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "The Legend of Zelda: Breath of the Wild"
     },
     {
-      "gameName": "Bayonetta 2",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x00020003039dff02",
         "0x0017000002680102",
         "0x0100000000040002",
@@ -7760,17 +7761,17 @@
         "0x32400000025b0002",
         "0x05c0000003651302"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a costume based on the character (short-hair version)",
-          "write": false
+          "Usage" : "Unlock a costume based on the character (short-hair version)",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Bayonetta 2"
     },
     {
-      "gameName": "Mario + Rabbids: Kingdom Battle",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x00020003039dff02",
         "0x000000030430ff02",
         "0x00010003039cff02",
@@ -7802,17 +7803,17 @@
         "0x00000000003d0102",
         "0x0000000002380602"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock an amiibo-exclusive weapon for the character and their Rabbid counterpart",
-          "write": false
+          "Usage" : "Unlock an amiibo-exclusive weapon for the character and their Rabbid counterpart",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Mario + Rabbids: Kingdom Battle"
     },
     {
-      "gameName": "Super Mario 3D World + Bowser's Fury",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x00020003039dff02",
         "0x0017000002680102",
         "0x000000030430ff02",
@@ -7870,17 +7871,17 @@
         "0x000800030431ff02",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a particular power-up depending on the character",
-          "write": false
+          "Usage" : "Receive a particular power-up depending on the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Super Mario 3D World + Bowser's Fury"
     },
     {
-      "gameName": "Super Mario Odyssey",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x00020003039dff02",
         "0x3740000103741402",
         "0x000000030430ff02",
@@ -7912,17 +7913,17 @@
         "0x00000000003d0102",
         "0x0000000002380602"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a life-up heart",
-          "write": false
+          "Usage" : "Receive a life-up heart",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Super Mario Odyssey"
     },
     {
-      "gameName": "Super Mario Party",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x00020003039dff02",
         "0x0017000002680102",
         "0x000000030430ff02",
@@ -7977,17 +7978,17 @@
         "0x0008000002640102",
         "0x000800030431ff02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock the character's shiny sticker",
-          "write": false
+          "Usage" : "Unlock the character's shiny sticker",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Super Mario Party"
     },
     {
-      "gameName": "Yoshi's Crafted World",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x00020003039dff02",
         "0x000000030430ff02",
         "0x00800102035d0302",
@@ -8027,17 +8028,17 @@
         "0x0000000002380602",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-based costume",
-          "write": false
+          "Usage" : "Unlock a character-based costume",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Yoshi's Crafted World"
     },
     {
-      "gameName": "Luigi's Mansion",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0017000002680102",
         "0x0001000000350102",
         "0x00010000000c0002",
@@ -8054,17 +8055,17 @@
         "0x0000000002380602",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Make the map show the locations of up to three hidden Boos in the mansion that have escaped capture",
-          "write": false
+          "Usage" : "Make the map show the locations of up to three hidden Boos in the mansion that have escaped capture",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Luigi's Mansion"
     },
     {
-      "gameName": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0017000002680102",
         "0x0005ff00023a0702",
         "0x0005000003730102",
@@ -8090,17 +8091,17 @@
         "0x0000000002380602",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a helpful item",
-          "write": false
+          "Usage" : "Receive a helpful item",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey"
     },
     {
-      "gameName": "Mario & Luigi: Superstar Saga + Bowser's Minions",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0017000002680102",
         "0x0003000000020002",
         "0x0001000000350102",
@@ -8136,17 +8137,17 @@
         "0x0000000002380602",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a stamp and equipment for the main quest / Receive a stamp, equipment, and a special ability for Bowser's Minions mode",
-          "write": false
+          "Usage" : "Receive a stamp and equipment for the main quest / Receive a stamp, equipment, and a special ability for Bowser's Minions mode",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Mario & Luigi: Superstar Saga + Bowser's Minions"
     },
     {
-      "gameName": "Mario Party: Star Rush",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0017000002680102",
         "0x0004000002620102",
         "0x0004010000130002",
@@ -8192,17 +8193,17 @@
         "0x0008000002640102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Play as or receive bonus from this character, depending on the mode / Unlock a Boo-themed background in Boo's Block Party",
-          "write": false
+          "Usage" : "Play as or receive bonus from this character, depending on the mode / Unlock a Boo-themed background in Boo's Block Party",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Mario Party: Star Rush"
     },
     {
-      "gameName": "Mario Party: The Top 100",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0017000002680102",
         "0x0004000002620102",
         "0x0004010000130002",
@@ -8250,17 +8251,17 @@
         "0x0008000002640102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Minigame Island: If you land on an amiibo space, use to receive coins / Use to revive your character once",
-          "write": false
+          "Usage" : "Minigame Island: If you land on an amiibo space, use to receive coins / Use to revive your character once",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Mario Party: The Top 100"
     },
     {
-      "gameName": "One Piece: Super Grand Battle! X",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0100000000040002",
         "0x0100000003530902",
         "0x01000000034f0902",
@@ -8309,17 +8310,17 @@
         "0x05c0000003651302",
         "0x0008000002640102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-based costume with special abilities",
-          "write": false
+          "Usage" : "Unlock a character-based costume with special abilities",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "One Piece: Super Grand Battle! X"
     },
     {
-      "gameName": "Picross 3D Round 2",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0100000000040002",
         "0x0100000003530902",
         "0x01000000034f0902",
@@ -8370,17 +8371,17 @@
         "0x0000000002380602",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-based puzzle",
-          "write": false
+          "Usage" : "Unlock a character-based puzzle",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Picross 3D Round 2"
     },
     {
-      "gameName": "Jikkyou Powerful Pro Baseball",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3805000103981702",
         "0x3801000103941702",
         "0x3800000103931702",
@@ -8388,17 +8389,17 @@
         "0x3804000103971702",
         "0x3802000103951702"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive in-game items and power-ups / Save items to your card after playing with friends to bring them home",
-          "write": false
+          "Usage" : "Receive in-game items and power-ups / Save items to your card after playing with friends to bring them home",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Jikkyou Powerful Pro Baseball"
     },
     {
-      "gameName": "Monster Hunter Rise",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35090100042b1802",
         "0x35050000040c0f02",
         "0x3502010002e40f02",
@@ -8415,17 +8416,17 @@
         "0x35060000040d0f02",
         "0x3509000004101802"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock special layered armor / Enter daily lottery for a variety of useful items",
-          "write": false
+          "Usage" : "Unlock special layered armor / Enter daily lottery for a variety of useful items",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Monster Hunter Rise"
     },
     {
-      "gameName": "Monster Hunter Stories 2: Wings of Ruin",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35090100042b1802",
         "0x35050000040c0f02",
         "0x3502010002e40f02",
@@ -8441,77 +8442,77 @@
         "0x35060000040d0f02",
         "0x3509000004101802"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock the Hunter Sticker Set / Have Tsukino read your fortune and receive a random item",
-          "write": false
+          "Usage" : "Unlock the Hunter Sticker Set / Have Tsukino read your fortune and receive a random item",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Monster Hunter Stories 2: Wings of Ruin"
     },
     {
-      "gameName": "Mega Man Legacy Collection",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3480000003791502",
         "0x3480000002580002",
         "0x3480000000310002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock 11 exclusive challenge stages designed by fans",
-          "write": false
+          "Usage" : "Unlock 11 exclusive challenge stages designed by fans",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Mega Man Legacy Collection"
     },
     {
-      "gameName": "Mega Man 11",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3480000003791502",
         "0x3480000002580002",
         "0x3480000000310002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive E Tanks and other useful in-game items",
-          "write": false
+          "Usage" : "Receive E Tanks and other useful in-game items",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Mega Man 11"
     },
     {
-      "gameName": "Mega Man Legacy Collection",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3480000003791502",
         "0x3480000002580002",
         "0x3480000000310002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock 11 exclusive challenge stages designed by fans",
-          "write": false
+          "Usage" : "Unlock 11 exclusive challenge stages designed by fans",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Mega Man Legacy Collection"
     },
     {
-      "gameName": "Mega Man Legacy Collection 2",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3480000003791502",
         "0x3480000002580002",
         "0x3480000000310002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock new platforming challenges",
-          "write": false
+          "Usage" : "Unlock new platforming challenges",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Mega Man Legacy Collection 2"
     },
     {
-      "gameName": "Resident Evil Revelations",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3480000003791502",
         "0x3502010002e40f02",
         "0x3500020002e20f02",
@@ -8525,17 +8526,17 @@
         "0x34c0000104a81d02",
         "0x34c0000104cb1d02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a lot of BP / Receive better supplies (compared to other amiibo)",
-          "write": false
+          "Usage" : "Receive a lot of BP / Receive better supplies (compared to other amiibo)",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Resident Evil Revelations"
     },
     {
-      "gameName": "Resident Evil Revelations 2",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3480000003791502",
         "0x3502010002e40f02",
         "0x3500020002e20f02",
@@ -8549,17 +8550,17 @@
         "0x34c0000104a81d02",
         "0x34c0000104cb1d02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a lot of BP / Receive better supplies (compared to other amiibo)",
-          "write": false
+          "Usage" : "Receive a lot of BP / Receive better supplies (compared to other amiibo)",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Resident Evil Revelations 2"
     },
     {
-      "gameName": "Metroid Prime: Blast Ball",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0004000002620102",
         "0x0004010000130002",
         "0x0001000000350102",
@@ -8593,17 +8594,17 @@
         "0x0000000002380602",
         "0x05c0000003651302"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock an armor paint job based on the character",
-          "write": false
+          "Usage" : "Unlock an armor paint job based on the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Metroid Prime: Blast Ball"
     },
     {
-      "gameName": "Metroid Prime: Federation Force",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0004000002620102",
         "0x0004010000130002",
         "0x0001000000350102",
@@ -8637,17 +8638,17 @@
         "0x0000000002380602",
         "0x05c0000003651302"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock an armor paint job based on the character for use in Blast Ball",
-          "write": false
+          "Usage" : "Unlock an armor paint job based on the character for use in Blast Ball",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Metroid Prime: Federation Force"
     },
     {
-      "gameName": "Mini Mario & Friends amiibo Challenge",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0004000002620102",
         "0x0004010000130002",
         "0x00090000000d0002",
@@ -8687,17 +8688,17 @@
         "0x0008000002640102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Play stages as a Mini version of this character, with a unique special ability, and unlock character-specific stages",
-          "write": false
+          "Usage" : "Play stages as a Mini version of this character, with a unique special ability, and unlock character-specific stages",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Mini Mario & Friends amiibo Challenge"
     },
     {
-      "gameName": "Mario Party 10",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0004000002620102",
         "0x0004010000130002",
         "0x00070000001a0002",
@@ -8736,17 +8737,17 @@
         "0x0008000002640102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Use as game piece in amiibo Party / Customize game board in amiibo Party",
-          "write": false
+          "Usage" : "Use as game piece in amiibo Party / Customize game board in amiibo Party",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Mario Party 10"
     },
     {
-      "gameName": "Mario Tennis: Ultra Smash",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0004000002620102",
         "0x0004010000130002",
         "0x00070000001a0002",
@@ -8786,17 +8787,17 @@
         "0x0008000002640102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Play alongside and train up a computer-controlled character",
-          "write": false
+          "Usage" : "Play alongside and train up a computer-controlled character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Mario Tennis: Ultra Smash"
     },
     {
-      "gameName": "Mini Mario & Friends amiibo Challenge",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0004000002620102",
         "0x0004010000130002",
         "0x00090000000d0002",
@@ -8836,17 +8837,17 @@
         "0x0008000002640102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Play stages as a Mini version of this character, with a unique special ability, and unlock character-specific stages",
-          "write": false
+          "Usage" : "Play stages as a Mini version of this character, with a unique special ability, and unlock character-specific stages",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Mini Mario & Friends amiibo Challenge"
     },
     {
-      "gameName": "Metroid Dread",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x05c4000004131302",
         "0x05c0000000060002",
         "0x05c0000004121302",
@@ -8856,33 +8857,33 @@
         "0x05c20000037f0002",
         "0x05c0000003651302"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Permanently increase missile capacity by 10 / Replenish a random amount of missiles once per day",
-          "write": false
+          "Usage" : "Permanently increase missile capacity by 10 / Replenish a random amount of missiles once per day",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Metroid Dread"
     },
     {
-      "gameName": "Metroid Prime 4: Beyond",
-      "console": "Switch 2",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x05c4000004131302",
         "0x05c00000043b1302",
         "0x05c00000043a1302",
         "0x05c1000003661302"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Play a musical jingle",
-          "write": false
+          "Usage" : "Play a musical jingle",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Metroid Prime 4: Beyond"
     },
     {
-      "gameName": "Monster Hunter Stories",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35050000040c0f02",
         "0x3502010002e40f02",
         "0x3500020002e20f02",
@@ -8893,17 +8894,17 @@
         "0x3503010002e50f02",
         "0x35060000040d0f02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive a character-based costume for Navirou",
-          "write": false
+          "Usage" : "Receive a character-based costume for Navirou",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Monster Hunter Stories"
     },
     {
-      "gameName": "Monster Hunter Stories",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3502010002e40f02",
         "0x3500020002e20f02",
         "0x3504010002e60f02",
@@ -8911,17 +8912,17 @@
         "0x3501000002e30f02",
         "0x3503010002e50f02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a special Monstie",
-          "write": false
+          "Usage" : "Unlock a special Monstie",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Monster Hunter Stories"
     },
     {
-      "gameName": "Mario & Luigi: Paper Jam",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0003000000020002",
         "0x0001000000350102",
         "0x0005ff00023a0702",
@@ -8953,34 +8954,34 @@
         "0x0000000002380602",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock character cards to help you in battle",
-          "write": false
+          "Usage" : "Unlock character cards to help you in battle",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Mario & Luigi: Paper Jam"
     },
     {
-      "gameName": "Xenoblade Chronicles 3",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x22420000041f0002",
         "0x22400000002b0002",
         "0x22410000041e0002",
         "0x22430000043d1b02",
         "0x22440000043e1b02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-specific weapon skin for characters using the Swordfighter Class",
-          "write": false
+          "Usage" : "Unlock a character-specific weapon skin for characters using the Swordfighter Class",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Xenoblade Chronicles 3"
     },
     {
-      "gameName": "Metroid: Samus Returns",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x05c0000000060002",
         "0x05c00000043b1302",
         "0x05c00000043a1302",
@@ -8988,269 +8989,269 @@
         "0x05c00100001d0002",
         "0x05c0000003651302"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Get Missile Reserve Tank (replenishes missiles when empty) / After beating game: Unlock concept art",
-          "write": false
+          "Usage" : "Get Missile Reserve Tank (replenishes missiles when empty) / After beating game: Unlock concept art",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Metroid: Samus Returns"
     },
     {
-      "gameName": "Poochy & Yoshi's Woolly World",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x05c00000043b1302",
         "0x05c00000043a1302",
         "0x34c0000104cb1d02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-based Yoshi yarn pattern",
-          "write": false
+          "Usage" : "Unlock a character-based Yoshi yarn pattern",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Poochy & Yoshi's Woolly World"
     },
     {
-      "gameName": "Ace Combat Assault Horizon Legacy +",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x05c00000043b1302",
         "0x05c00000043a1302"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock an amiibo-exclusive character-themed aircraft, plus a bonus tuning part",
-          "write": false
+          "Usage" : "Unlock an amiibo-exclusive character-themed aircraft, plus a bonus tuning part",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Ace Combat Assault Horizon Legacy +"
     },
     {
-      "gameName": "Detective Pikachu",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1d01000003750d02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Access all cutscenes up until the current chapter",
-          "write": false
+          "Usage" : "Access all cutscenes up until the current chapter",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Detective Pikachu"
     },
     {
-      "gameName": "Dark Souls: Remastered",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3380000003781402"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock and perform the “Praise the Sun” gesture",
-          "write": false
+          "Usage" : "Unlock and perform the “Praise the Sun” gesture",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Dark Souls: Remastered"
     },
     {
-      "gameName": "Azure Striker Gunvolt 2",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c0000002500a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock boss fight against Shovel Knight",
-          "write": false
+          "Usage" : "Unlock boss fight against Shovel Knight",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Azure Striker Gunvolt 2"
     },
     {
-      "gameName": "Shovel Knight",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c30000036e0a02",
         "0x35c0000002500a02",
         "0x35c20000036d0a02",
         "0x35c10000036c0a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock character-specific challenge stages, a character-based fairy companion, and a costume for the character / Unlock Custom Knight, and save customizations to the amiibo (Shovel of Hope only)",
-          "write": false
+          "Usage" : "Unlock character-specific challenge stages, a character-based fairy companion, and a costume for the character / Unlock Custom Knight, and save customizations to the amiibo (Shovel of Hope only)",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Shovel Knight"
     },
     {
-      "gameName": "Shovel Knight",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c30000036e0a02",
         "0x35c0000002500a02",
         "0x35c20000036d0a02",
         "0x35c10000036c0a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock Custom Knight, and save customizations to the amiibo (Shovel of Hope only) / Unlock character-specific challenge stages, a character-based fairy companion, and costumes for the character",
-          "write": false
+          "Usage" : "Unlock Custom Knight, and save customizations to the amiibo (Shovel of Hope only) / Unlock character-specific challenge stages, a character-based fairy companion, and costumes for the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Shovel Knight"
     },
     {
-      "gameName": "Azure Striker Gunvolt: Striker Pack",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c0000002500a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock boss fight against Shovel Knight",
-          "write": false
+          "Usage" : "Unlock boss fight against Shovel Knight",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Azure Striker Gunvolt: Striker Pack"
     },
     {
-      "gameName": "Cyber Shadow",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c30000036e0a02",
         "0x35c0000002500a02",
         "0x35c20000036d0a02",
         "0x35c10000036c0a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a fairy companion and player color palette matching the character",
-          "write": false
+          "Usage" : "Unlock a fairy companion and player color palette matching the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Cyber Shadow"
     },
     {
-      "gameName": "Just Shapes & Beats",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c30000036e0a02",
         "0x35c0000002500a02",
         "0x35c20000036d0a02",
         "0x35c10000036c0a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a character-specific Shovel Knight remix immediately",
-          "write": false
+          "Usage" : "Unlock a character-specific Shovel Knight remix immediately",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Just Shapes & Beats"
     },
     {
-      "gameName": "Shovel Knight",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c30000036e0a02",
         "0x35c0000002500a02",
         "0x35c20000036d0a02",
         "0x35c10000036c0a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock Custom Knight, and save customizations to the amiibo (Shovel of Hope only) / Unlock character-specific challenge stages, a character-based fairy companion, and costumes for the character",
-          "write": false
+          "Usage" : "Unlock Custom Knight, and save customizations to the amiibo (Shovel of Hope only) / Unlock character-specific challenge stages, a character-based fairy companion, and costumes for the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Shovel Knight"
     },
     {
-      "gameName": "Shovel Knight Dig",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c30000036e0a02",
         "0x35c0000002500a02",
         "0x35c20000036d0a02",
         "0x35c10000036c0a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Summon a fairy friend",
-          "write": false
+          "Usage" : "Summon a fairy friend",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Shovel Knight Dig"
     },
     {
-      "gameName": "Shovel Knight Pocket Dungeon",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c30000036e0a02",
         "0x35c0000002500a02",
         "0x35c20000036d0a02",
         "0x35c10000036c0a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Summon a fairy friend",
-          "write": false
+          "Usage" : "Summon a fairy friend",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Shovel Knight Pocket Dungeon"
     },
     {
-      "gameName": "Shovel Knight Showdown",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x35c0000003920a02",
         "0x35c30000036e0a02",
         "0x35c0000002500a02",
         "0x35c20000036d0a02",
         "0x35c10000036c0a02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock a special costume for the character",
-          "write": false
+          "Usage" : "Unlock a special costume for the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Shovel Knight Showdown"
     },
     {
-      "gameName": "Captain Toad: Treasure Tracker",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0005000003730102",
         "0x0002000003720102",
         "0x0000000003710102",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock Super Mario Odyssey-themed levels early",
-          "write": false
+          "Usage" : "Unlock Super Mario Odyssey-themed levels early",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Captain Toad: Treasure Tracker"
     },
     {
-      "gameName": "Captain Toad: Treasure Tracker",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0005000003730102",
         "0x0002000003720102",
         "0x0000000003710102",
         "0x000a000303a0ff02",
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock Super Mario Odyssey-themed levels early",
-          "write": false
+          "Usage" : "Unlock Super Mario Odyssey-themed levels early",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Captain Toad: Treasure Tracker"
     },
     {
-      "gameName": "Street Fighter 6",
-      "console": "Switch 2",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x34c1000003890002",
         "0x34c0000002530002",
         "0x34c2000004aa1d02",
@@ -9315,31 +9316,31 @@
         "0x34db000104ef1d02",
         "0x34dc000104f01d02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Save and load outfit, color, and button settings / Scan another player's amiibo to friend or follow them (Read+Write)",
-          "write": false
+          "Usage" : "Save and load outfit, color, and button settings / Scan another player's amiibo to friend or follow them (Read+Write)",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Street Fighter 6"
     },
     {
-      "gameName": "niconico app",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x08010000025d0402",
         "0x08020000025e0402"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "View a special version of the character's live musical performance",
-          "write": false
+          "Usage" : "View a special version of the character's live musical performance",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "niconico app"
     },
     {
-      "gameName": "Kirby's Blowout Blast",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f01000000270002",
         "0x1f000000000a0002",
         "0x1f00000002540c02",
@@ -9348,17 +9349,17 @@
         "0x1f03000002570c02",
         "0x1f02000002560c02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Build a statue in the plaza that plays music",
-          "write": false
+          "Usage" : "Build a statue in the plaza that plays music",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Kirby's Blowout Blast"
     },
     {
-      "gameName": "Kirby's Extra Epic Yarn",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f01000000270002",
         "0x1f000000000a0002",
         "0x1f00000002540c02",
@@ -9367,17 +9368,17 @@
         "0x1f03000002570c02",
         "0x1f02000002560c02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Equip a power-up hat matching the character",
-          "write": false
+          "Usage" : "Equip a power-up hat matching the character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Kirby's Extra Epic Yarn"
     },
     {
-      "gameName": "Kirby and the Rainbow Curse",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f01000000270002",
         "0x1f000000000a0002",
         "0x1f00000002540c02",
@@ -9385,147 +9386,149 @@
         "0x1f01000002550c02",
         "0x1f02000002560c02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Give Kirby a character-based power-up, once a day per character",
-          "write": false
+          "Usage" : "Give Kirby a character-based power-up, once a day per character",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Kirby and the Rainbow Curse"
     },
     {
-      "gameName": "Star Fox Guard",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0580000000050002",
         "0x05810000001c0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Wipe out all enemies on the current stage, once a day",
-          "write": false
+          "Usage" : "Wipe out all enemies on the current stage, once a day",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Star Fox Guard"
     },
     {
-      "gameName": "Star Fox Zero",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x0580000000050002",
         "0x05810000001c0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Play as an SNES-styled Arwing",
-          "write": false
+          "Usage" : "Play as an SNES-styled Arwing",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Star Fox Zero"
     },
     {
-      "gameName": "Pokkén Tournament",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1d000001025c0d02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Play as Shadow Mewtwo before unlocking it in-game",
-          "write": false
+          "Usage" : "Play as Shadow Mewtwo before unlocking it in-game",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Pokkén Tournament"
     },
     {
-      "gameName": "Diablo III: Eternal Collection",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x38c0000003911602"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Summon a portal to Golden Greed's Domain",
-          "write": false
+          "Usage" : "Summon a portal to Golden Greed's Domain",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Diablo III: Eternal Collection"
     },
     {
-      "gameName": "Xenoblade Chronicles 3D",
-      "console": "3ds",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x22400000002b0002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Receive in-game tokens, which can be used to unlock music and animated 3D models of various characters",
-          "write": false
+          "Usage" : "Receive in-game tokens, which can be used to unlock music and animated 3D models of various characters",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "3ds",
+      "gameName" : "Xenoblade Chronicles 3D"
     },
     {
-      "gameName": "Little Nightmares: Complete Edition",
-      "console": "switch",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x3340000000320002"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock the Pakku Mask",
-          "write": false
+          "Usage" : "Unlock the Pakku Mask",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "switch",
+      "gameName" : "Little Nightmares: Complete Edition"
     },
     {
-      "gameName": "Street Fighter 6",
-      "console": "Switch 2",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x34d6000104e11d02",
         "0x3c80000104e81d02"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Save and load outfit, color, and button settings \\/ Scan another player's amiibo to friend or follow them (Read+Write)",
-          "write": false
+          "Usage" : "Save and load outfit, color, and button settings \\/ Scan another player's amiibo to friend or follow them (Read+Write)",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Street Fighter 6"
     },
     {
-      "gameName": "Captain Toad: Treasure Tracker",
-      "console": "wiiu",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x000a000000380102"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Unlock Pixel Toad hide-and-seek challenges",
-          "write": false
+          "Usage" : "Unlock Pixel Toad hide-and-seek challenges",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "wiiu",
+      "gameName" : "Captain Toad: Treasure Tracker"
     },
     {
-      "gameName": "Metroid Prime 4: Beyond",
-      "console": "Switch 2",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x05c50000043c1302"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "View a particular completed cutscene after beating the game without needing 100% completion / Hear a random voice line from Sylux",
-          "write": false
+          "Usage" : "View a particular completed cutscene after beating the game without needing 100% completion / Hear a random voice line from Sylux",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Metroid Prime 4: Beyond"
     },
     {
-      "gameName": "Kirby Air Riders",
-      "console": "Switch 2",
-      "amiiboIDs": [
+      "amiiboIDs" : [
         "0x1f01000004c61e03",
         "0x1f00000004c41e03",
         "0x1f03010004c91e03"
       ],
-      "amiiboUsage": [
+      "amiiboUsage" : [
         {
-          "Usage": "Race and train up a computer-controlled Figure Player of the character / Change main menu cursor doll to match amiibo (Read+Write)",
-          "write": false
+          "Usage" : "Race and train up a computer-controlled Figure Player of the character / Change main menu cursor doll to match amiibo (Read+Write)",
+          "write" : false
         }
-      ]
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Kirby Air Riders"
     }
   ]
 }
