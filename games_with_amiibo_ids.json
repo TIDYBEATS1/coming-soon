@@ -9529,6 +9529,23 @@
       ],
       "console" : "Switch 2",
       "gameName" : "Kirby Air Riders"
+    },
+    {
+      "amiiboIDs" : [
+        "Coming Soon"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Receive amiibo-exclusive, amiibo-specific layered armor or Rudy outfit",
+          "write" : false
+        },
+        {
+          "Usage" : "",
+          "write" : false
+        }
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Monster Hunter Stories 3: Twisted Reflection\n"
     }
   ]
 }
