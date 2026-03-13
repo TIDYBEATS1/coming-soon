@@ -15654,6 +15654,20 @@
       },
       "tail" : "Coming Soon 1",
       "type" : "Figure"
+    },
+    {
+      "amiiboSeries" : "Monster Hunter Stories series",
+      "character" : "Rudy",
+      "gameSeries" : "Monster Hunter Stories series",
+      "head" : "Coming Soon 2",
+      "id" : "Coming Soon 2",
+      "image" : "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/rudy-af552253ac02980ddfc74a53b0ce07bf49100934a13b6826eebbcd07315505e4.png",
+      "name" : "Rudy",
+      "release" : {
+        "au" : "2026-03-13"
+      },
+      "tail" : "Coming Soon 2",
+      "type" : "Figure"
     }
   ]
 }
