@@ -15625,18 +15625,18 @@
       "type" : "Figure"
     },
     {
-      "amiiboSeries" : "test",
-      "character" : "tets",
-      "gameSeries" : "test",
-      "head" : "000000",
-      "id" : "0x0000",
-      "image" : "0x0000",
-      "name" : "test",
+      "amiiboSeries" : "Monster Hunter Stories series",
+      "character" : "Ratha",
+      "gameSeries" : "Monster Hunter Stories series",
+      "head" : "Coming Soon",
+      "id" : "Coming Soon",
+      "image" : "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/ratha-89a31cddb70f06f6eb1ec65aebd446296efac413031a1b6cda44f4f36577253e.png",
+      "name" : "Ratha",
       "release" : {
 
       },
-      "tail" : "000000",
-      "type" : "test"
+      "tail" : "Coming Soon",
+      "type" : "Figure"
     }
   ]
 }
