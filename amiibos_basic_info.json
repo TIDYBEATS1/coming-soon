@@ -15633,7 +15633,10 @@
       "image" : "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/ratha-89a31cddb70f06f6eb1ec65aebd446296efac413031a1b6cda44f4f36577253e.png",
       "name" : "Ratha",
       "release" : {
-
+        "au" : "2026-03-13",
+        "eu" : "2026-03-13",
+        "jp" : "2026-03-13",
+        "na" : "2026-03-13"
       },
       "tail" : "Coming Soon",
       "type" : "Figure"
