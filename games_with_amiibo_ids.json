@@ -8441,18 +8441,11 @@
         "0x3503010002e50f02",
         "0x35060000040d0f02",
         "0x3509000004101802",
-        "Coming Soon",
-        "",
-        "",
-        ""
+        "Coming Soon"
       ],
       "amiiboUsage" : [
         {
           "Usage" : "Unlock the Hunter Sticker Set / Have Tsukino read your fortune and receive a random item",
-          "write" : false
-        },
-        {
-          "Usage" : "",
           "write" : false
         }
       ],
