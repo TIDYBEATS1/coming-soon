@@ -8441,9 +8441,9 @@
         "0x3503010002e50f02",
         "0x35060000040d0f02",
         "0x3509000004101802",
-        "Coming SoonComing Soon",
-        "Coming Soon 1Coming Soon 1",
-        "Coming Soon 2Coming Soon 2"
+        "0x350c000004fa0f02",
+        "0x350d000004fb0f02",
+        "0x350e000004fc0f02"
       ],
       "amiiboUsage" : [
         {
@@ -9535,9 +9535,9 @@
     },
     {
       "amiiboIDs" : [
-        "Coming SoonComing Soon",
-        "Coming Soon 1Coming Soon 1",
-        "Coming Soon 2Coming Soon 2"
+        "0x350c000004fa0f02",
+        "0x350d000004fb0f02",
+        "0x350e000004fc0f02"
       ],
       "amiiboUsage" : [
         {
