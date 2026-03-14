@@ -80,6 +80,13 @@
     }
   ],
   "otaUpdates" : [
+   {
+      "changes" : [
+        "Updated Monster Hunter 3 Amiibo IDs ",
+        "Updated Monster Hunter 3 Amiibo Info "
+      ],
+      "version" : "4.0"
+    },
     {
       "changes" : [
         "Added Diana To Coming Soon",
