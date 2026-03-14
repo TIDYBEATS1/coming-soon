@@ -11466,8 +11466,8 @@
           "write": false
         }
       ],
-      "console": "switch",
-      "gameName": "Street Fighter 6 (Switch 2)"
+      "console": "Switch 2",
+      "gameName": "Street Fighter 6"
     },
     {
       "amiiboIDs": [
@@ -12193,7 +12193,7 @@
           "write": false
         }
       ],
-      "console": "switch",
+      "console": "Switch 2",
       "gameName": "Street Fighter 6"
     },
     {
