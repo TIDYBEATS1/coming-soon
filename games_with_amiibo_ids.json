@@ -7465,6 +7465,19 @@
       "console" : "Switch 2",
       "gameName" : "Donkey Kong Bananza"
     },
+     {
+      "amiiboIDs" : [
+        "0x00080100042f1a02"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Unlock Pauline's Diva Dress early",
+          "write" : false
+        }
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Donkey Kong Bananza"
+    },
     {
       "amiiboIDs" : [
         "0x2102000000290002",
