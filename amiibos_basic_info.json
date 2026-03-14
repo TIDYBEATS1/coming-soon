@@ -15628,8 +15628,8 @@
       "amiiboSeries" : "Monster Hunter Stories series",
       "character" : "Ratha",
       "gameSeries" : "Monster Hunter Stories series",
-      "head" : "Coming Soon",
-      "id" : "Coming Soon",
+      "head" : "350c0000",
+      "id" : "0x350c000004fa0f02",
       "image" : "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/ratha-89a31cddb70f06f6eb1ec65aebd446296efac413031a1b6cda44f4f36577253e.png",
       "name" : "Ratha",
       "release" : {
@@ -15638,15 +15638,15 @@
         "jp" : "2026-03-13",
         "na" : "2026-03-13"
       },
-      "tail" : "Coming Soon",
+      "tail" : "04fa0f02",
       "type" : "Figure"
     },
     {
       "amiiboSeries" : "Monster Hunter Stories series",
       "character" : "Ratha V",
       "gameSeries" : "Monster Hunter Stories series",
-      "head" : "Coming Soon 1",
-      "id" : "Coming Soon 1",
+      "head" : "350d0000",
+      "id" : "0x350d000004fb0f02",
       "image" : "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/ratha-v-1c0688425630a85062021b3a06b0d9d7f56f1337ceae899f4609d4c86ed990d4.png",
       "name" : "Ratha V",
       "release" : {
@@ -15655,15 +15655,15 @@
         "jp" : "2026-03-13",
         "na" : "2026-03-13"
       },
-      "tail" : "Coming Soon 1",
+      "tail" : "04fb0f02",
       "type" : "Figure"
     },
     {
       "amiiboSeries" : "Monster Hunter Stories series",
       "character" : "Rudy",
       "gameSeries" : "Monster Hunter Stories series",
-      "head" : "Coming Soon 2",
-      "id" : "Coming Soon 2",
+      "head" : "350e0000",
+      "id" : "0x350e000004fc0f02",
       "image" : "https://amiibo.life/assets/figures/amiibo/monster-hunter-stories/rudy-af552253ac02980ddfc74a53b0ce07bf49100934a13b6826eebbcd07315505e4.png",
       "name" : "Rudy",
       "release" : {
@@ -15672,7 +15672,7 @@
         "jp" : "2026-03-13",
         "na" : "2026-03-13"
       },
-      "tail" : "Coming Soon 2",
+      "tail" : "04fc0f02",
       "type" : "Figure"
     }
   ]
