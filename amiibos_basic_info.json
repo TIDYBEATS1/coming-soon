@@ -15659,6 +15659,20 @@
       "type" : "Figure"
     },
     {
+      "amiiboSeries" : "Super Nintendo World",
+      "character" : "Mario",
+      "gameSeries" : "Super Mario",
+      "head" : "UNKNOWN",
+      "id" : "UNKNOWN",
+      "image" : "https://amiibo.life/assets/figures/amiibo/super-nintendo-world/invincible-power-up-band-cb85da95972b82131669aca187f1720ae20e5ceff1d8d7cfd211a5a50579f4fd.png",
+      "name" : "Invincible Power-Up Band",
+      "release" : {
+        "jp" : "2026-03-18"
+      },
+      "tail" : "UNKNOWN",
+      "type" : "Band"
+    },
+    {
       "amiiboSeries" : "Monster Hunter Stories series",
       "character" : "Rudy",
       "gameSeries" : "Monster Hunter Stories series",
