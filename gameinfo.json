@@ -3,6 +3,10 @@
     "_id": "switch2_donkey_kong_bananza",
     "name": "Donkey Kong Bananza",
     "image": "https://media.rawg.io/media/games/db4/db4348b029d2cdaf826d7536bd75b71c.jpg",
+    "imageURLs": [
+      "https://media.rawg.io/media/games/db4/db4348b029d2cdaf826d7536bd75b71c.jpg",
+      "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/images/animal_crossing_2.png"
+    ],
     "developer": "",
     "publisher": "",
     "genre": "Adventure",
