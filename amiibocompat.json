@@ -7,7 +7,11 @@
       "played": false,
       "supportedSeries": ["Donkey Kong"],
       "notes": "",
-      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/donkey-kong-bananza-5d871f7619b7bdcc6b38e682fc92924a9f548573a11f4f5dd4a7c1e0f7afb1ab.png"
+      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/donkey-kong-bananza-5d871f7619b7bdcc6b38e682fc92924a9f548573a11f4f5dd4a7c1e0f7afb1ab.png",
+      "imageURLs": [
+      "https://media.rawg.io/media/games/db4/db4348b029d2cdaf826d7536bd75b71c.jpg",
+      "https://raw.githubusercontent.com/TIDYBEATS1/coming-soon/main/images/animal_crossing_2.png"
+        ]
     },
     {
       "id": "switch2_RER",
