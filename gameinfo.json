@@ -3,15 +3,15 @@
     "_id": "switch2_donkey_kong_bananza",
     "name": "Donkey Kong Bananza",
     "image": "https://media.rawg.io/media/games/db4/db4348b029d2cdaf826d7536bd75b71c.jpg",
-    "developer": "",
-    "publisher": "",
-    "genre": "Adventure",
-    "platform": "Nintendo Switch",
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genre": "Action, Platformer",
+    "platform": "Nintendo Switch 2",
     "description": "",
-    "ageRatings": []
+    "ageRatings": ["PEGI 7"]
   },
   {
-    "_id": "switch2_donkey_kong_bananza",
+    "_id": "switch2_pragmata",
     "name": "Pragmata",
     "image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pragmata/16x9_Pragmata_image1600w.jpg",
     "developer": "",
