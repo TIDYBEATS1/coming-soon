@@ -47,7 +47,22 @@
       "played": false,
       "supportedSeries": ["The Legend of Zelda", "Super Smash Bros."],
       "notes": "",
-      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/hyrule-warriors-age-of-imprisonment-ce6a06949d4996bf83f1af606b3845b485ff2dce1fe23daf97ad3a91a5388088.png"
+      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/hyrule-warriors-age-of-imprisonment-ce6a06949d4996bf83f1af606b3845b485ff2dce1fe23daf97ad3a91a5388088.png",
+      "imageURLs": [
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_01.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_02.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_03.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_04.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_05.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_06.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_07.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_08.png",      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_01.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_09.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_10.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_11.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_12.png",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/hyrulewarriorsageofimprisonment/nswitch2_hyrulewarriorsageofimpr/HyruleWarriorsAoI_13.png"
+      ]
     },
     {
       "id": "switch2_kirby_air_riders",
