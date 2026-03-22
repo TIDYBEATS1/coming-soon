@@ -71,7 +71,15 @@
       "played": false,
       "supportedSeries": ["Pragmata"],
       "notes": "",
-      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/pragmata-82f7d34c086b83094aa5b9e12d5d5697a57a32882b348990377b796d3d016263.png"
+      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/pragmata-82f7d34c086b83094aa5b9e12d5d5697a57a32882b348990377b796d3d016263.png",
+      "imageURLs": [
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pragmata/nswitch2_pragmata/Pragmata_01.jpg",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pragmata/nswitch2_pragmata/Pragmata_02.jpg",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pragmata/nswitch2_pragmata/Pragmata_03.jpg",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pragmata/nswitch2_pragmata/Pragmata_04.jpg",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pragmata/nswitch2_pragmata/Pragmata_05.jpg",
+      "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pragmata/nswitch2_pragmata/Pragmata_06.jpg"
+        ]
     },
     {
       "id": "switch2_street_fighter_6",
