@@ -11,6 +11,17 @@
     "ageRatings": ["PEGI 7"]
   },
   {
+    "_id": "switch2_rer",
+    "name": "Resident Evil Requiem",
+    "image": "",
+    "developer": "",
+    "publisher": "CAPCOM",
+    "genre": "Action, Adventure",
+    "platform": "Nintendo Switch 2",
+    "description": "",
+    "ageRatings": ["PEGI 18"]
+  },
+  {
     "_id": "switch2_pragmata",
     "name": "Pragmata",
     "image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pragmata/16x9_Pragmata_image1600w.jpg",
