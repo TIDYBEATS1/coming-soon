@@ -11,6 +11,17 @@
     "ageRatings": []
   },
   {
+    "_id": "switch2_donkey_kong_bananza",
+    "name": "Pragmata",
+    "image": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/pragmata/16x9_Pragmata_image1600w.jpg",
+    "developer": "",
+    "publisher": "CAPCOM",
+    "genre": "Action, Adventure",
+    "platform": "Nintendo Switch 2",
+    "description": "An all-new Science Fiction action adventure with its own unique hacking twist! It is the near future, and protagonists Hugh and his android companion Diana, must work together as they make their way through the cold lunar research station.",
+    "ageRatings": ["PEGI 16"]
+  },
+  {
     "_id": "switch2_hqaoi",
     "name": "Hyrule Warriors: Age of Imprisonment",
     "image": "https://media.rawg.io/media/games/480/4801940e86df11f8aa92b3c988fe92fc.jpg",
