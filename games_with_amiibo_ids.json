@@ -1167,7 +1167,8 @@
         "0x018f000100b30502",
         "0x04b9000101600502",
         "0x04d10001009e0502",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -1765,7 +1766,8 @@
         "0x018f000100b30502",
         "0x04b9000101600502",
         "0x04d10001009e0502",
-        "0x0000"
+        "0x0000",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -2901,7 +2903,8 @@
         "0x05c50000043c1302",
         "0x0000",
         "Coming Soon ",
-        "Coming Soon"
+        "Coming Soon",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -3575,7 +3578,8 @@
         "0x04d10001009e0502",
         "0x1f01000004c61e03",
         "0x05c50000043c1302",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -4097,7 +4101,8 @@
         "0x0000000002380602",
         "0x01010000000e0002",
         "0x05c0000003651302",
-        "0x07420000001f0002"
+        "0x07420000001f0002",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -4933,7 +4938,8 @@
         "0x000a000000380102",
         "0x0194000103b60502",
         "0x0183030103be0502",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -5630,7 +5636,8 @@
         "0x018d0000024c0502",
         "0x000a000000380102",
         "0x3f000000042e0002",
-        "0x1f01000004c61e03"
+        "0x1f01000004c61e03",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -5640,6 +5647,19 @@
       ],
       "console" : "switch",
       "gameName" : "Super Smash Bros. Ultimate"
+    },
+    {
+      "amiiboIDs" : [
+        "ComingSoon"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Boost power of the Mario Mii suit for the day",
+          "write" : false
+        }
+      ],
+      "console" : "3ds",
+      "gameName" : "Mario & Sonic at the Rio 2016 Olympic Games"
     },
     {
       "amiiboIDs" : [
@@ -5782,7 +5802,8 @@
         "0x05c0000003651302",
         "0x22800000002c0002",
         "0x07420000001f0002",
-        "0x0008000002640102"
+        "0x0008000002640102",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -5792,6 +5813,19 @@
       ],
       "console" : "3ds",
       "gameName" : "Super Smash Bros. for Nintendo 3DS"
+    },
+    {
+      "amiiboIDs" : [
+       "ComingSoon"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Play the Mario League, for a chance to unlock the Mario Mii costume",
+          "write" : false
+        }
+      ],
+      "console" : "wiiu",
+      "gameName" : "Mario & Sonic at the Rio 2016 Olympic Games"
     },
     {
       "amiiboIDs" : [
@@ -6013,7 +6047,8 @@
         "0x05c0000003651302",
         "0x22800000002c0002",
         "0x07420000001f0002",
-        "0x0008000002640102"
+        "0x0008000002640102",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -6139,7 +6174,8 @@
         "0x07420000001f0002",
         "0x0008000002640102",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -6247,7 +6283,8 @@
         "0x22800000002c0002",
         "0x07420000001f0002",
         "0x0008000002640102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -6548,7 +6585,8 @@
         "0x22800000002c0002",
         "0x0008000002640102",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -6692,7 +6730,8 @@
         "0x0008000002640102",
         "0x018d0000024c0502",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -6943,7 +6982,8 @@
         "0x0008000002640102",
         "0x000800030431ff02",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -7823,7 +7863,8 @@
         "0x0003010200410302",
         "0x00030003039fff02",
         "0x00000000003d0102",
-        "0x0000000002380602"
+        "0x0000000002380602",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -7892,7 +7933,8 @@
         "0x0008000002640102",
         "0x000800030431ff02",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -7999,7 +8041,8 @@
         "0x00000000003d0102",
         "0x0000000002380602",
         "0x0008000002640102",
-        "0x000800030431ff02"
+        "0x000800030431ff02",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8050,7 +8093,8 @@
         "0x00000000003d0102",
         "0x0000000002380602",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8078,7 +8122,8 @@
         "0x00000000003d0102",
         "0x0000000002380602",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8115,7 +8160,8 @@
         "0x00000000003d0102",
         "0x0000000002380602",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8162,7 +8208,8 @@
         "0x00000000003d0102",
         "0x0000000002380602",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8219,7 +8266,8 @@
         "0x0000000002380602",
         "0x0008000002640102",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8278,7 +8326,8 @@
         "0x0000000002380602",
         "0x0008000002640102",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8337,7 +8386,8 @@
         "0x00000000003d0102",
         "0x0000000002380602",
         "0x05c0000003651302",
-        "0x0008000002640102"
+        "0x0008000002640102",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8399,7 +8449,8 @@
         "0x00000000003d0102",
         "0x0000000002380602",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8625,7 +8676,8 @@
         "0x0005000000390102",
         "0x00000000003d0102",
         "0x0000000002380602",
-        "0x05c0000003651302"
+        "0x05c0000003651302",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8669,7 +8721,8 @@
         "0x0005000000390102",
         "0x00000000003d0102",
         "0x0000000002380602",
-        "0x05c0000003651302"
+        "0x05c0000003651302",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8720,7 +8773,9 @@
         "0x0000000002380602",
         "0x0008000002640102",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
+
       ],
       "amiiboUsage" : [
         {
@@ -8770,7 +8825,8 @@
         "0x0000000002380602",
         "0x0008000002640102",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8821,7 +8877,8 @@
         "0x0000000002380602",
         "0x0008000002640102",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8872,7 +8929,8 @@
         "0x0000000002380602",
         "0x0008000002640102",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -8990,7 +9048,8 @@
         "0x00000000003d0102",
         "0x0000000002380602",
         "0x000a000000380102",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -9041,7 +9100,8 @@
         "0x05c00000043b1302",
         "0x05c00000043a1302",
         "0x34c0000104cb1d02",
-        "Coming Soon "
+        "Coming Soon ",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -9055,7 +9115,8 @@
     {
       "amiiboIDs" : [
         "0x05c00000043b1302",
-        "0x05c00000043a1302"
+        "0x05c00000043a1302",
+        "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -9591,7 +9652,7 @@
       "amiiboIDs" : [
        "Coming Soon ",
        "Coming Soon",
-       ""
+       "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -9606,7 +9667,7 @@
       "amiiboIDs" : [
        "Coming Soon ",
        "Coming Soon",
-       ""
+       "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -9620,8 +9681,7 @@
     {
       "amiiboIDs" : [
        "Coming Soon ",
-       "",
-       ""
+       "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -9635,8 +9695,7 @@
     {
       "amiiboIDs" : [
        "Coming Soon ",
-       "",
-       ""
+       "ComingSoon"
       ],
       "amiiboUsage" : [
         {
@@ -9650,8 +9709,7 @@
     {
       "amiiboIDs" : [
        "Coming Soon ",
-       "",
-       ""
+       "ComingSoon"
       ],
       "amiiboUsage" : [
         {
