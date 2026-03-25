@@ -9558,6 +9558,81 @@
       ],
       "console" : "Switch 2",
       "gameName" : "Monster Hunter Stories 3: Twisted Reflection"
+    },
+    {
+      "amiiboIDs" : [
+       "",
+       "",
+       ""
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Change decoration in hub world",
+          "write" : false
+        }
+      ],
+      "console" : "Switch",
+      "gameName" : "Super Mario Bros. Wonder"
+    },
+    {
+      "amiiboIDs" : [
+       "",
+       "",
+       ""
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Receive a power-up",
+          "write" : false
+        }
+      ],
+      "console" : "Switch",
+      "gameName" : "Super Mario Bros. Wonder"
+    },
+    {
+      "amiiboIDs" : [
+       "",
+       "",
+       ""
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Use a tennis ball design based on the character (cosmetic only)",
+          "write" : false
+        }
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Mario Tennis Fever"
+    },
+    {
+      "amiiboIDs" : [
+       "",
+       "",
+       ""
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Receive a helpful item depending on the character",
+          "write" : false
+        }
+      ],
+      "console" : "Switch",
+      "gameName" : "Super Mario Galaxy"
+    },
+    {
+      "amiiboIDs" : [
+       "",
+       "",
+       ""
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Receive a helpful item depending on the character",
+          "write" : false
+        }
+      ],
+      "console" : "Switch",
+      "gameName" : "Super Mario Galaxy 2"
     }
   ]
 }
