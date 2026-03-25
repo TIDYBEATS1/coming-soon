@@ -6,13 +6,6 @@
     "releaseDate": "02-04-2026",
     "region": "ALL"
   },
-   {
-    "id": "00000007",
-    "name": "Invincible Power-Up Band",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/super-nintendo-world/invincible-power-up-band-cb85da95972b82131669aca187f1720ae20e5ceff1d8d7cfd211a5a50579f4fd.png",
-    "releaseDate": "18-03-2026",
-    "region": "JP"
-  },
   {
     "id": "00000008",
     "name": "Rosalina and Lumas",
@@ -59,8 +52,8 @@
     "id": "E55A32E5",
     "name": "Diana",
     "imageURL": "https://amiibo.life/assets/figures/amiibo/pragmata/diana-873aee66935d633b907eb377730d6b9645750912029de2c3c0fe4c188e118754.png",
-    "releaseDate": "26-04-2026",
-    "region": "JP - USA"
+    "releaseDate": "17/04/2026",
+    "region": "All"
   },
   {
     "id": "A521D5A0",
@@ -75,26 +68,5 @@
     "imageURL": "https://amiibo.life/assets/figures/amiibo/resident-evil/leon-s-kennedy-a63139a29058f4fba9bf3e813b16bede091e5ca8ab3aba236e8ffeff92c5b0e8.png",
     "releaseDate": "Summer 2026",
     "region": "JP - USA"
-  },
-  {
-    "id": "A521D532",
-    "name": "Elephant Mario",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/elephant-mario-9e586b2b7b77fe7b6b6f18c98efa59197d14f2d2fe29a06b04b95c4b47fd54d6.png",
-    "releaseDate": "26-03-2026",
-    "region": "ALL"
-  },
-  {
-    "id": "A521D262",
-    "name": "Poplin & Prince Florian",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/poplin-prince-florian-53dd23609d5345a4b1b5eb2959554490489c3c86e9e7c8dd68a8dd933e48280a.png",
-    "releaseDate": "26-03-2026",
-    "region": "ALL"
-  },
-  {
-    "id": "A521D272",
-    "name": "Captain Toad & Talking Flower",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/super-mario/captain-toad-talking-flower-30defe54064952a5546e7a20b900dcc20a3571ae79beceb3753cd97eab01c848.png",
-    "releaseDate": "26-03-2026",
-    "region": "ALL"
   }
 ]
