@@ -15710,8 +15710,8 @@
       "amiiboSeries" : "Super Mario series",
       "character" : "Poplin & Prince Florian",
       "gameSeries" : "Super Mario Bros. Wonder",
-      "head" : "Coming ",
-      "id" : "Coming Soon",
+      "head" : "00250100",
+      "id" : "0025010004c30102",
       "image" : "https://amiibo.life/assets/figures/amiibo/super-mario/poplin-prince-florian-53dd23609d5345a4b1b5eb2959554490489c3c86e9e7c8dd68a8dd933e48280a.png",
       "name" : "Poplin & Prince Florian",
       "release" : {
@@ -15720,7 +15720,7 @@
         "jp" : "2026-03-25",
         "na" : "2026-03-25"
       },
-      "tail" : "Soon",
+      "tail" : "04c30102",
       "type" : "Figure"
     },
     {
