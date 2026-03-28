@@ -15693,8 +15693,8 @@
       "amiiboSeries" : "Super Mario series",
       "character" : "Elephant Mario",
       "gameSeries" : "Super Mario Bros. Wonder",
-      "head" : "Coming",
-      "id" : "ComingSoon",
+      "head" : "00000400",
+      "id" : "0000040004c10102",
       "image" : "https://amiibo.life/assets/figures/amiibo/super-mario/elephant-mario-9e586b2b7b77fe7b6b6f18c98efa59197d14f2d2fe29a06b04b95c4b47fd54d6.png",
       "name" : "Elephant Mario",
       "release" : {
@@ -15703,7 +15703,7 @@
         "jp" : "2026-03-25",
         "na" : "2026-03-25"
       },
-      "tail" : "Soon",
+      "tail" : "04c10102",
       "type" : "Figure"
     },
     {
