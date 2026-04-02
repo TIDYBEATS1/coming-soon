@@ -15739,6 +15739,40 @@
       },
       "tail" : "04c20102",
       "type" : "Figure"
+    },
+    {
+      "amiiboSeries" : "Super Mario series",
+      "character" : "Mario and Luma",
+      "gameSeries" : "Super Mario series",
+      "head" : "Coming ",
+      "id" : "Coming Soon",
+      "image" : "https://amiibo.life/assets/figures/amiibo/super-mario/mario-and-luma-98e30f15d7fd28e9487b05797123abd22215abcb578d6c8f129241f9a6acd7e9.png",
+      "name" : "Mario and Luma",
+      "release" : {
+        "au" : "2026-04-02",
+        "eu" : "2026-04-02",
+        "jp" : "2026-04-02",
+        "na" : "2026-04-02"
+      },
+      "tail" : "Soon",
+      "type" : "Figure"
+    },
+    {
+      "amiiboSeries" : "Super Mario series",
+      "character" : "Rosalina and Lumas",
+      "gameSeries" : "Super Mario series",
+      "head" : "Coming  ",
+      "id" : "Coming  Soon",
+      "image" : "https://amiibo.life/assets/figures/amiibo/super-mario/rosalina-and-lumas-f51a3258399488c3b6b6fc665d76a5c396c3d4f083dca24b8c5a6f5473bf0b65.png",
+      "name" : "Rosalina and Lumas",
+      "release" : {
+        "au" : "2026-04-02",
+        "eu" : "2026-04-02",
+        "jp" : "2026-04-02",
+        "na" : "2026-04-02"
+      },
+      "tail" : "Soon",
+      "type" : "Figure"
     }
   ]
 }
