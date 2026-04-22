@@ -9812,6 +9812,19 @@
       ],
       "console" : "Switch",
       "gameName" : "Super Mario Galaxy 2"
+    },
+    {
+      "amiiboIDs" : [
+      "Coming Soon"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Receive weapons and supplies",
+          "write" : false
+        }
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Pragmata"
     }
   ]
 }
