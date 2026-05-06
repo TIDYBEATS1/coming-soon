@@ -1,10 +1,10 @@
 [
   {
-    "id": "switch2_Pragmata",
-    "title": "Pragmata",
+    "id": "switch2_SR",
+    "title": "Splatoon Raiders",
     "platform": "Switch 2",
-    "supportedAmiibo": ["Pragmata series"],
-    "releaseDate": "17/04/2026",
-    "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/pragmata-82f7d34c086b83094aa5b9e12d5d5697a57a32882b348990377b796d3d016263.png"
+    "supportedAmiibo": ["Splatoon series"],
+    "releaseDate": "23/07/2026",
+    "imageURL": "https://assets.nintendo.eu/image/private/f_auto,c_limit,w_488,q_auto:eco:sensitive/hzrq95prylnrtztj1oak"
   }
 ]
