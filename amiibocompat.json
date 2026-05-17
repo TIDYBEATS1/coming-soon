@@ -85,6 +85,26 @@
       "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/kirby-air-riders-06eb8f0cc77ebfc7c6807ec7e24e4316baf6e7171f3e37e595726ebbc87043c2.png"
     },
     {
+      "id": "switch2_yoshi",
+      "title": "Yoshi and the Mysterious Book",
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": "",
+      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/yoshi-and-the-mysterious-book-d89d3d258c931866f5ba5119b55cc783ff6e5bc9375124d3a81a481239a720b2.png"
+    },
+    {
+      "id": "switch2_sf",
+      "title": "Star Fox",
+      "platform": "Nintendo Switch 2",
+      "owned": false,
+      "played": false,
+      "supportedSeries": [],
+      "notes": "",
+      "imageURL": "https://amiibo.life/assets/games/eshop_icons/switch-2/star-fox-9c8ba159b396668704c0a7285b29e0857d37c63090e0eb5547df82eae12236db.png"
+    },
+    {
       "id": "switch2_mario_tennis_fever",
       "title": "Mario Tennis Fever",
       "platform": "Nintendo Switch 2",
