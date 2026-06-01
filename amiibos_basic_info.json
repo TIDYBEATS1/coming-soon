@@ -15728,7 +15728,7 @@
       "character" : "Captain Toad & Talking Flower",
       "gameSeries" : "Super Mario Bros. Wonder",
       "head" : "000a0100",
-      "id" : "000a010004c20102",
+      "id" : "0x00a010004c20102",
       "image" : "https://amiibo.life/assets/figures/amiibo/super-mario/captain-toad-talking-flower-30defe54064952a5546e7a20b900dcc20a3571ae79beceb3753cd97eab01c848.png",
       "name" : "Captain Toad & Talking Flower",
       "release" : {
@@ -15745,7 +15745,7 @@
       "character" : "Mario and Luma",
       "gameSeries" : "Super Mario series",
       "head" : "00000500",
-      "id" : "0000050004e90102",
+      "id" : "0x0000050004e90102",
       "image" : "https://amiibo.life/assets/figures/amiibo/super-mario/mario-and-luma-98e30f15d7fd28e9487b05797123abd22215abcb578d6c8f129241f9a6acd7e9.png",
       "name" : "Mario and Luma",
       "release" : {
@@ -15762,7 +15762,7 @@
       "character" : "Rosalina and Lumas",
       "gameSeries" : "Super Mario series",
       "head" : "00040100",
-      "id" : "0004010004ea0102",
+      "id" : "0x0004010004ea0102",
       "image" : "https://amiibo.life/assets/figures/amiibo/super-mario/rosalina-and-lumas-f51a3258399488c3b6b6fc665d76a5c396c3d4f083dca24b8c5a6f5473bf0b65.png",
       "name" : "Rosalina and Lumas",
       "release" : {
@@ -15779,7 +15779,7 @@
       "character" : "Diana",
       "gameSeries" : "Pragmata series",
       "head" : "35800000",
-      "id" : "3580000005062102",
+      "id" : "0x3580000005062102",
       "image" : "https://amiibo.life/assets/figures/amiibo/pragmata/diana-873aee66935d633b907eb377730d6b9645750912029de2c3c0fe4c188e118754.png",
       "name" : "Diana",
       "release" : {
