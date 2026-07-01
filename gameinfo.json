@@ -12,6 +12,18 @@
     "ageRatings": ["PEGI 7"]
   },
   {
+    "_id": "switch2_PP",
+    "name": "Power Pros 2026-2027",
+    "image": "https://amiibo.life/assets/games/eshop_icons/switch/power-pros-2026-2027-e85ba68563619579ea34f61556d42bff78bdc182aad273d7e673a41e905a36db.png",
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "youtubeID": "",
+    "genre": "",
+    "platform": "Nintendo Switch 2",
+    "description": "",
+    "ageRatings": [""]
+  },
+  {
     "_id": "switch2_Yoshimb",
     "name": "Yoshi and the Mysterious Book"",
     "image": "https://amiibo.life/assets/games/eshop_icons/switch-2/yoshi-and-the-mysterious-book-d89d3d258c931866f5ba5119b55cc783ff6e5bc9375124d3a81a481239a720b2.png",
