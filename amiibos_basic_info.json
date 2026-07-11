@@ -15789,6 +15789,23 @@
       },
       "tail" : "05062102",
       "type" : "Figure"
+    },
+        {
+      "amiiboSeries" : "Kirby Air Riders series",
+      "character" : "King Dedede (& Tank Star)",
+      "gameSeries" : "Kirby Air Riders series",
+      "head" : "1f020000",
+      "id" : "0x1f02000004c71e03",
+      "image" : "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/king-dedede-tank-star-ffea92319c97dca3a24f3a69f9d906fa7c3930ac9681dff13f4908ab2319e9bf.png",
+      "name" : "King Dedede (& Tank Star)",
+      "release" :{
+				"au": "2026-07-02",
+				"na": "2026-07-02",
+				"eu": "2026-07-02",
+				"jp": "2026-07-02"
+			},
+      "tail" : "04c71e03",
+      "type" : "Figure"
     }
   ]
 }
