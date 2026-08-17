@@ -26,40 +26,5 @@
     "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/chef-kawasaki-hop-star-89516333feadf413d40c8d0c575e73a78128c9cbce393fa216e101e53342ce56.png",
     "releaseDate": "03/09/2026",
     "region": "ALL"
-  },
-  {
-    "id": "A521D5A0",
-    "name": "Grace Ashcroft",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/resident-evil/grace-ashcroft-0c9c3a59c3b6edeedee428b5870459f3a3c9fc2731a77fa102df7380dd167408.png",
-    "releaseDate": "30/07/2026",
-    "region": "JP - USA"
-  },
-  {
-    "id": "A521D5A1",
-    "name": "Leon S. Kennedy",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/resident-evil/leon-s-kennedy-a63139a29058f4fba9bf3e813b16bede091e5ca8ab3aba236e8ffeff92c5b0e8.png",
-    "releaseDate": "30/07/2026",
-    "region": "JP - USA"
-  },
-  {
-    "id": "A521D5A2",
-    "name": "Shiver (Splatoon Raiders)",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/splatoon/shiver-splatoon-raiders-6f6fefeb7ae406dd98e74b57673e7e0308901c8073a5ebb115d65d010f351367.png",
-    "releaseDate": "23/07/2026",
-    "region": "ALL"
-  },
-  {
-    "id": "A521D5A3",
-    "name": "Frye (Splatoon Raiders)",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/splatoon/frye-splatoon-raiders-5ba1f6b4e7fce4f6e88334a6c66ffd2a09196b95fd377352b609b65c66ee46e5.png",
-    "releaseDate": "23/07/2026",
-    "region": "ALL"
-  },
-  {
-    "id": "A521D5A4",
-    "name": "Big Man (Splatoon Raiders)",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/splatoon/big-man-splatoon-raiders-b1340eafa13037d6dd9635a7cf9773d07ac273dcd15bcbe9f306d9698984c81c.png",
-    "releaseDate": "23/07/2026",
-    "region": "ALL"
   }
 ]
