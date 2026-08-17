@@ -15790,7 +15790,55 @@
       "tail" : "05062102",
       "type" : "Figure"
     },
-        {
+	{
+      "amiiboSeries" : "Splatoon Raiders series",
+      "character" : "Shiver (Splatoon Raiders)",
+      "gameSeries" : "Splatoon Raiders series",
+      "head" : "08070000",
+      "id" : "0x0807000004f70402",
+      "image" : "https://amiibo.life/assets/figures/amiibo/splatoon/shiver-splatoon-raiders-6f6fefeb7ae406dd98e74b57673e7e0308901c8073a5ebb115d65d010f351367.png",
+      "name" : "Shiver",
+      "release" : {
+        "au" : "2026-07-23",
+        "eu" : "2026-07-23",
+        "jp" : "2026-07-23"
+      },
+      "tail" : "04f70402",
+      "type" : "Figure"
+    },
+	{
+      "amiiboSeries" : "Splatoon Raiders series",
+      "character" : "Frye (Splatoon Raiders)",
+      "gameSeries" : "Splatoon Raiders series",
+      "head" : "08080000",
+      "id" : "0x0808000004f80402",
+      "image" : "https://amiibo.life/assets/figures/amiibo/splatoon/frye-splatoon-raiders-5ba1f6b4e7fce4f6e88334a6c66ffd2a09196b95fd377352b609b65c66ee46e5.png",
+      "name" : "Frye",
+      "release" : {
+        "au" : "2026-07-23",
+        "eu" : "2026-07-23",
+        "jp" : "2026-07-23"
+      },
+      "tail" : "04f80402",
+      "type" : "Figure"
+    },
+	{
+      "amiiboSeries" : "Splatoon Raiders series",
+      "character" : "Big Man (Splatoon Raiders)",
+      "gameSeries" : "Splatoon Raiders series",
+      "head" : "08090000",
+      "id" : "0x0809000004f90402",
+      "image" : "https://amiibo.life/assets/figures/amiibo/splatoon/big-man-splatoon-raiders-b1340eafa13037d6dd9635a7cf9773d07ac273dcd15bcbe9f306d9698984c81c.png",
+      "name" : "Big Man",
+      "release" : {
+        "au" : "2026-07-23",
+        "eu" : "2026-07-23",
+        "jp" : "2026-07-23"
+      },
+      "tail" : "04f90402",
+      "type" : "Figure"
+    },
+	{
       "amiiboSeries" : "Kirby Air Riders series",
       "character" : "King Dedede (& Tank Star)",
       "gameSeries" : "Kirby Air Riders series",
