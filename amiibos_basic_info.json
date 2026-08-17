@@ -15839,6 +15839,38 @@
       "type" : "Figure"
     },
 	{
+      "amiiboSeries" : "Resident Evil series",
+      "character" : "Grace Ashcroft",
+      "gameSeries" : "Resident Evil series",
+      "head" : "35400000",
+      "id" : "0x3540000005032002",
+      "image" : "https://amiibo.life/assets/figures/amiibo/resident-evil/grace-ashcroft-0c9c3a59c3b6edeedee428b5870459f3a3c9fc2731a77fa102df7380dd167408.png",
+      "name" : "Grace Ashcroft",
+      "release" : {
+        "au" : "2026-07-30",
+        "eu" : "2026-07-30",
+        "jp" : "2026-07-30"
+      },
+      "tail" : "05032002",
+      "type" : "Figure"
+    },
+	{
+      "amiiboSeries" : "Resident Evil series",
+      "character" : "Leon S. Kennedy",
+      "gameSeries" : "Resident Evil series",
+      "head" : "35410000",
+      "id" : "0x3541000005042002",
+      "image" : "https://amiibo.life/assets/figures/amiibo/resident-evil/leon-s-kennedy-a63139a29058f4fba9bf3e813b16bede091e5ca8ab3aba236e8ffeff92c5b0e8.png",
+      "name" : "Leon S. Kennedy",
+      "release" : {
+        "au" : "2026-07-30",
+        "eu" : "2026-07-30",
+        "jp" : "2026-07-30"
+      },
+      "tail" : "05042002",
+      "type" : "Figure"
+    },
+	{
       "amiiboSeries" : "Kirby Air Riders series",
       "character" : "King Dedede (& Tank Star)",
       "gameSeries" : "Kirby Air Riders series",
