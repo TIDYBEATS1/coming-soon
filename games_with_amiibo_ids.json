@@ -2909,7 +2909,10 @@
         "0x0000040004c10102",
         "0x000a010004c20102",
         "0x0000050004e90102",
-        "0x0004010004ea0102"
+        "0x0004010004ea0102",
+        "0x0807000004f70402",
+        "0x0808000004f80402",
+        "0x0809000004f90402"
       ],
       "amiiboUsage" : [
         {
@@ -3588,7 +3591,12 @@
         "SameAsMario",
         "0x0000050004e90102",
         "0x0004010004ea0102",
-        "0x1f02000004c71e03"
+        "0x1f02000004c71e03",
+        "0x0807000004f70402",
+        "0x0808000004f80402",
+        "0x0809000004f90402",
+        "0x0808000004f80402",
+        "0x0809000004f90402"
       ],
       "amiiboUsage" : [
         {
@@ -7301,7 +7309,10 @@
         "0x08000200036a0402",
         "0x0804000003770402",
         "0x0804000004390402",
-        "0x0805030003900402"
+        "0x0805030003900402",
+        "0x0807000004f70402",
+        "0x0808000004f80402",
+        "0x0809000004f90402"
       ],
       "amiiboUsage" : [
         {
@@ -9818,6 +9829,78 @@
       ],
       "console" : "Switch",
       "gameName" : "Super Mario Galaxy 2"
+    },
+    {
+      "amiiboIDs" : [
+        "0x0807000004f70402",
+        "0x0808000004f80402",
+        "0x0809000004f90402"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Receive special clothing",
+          "write" : false
+        }
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Splatoon Riders"
+    },
+    {
+      "amiiboIDs" : [
+        "0x0807000004f70402",
+        "0x0808000004f80402",
+        "0x0809000004f90402"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Unlock a Splatoon pattern",
+          "write" : false
+        }
+      ],
+      "console" : "3ds",
+      "gameName" : "Style Savvy: Styling Star"
+    },
+    {
+      "amiiboIDs" : [
+        "0x0807000004f70402",
+        "0x0809000004f90402"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Invite amiibo-exclusive villager Cece / Unlock Splatoon-themed items in shopping catalog",
+          "write" : false
+        }
+      ],
+      "console" : "Switch",
+      "gameName" : "Animal Crossing: New Horizons"
+    },
+    {
+      "amiiboIDs" : [
+        "0x0808000004f80402",
+        "0x0809000004f90402"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Invite amiibo-exclusive villager Viché / Unlock Splatoon-themed items in shopping catalog",
+          "write" : false
+        }
+      ],
+      "console" : "Switch",
+      "gameName" : "Animal Crossing: New Horizons"
+    },
+    {
+      "amiiboIDs" : [
+        "0x3540000005032002",
+        "0x3541000005042002"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Unlock cosmetic skins for your in-game weapons",
+          "write" : false
+        }
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Resident Evil Requiem"
     },
     {
       "amiiboIDs" : [
