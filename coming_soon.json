@@ -10,21 +10,63 @@
     "id": "BFD06F20",
     "name": "Noir Dedede & Hydra",
     "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/noir-dedede-hydra-d20233f1e41d52b256aa5e3922b096b708b5e26f9c1eb52197d648e59464cc03.png",
-    "releaseDate": "TBA",
+    "releaseDate": "12/11/2026",
     "region": "ALL"
   },
   {
     "id": "D46319CB",
     "name": "Sword Kirby & Dragoon",
     "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/sword-kirby-dragoon-30d529c51a1a626e169665898cf6b8c135337f918857e8378c7374b2f4bc0fed.png",
-    "releaseDate": "TBA",
+    "releaseDate": "12/11/2026",
     "region": "ALL"
   },
   {
     "id": "D406E302",
-    "name": "Chef Kawasaki & Hop Star",
-    "imageURL": "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/chef-kawasaki-hop-star-89516333feadf413d40c8d0c575e73a78128c9cbce393fa216e101e53342ce56.png",
-    "releaseDate": "03/09/2026",
+    "name": "Samus (Metroid Ravenous)",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/metroid/samus-metroid-ravenous-694c7f95790814289f7973d09acd3187bec0d5bbfc39fce7d0c8db71a24bbb9a.png",
+    "releaseDate": "28/01/2027",
+    "region": "ALL"
+  },
+  {
+    "id": "D406E303",
+    "name": "Samus - Metroid Suit (Metroid Ravenous)",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/metroid/samus-metroid-suit-metroid-ravenous-9de30804c552310acf4d94f49001f4eaddda077c37fb944ad754991db368fbaa.png",
+    "releaseDate": "28/01/2027",
+    "region": "ALL"
+  },
+  {
+    "id": "D406E304",
+    "name": "Chozo Statue (Metroid Ravenous)",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/metroid/chozo-statue-metroid-ravenous-ce452f31cdaff48c4745014935e68b8a67d2869e66da7f7a668d876efdc3f8fd.png",
+    "releaseDate": "28/01/2027",
+    "region": "ALL"
+   },
+   {
+    "id": "D406E305",
+    "name": "Young Link - Ocarina of Time",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/young-link-ocarina-of-time-e51ef894ed0cb9f4d699696ecac5bd65e367fc704bf603f89275b5281ef5a08f.png",
+    "releaseDate": "2027",
+    "region": "ALL"
+   },
+   {
+    "id": "D406E306",
+    "name": "Young Zelda - Ocarina of Time",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/young-zelda-ocarina-of-time-d36d9e0f540926617f2cb1508817efacf232e3f6ecf40206c3a932ab90c355df.png",
+    "releaseDate": "2027",
+    "region": "ALL"
+   },
+   {
+    "id": "D406E307",
+    "name": "Mega Man (Mega Man: Dual Override)",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/mega-man/mega-man-mega-man-dual-override-64deb5c8ce4003e981f080e81932cc0a9672e7fc8d8383dc89ac022e96502d93.png",
+    "releaseDate": "2027",
+    "region": "ALL"
+   },
+   {
+    "id": "D406E308",
+    "name": "Proto Man (Mega Man: Dual Override)",
+    "imageURL": "https://amiibo.life/assets/figures/amiibo/mega-man/proto-man-mega-man-dual-override-e19cf5b1dfb94493796be835efa83d2db252b0265bd06528285f009be176ffce.png",
+    "releaseDate": "2027",
     "region": "ALL"
   }
 ]
