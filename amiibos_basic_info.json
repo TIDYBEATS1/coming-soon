@@ -15886,6 +15886,23 @@
 			},
       "tail" : "04c71e03",
       "type" : "Figure"
+    },
+	{
+      "amiiboSeries" : "Kirby Air Riders series",
+      "character" : "Chef Kawasaki (& Hop Star)",
+      "gameSeries" : "Kirby Air Riders series",
+      "head" : "1f040000",
+      "id" : "0x1f04000004ca1e03",
+      "image" : "https://amiibo.life/assets/figures/amiibo/kirby-air-riders/chef-kawasaki-hop-star-89516333feadf413d40c8d0c575e73a78128c9cbce393fa216e101e53342ce56.png",
+      "name" : "Chef Kawasaki (& Hop Star)",
+      "release" :{
+				"au": "2026-09-03",
+				"na": "2026-09-03",
+				"eu": "2026-09-03",
+				"jp": "2026-09-03"
+			},
+      "tail" : "04ca1e03",
+      "type" : "Figure"
     }
   ]
 }
