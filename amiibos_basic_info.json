@@ -15790,6 +15790,23 @@
       "tail" : "05062102",
       "type" : "Figure"
     },
+    {
+      "amiiboSeries" : "The Legend of Zelda series",
+      "character" : "Mineru's Construct",
+      "gameSeries" : "The Legend of Zelda series",
+      "head" : "010d0000",
+      "id" : "0x010d000004a70902",
+      "image" : "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/mineru-s-construct-d4c6fffb.png",
+      "name" : "Mineru's Construct",
+      "release" : {
+        "au" : "2026-09-17",
+        "eu" : "2026-09-17",
+        "jp" : "2026-09-17",
+		"na" : "2026-09-17"
+      },
+      "tail" : "04a70902",
+      "type" : "Figure"
+    },
 	{
       "amiiboSeries" : "Splatoon Raiders series",
       "character" : "Shiver (Splatoon Raiders)",
