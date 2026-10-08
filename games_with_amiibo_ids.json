@@ -9891,6 +9891,84 @@
     },
     {
       "amiiboIDs" : [
+        "0x010d000004a70902"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Invite amiibo-exclusive villager Mineru / Unlock Legend of Zelda-themed items in shopping catalog",
+          "write" : false
+        }
+      ],
+      "console" : "Switch 2",
+      "gameName" : "Animal Crossing: New Horizons – Nintendo Switch 2 Edition"
+    },
+    {
+      "amiiboIDs" : [
+        "0x010d000004a70902"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Invite amiibo-exclusive villager Mineru / Unlock Legend of Zelda-themed items in shopping catalog",
+          "write" : false
+        }
+      ],
+      "console" : "Switch",
+      "gameName" : "Animal Crossing: New Horizons"
+    },
+    {
+      "amiiboIDs" : [
+        "0x010d000004a70902"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Receive materials and a weapon or rare item",
+          "write" : false
+        }
+      ],
+      "console" : "Switch 2",
+      "gameName" : "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition"
+    },
+    {
+      "amiiboIDs" : [
+        "0x010d000004a70902"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Unlock an amiibo-exclusive character-specific paraglider fabric",
+          "write" : false
+        }
+      ],
+      "console" : "Switch 2",
+      "gameName" : "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition"
+    },
+    {
+      "amiiboIDs" : [
+        "0x010d000004a70902"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Receive materials and a weapon or rare item",
+          "write" : false
+        }
+      ],
+      "console" : "Switch",
+      "gameName" : "The Legend of Zelda: Tears of the Kingdom "
+    },
+    {
+      "amiiboIDs" : [
+        "0x010d000004a70902"
+      ],
+      "amiiboUsage" : [
+        {
+          "Usage" : "Unlock an amiibo-exclusive character-specific paraglider fabric",
+          "write" : false
+        }
+      ],
+      "console" : "Switch",
+      "gameName" : "The Legend of Zelda: Tears of the Kingdom"
+    },
+    {
+      "amiiboIDs" : [
         "0x3540000005032002",
         "0x3541000005042002"
       ],
